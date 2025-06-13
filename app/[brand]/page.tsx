@@ -25,8 +25,9 @@ interface BrandPageProps {
   }
 }
 
-export default function BrandPage({ params }: BrandPageProps) {
-  const brandData = getBrandData(params.brand)
+export default async function BrandPage({ params }: BrandPageProps) {
+  const resolvedParams = await params;
+  const brandData = getBrandData(resolvedParams.brand)
 
   if (!brandData) {
     notFound()
@@ -53,7 +54,7 @@ export default function BrandPage({ params }: BrandPageProps) {
           {brandData.models.map((model, index) => (
             <div key={model.slug} className="slide-up" style={{ animationDelay: `${index * 0.1}s` }}>
               <ModelCard
-                brand={params.brand}
+                brand={resolvedParams.brand}
                 model={model.model}
                 slug={model.slug}
                 repairCount={model.repairCount}

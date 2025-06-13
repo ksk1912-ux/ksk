@@ -61,7 +61,7 @@ export default function ServiceCard({ service }: ServiceCardProps) {
       {/* Header */}
       <div className="flex items-start justify-between mb-4">
         <div className="flex items-start space-x-4">
-          <div className="service-icon w-12 h-12 bg-white/10 rounded-lg flex items-center justify-center flex-shrink-0">
+          <div className="service-icon w-12 h-12 bg-white/10 rounded-lg flex items-center justify-center shrink-0">
             {service.icon}
           </div>
           <div className="flex-1">

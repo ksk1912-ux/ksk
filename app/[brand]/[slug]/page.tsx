@@ -16,10 +16,11 @@ interface ModelPageProps {
   }
 }
 
-export default function ModelPage({ params }: ModelPageProps) {
+export default async function ModelPage({ params }: ModelPageProps) {
+  const resolvedParams = await params;
   // iPhone modelleri için veri al
-  const deviceData = getiPhoneModelData(params.slug)
-  const brandData = getBrandData(params.brand)
+  const deviceData = getiPhoneModelData(resolvedParams.slug)
+  const brandData = getBrandData(resolvedParams.brand)
 
   if (!deviceData || !brandData) {
     notFound()
@@ -47,7 +48,7 @@ export default function ModelPage({ params }: ModelPageProps) {
   }
 
   // Önceki ve sonraki modelleri bul
-  const currentModelIndex = iPhoneModelsData.findIndex((model) => model.slug === params.slug)
+  const currentModelIndex = iPhoneModelsData.findIndex((model) => model.slug === resolvedParams.slug)
   const previousModel = currentModelIndex > 0 ? iPhoneModelsData[currentModelIndex - 1] : null
   const nextModel = currentModelIndex < iPhoneModelsData.length - 1 ? iPhoneModelsData[currentModelIndex + 1] : null
 
@@ -58,7 +59,7 @@ export default function ModelPage({ params }: ModelPageProps) {
       <main className="container-custom section-padding">
         <div className="mb-8 fade-in">
           <Link
-            href={`/${params.brand}`}
+            href={`/${resolvedParams.brand}`}
             className="inline-flex items-center space-x-2 text-muted hover:text-white transition-colors mb-6"
           >
             <ArrowLeft className="h-4 w-4" />
@@ -97,7 +98,7 @@ export default function ModelPage({ params }: ModelPageProps) {
               <ul className="space-y-3">
                 {deviceData.yaygin_arizalar.map((issue, index) => (
                   <li key={index} className="flex items-start space-x-3">
-                    <div className="w-2 h-2 bg-red-500 rounded-full mt-2 flex-shrink-0" />
+                    <div className="w-2 h-2 bg-red-500 rounded-full mt-2 shrink-0" />
                     <span className="text-muted">{issue}</span>
                   </li>
                 ))}
@@ -109,7 +110,7 @@ export default function ModelPage({ params }: ModelPageProps) {
               <ul className="space-y-3">
                 {deviceData.cozum_onerileri.map((solution, index) => (
                   <li key={index} className="flex items-start space-x-3">
-                    <div className="w-2 h-2 bg-green-500 rounded-full mt-2 flex-shrink-0" />
+                    <div className="w-2 h-2 bg-green-500 rounded-full mt-2 shrink-0" />
                     <span className="text-muted">{solution}</span>
                   </li>
                 ))}
@@ -195,7 +196,7 @@ export default function ModelPage({ params }: ModelPageProps) {
           <div className="flex justify-between items-center">
             {previousModel ? (
               <Link
-                href={`/${params.brand}/${previousModel.slug}`}
+                href={`/${resolvedParams.brand}/${previousModel.slug}`}
                 className="flex items-center space-x-2 hover:bg-white/10 transition-colors p-3 rounded-lg"
               >
                 <ChevronLeft className="h-5 w-5" />
@@ -218,7 +219,7 @@ export default function ModelPage({ params }: ModelPageProps) {
 
             {nextModel ? (
               <Link
-                href={`/${params.brand}/${nextModel.slug}`}
+                href={`/${resolvedParams.brand}/${nextModel.slug}`}
                 className="flex items-center space-x-2 hover:bg-white/10 transition-colors p-3 rounded-lg"
               >
                 <div className="text-right">

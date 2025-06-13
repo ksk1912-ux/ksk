@@ -211,7 +211,7 @@ export default function ServicesPage() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
               <div className="text-center bg-white/5 p-6 rounded-lg hover:bg-white/10 transition-all duration-300">
-                <div className="w-16 h-16 bg-gradient-to-br from-green-400/20 to-green-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 bg-linear-to-br from-green-400/20 to-green-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Wrench className="h-8 w-8 text-green-400" />
                 </div>
                 <h3 className="text-lg font-semibold mb-2">Uzman Teknisyenler</h3>
@@ -219,7 +219,7 @@ export default function ServicesPage() {
               </div>
 
               <div className="text-center bg-white/5 p-6 rounded-lg hover:bg-white/10 transition-all duration-300">
-                <div className="w-16 h-16 bg-gradient-to-br from-blue-400/20 to-blue-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 bg-linear-to-br from-blue-400/20 to-blue-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Shield className="h-8 w-8 text-blue-400" />
                 </div>
                 <h3 className="text-lg font-semibold mb-2">90 Gün Garanti</h3>
@@ -227,7 +227,7 @@ export default function ServicesPage() {
               </div>
 
               <div className="text-center bg-white/5 p-6 rounded-lg hover:bg-white/10 transition-all duration-300">
-                <div className="w-16 h-16 bg-gradient-to-br from-purple-400/20 to-purple-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 bg-linear-to-br from-purple-400/20 to-purple-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Clock className="h-8 w-8 text-purple-400" />
                 </div>
                 <h3 className="text-lg font-semibold mb-2">Hızlı Servis</h3>
@@ -235,7 +235,7 @@ export default function ServicesPage() {
               </div>
 
               <div className="text-center bg-white/5 p-6 rounded-lg hover:bg-white/10 transition-all duration-300">
-                <div className="w-16 h-16 bg-gradient-to-br from-yellow-400/20 to-yellow-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
+                <div className="w-16 h-16 bg-linear-to-br from-yellow-400/20 to-yellow-600/20 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Smartphone className="h-8 w-8 text-yellow-400" />
                 </div>
                 <h3 className="text-lg font-semibold mb-2">Orijinal Parçalar</h3>

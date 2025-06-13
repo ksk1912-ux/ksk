@@ -129,7 +129,7 @@ export default function BlogPage() {
                 {blogPosts.slice(0, 3).map((post, index) => (
                   <Link key={index} href={`/blog/${post.slug}`} className="block">
                     <div className="flex items-start space-x-3 group">
-                      <div className="w-16 h-16 bg-white/5 rounded flex-shrink-0 overflow-hidden">
+                      <div className="w-16 h-16 bg-white/5 rounded shrink-0 overflow-hidden">
                         <img
                           src={post.coverImage || "/placeholder.svg"}
                           alt={post.title}

@@ -81,7 +81,7 @@ export default function HomePage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="glass-card p-8 hover:bg-white/5 transition-all duration-300 transform hover:-translate-y-1">
-              <div className="bg-gradient-to-br from-green-400/20 to-green-600/20 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
+              <div className="bg-linear-to-br from-green-400/20 to-green-600/20 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
                 <Shield className="h-8 w-8 text-green-400" />
               </div>
               <h3 className="text-xl font-semibold mb-3">Güvenilir Hizmet</h3>
@@ -105,7 +105,7 @@ export default function HomePage() {
             </div>
 
             <div className="glass-card p-8 hover:bg-white/5 transition-all duration-300 transform hover:-translate-y-1">
-              <div className="bg-gradient-to-br from-blue-400/20 to-blue-600/20 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
+              <div className="bg-linear-to-br from-blue-400/20 to-blue-600/20 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
                 <Clock className="h-8 w-8 text-blue-400" />
               </div>
               <h3 className="text-xl font-semibold mb-3">Hızlı Çözüm</h3>
@@ -130,7 +130,7 @@ export default function HomePage() {
             </div>
 
             <div className="glass-card p-8 hover:bg-white/5 transition-all duration-300 transform hover:-translate-y-1">
-              <div className="bg-gradient-to-br from-purple-400/20 to-purple-600/20 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
+              <div className="bg-linear-to-br from-purple-400/20 to-purple-600/20 p-4 rounded-full w-16 h-16 flex items-center justify-center mb-6">
                 <Award className="h-8 w-8 text-purple-400" />
               </div>
               <h3 className="text-xl font-semibold mb-3">Uzman Ekip</h3>
