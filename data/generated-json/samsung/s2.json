@@ -1,0 +1,356 @@
+[
+  {
+    "model": "Samsung Galaxy S23",
+    "slug": "samsung-galaxy-s23",
+    "meta_title": "Samsung Galaxy S23 Onarım: Kamera, Batarya ve Şebeke Sorunları",
+    "meta_description": "Samsung Galaxy S23 için kamera odaklanma ('banana blur') sorunu, batarya performans düşüşü, şebeke çekim gücü zayıflığı ve ekran arızaları. Kronik sorunlar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S23 Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S23, 2023'te serinin kompakt modeli olarak tanıtıldı ve en büyük yeniliği tüm dünyada 'Snapdragon 8 Gen 2 for Galaxy' işlemcisini kullanması oldu. Bu, performans ve verimlilik artışı sağlasa da, bazı kullanıcılar kamera odak sorunları ('banana blur'), güncelleme sonrası batarya tüketimi ve şebeke zayıflığı gibi sorunlar rapor etti.",
+    "ozellikler": {
+      "ekran": "6.1 inç Dynamic AMOLED 2X, FHD+ (2340x1080), 120Hz (Uyarlanabilir)",
+      "islemci": "Snapdragon 8 Gen 2 for Galaxy (SM8550-AC)",
+      "ram": "8GB RAM",
+      "batarya": "3900 mAh",
+      "kamera": "Arka: 50MP Geniş (f/1.8, OIS), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 12MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık, Armor Aluminum çerçeve"
+    },
+    "yaygin_arizalar": [
+      "Kamerada odak sorunu, özellikle yakın plan çekimlerde çerçevenin bazı bölgelerinin bulanık çıkması ('banana blur' veya 'banana gate').",
+      "Yazılım güncellemeleri sonrası bataryanın hızlı tükenmesi.",
+      "Wi-Fi ve mobil veri bağlantısında zayıflık veya kopmalar.",
+      "One UI güncellemeleri sonrası genel sistem kararsızlıkları veya donmalar.",
+      "Ekranın bazı bölümlerinde dokunmatik hassasiyet sorunları.",
+      "Parmak izi okuyucunun yavaş çalışması veya tanımaması."
+    ],
+    "cozum_onerileri": [
+      "Kamera odak sorunu için Samsung yazılım güncellemeleri yayınladı. Sorun devam ederse servise danışılmalıdır. Çekim mesafesini ayarlamak geçici bir çözüm olabilir.",
+      "Batarya sorunları için cihazı yeniden başlatın, 'Uyarlanabilir Pil' ayarını kontrol edin ve kullanılmayan uygulamaların arka plan aktivitesini kısıtlayın.",
+      "Bağlantı sorunları için ağ ayarlarını sıfırlamayı, SIM kartı kontrol etmeyi veya Wi-Fi yönlendiricisini yeniden başlatmayı deneyin.",
+      "Yazılımsal kararsızlıklar için önbelleği temizlemeyi (wipe cache partition) veya son çare olarak fabrika ayarlarına sıfırlamayı (yedek aldıktan sonra) deneyin.",
+      "Dokunmatik hassasiyeti için Ayarlar > Ekran menüsünden 'Dokunma hassasiyeti' seçeneğini aktif edin."
+    ],
+    "sss": [
+      {"soru": "Galaxy S23 'banana blur' kamera sorunu donanımsal mı?", "cevap": "Samsung, sorunun geniş diyafram açıklığına sahip lensin karakteristik bir özelliği olduğunu belirtse de, bazı kullanıcılar için bu durum bir kusur olarak görülmektedir. Yazılım güncellemeleri sorunu hafifletmeye çalışmıştır."},
+      {"soru": "İkinci el Galaxy S23 alırken nelere dikkat etmeliyim?", "cevap": "Özellikle kamera performansını (bulanıklık sorunu için) test edin. Batarya sağlığını, Wi-Fi ve şebeke çekim gücünü, ekranın dokunmatik hassasiyetini kontrol edin. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S23 serisinde neden sadece Snapdragon işlemci kullanıldı?", "cevap": "Samsung, S23 serisinde performans ve verimlilikte standart bir deneyim sunmak amacıyla, o dönemde Exynos işlemcisine kıyasla daha verimli bulunan özel optimize edilmiş 'Snapdragon 8 Gen 2 for Galaxy' işlemcisini küresel olarak kullanma kararı almıştır."}
+    ],
+    "kullanici_yorumlari": [
+      "Snapdragon işlemci sayesinde telefon çok akıcı ve ısınmıyor.",
+      "Kamerası harika ama yakın çekimlerdeki bulanıklık sorunu can sıkıcı olabiliyor.",
+      "Bataryası kompakt bir telefona göre oldukça iyi, günü rahat çıkarıyor.",
+      "Wi-Fi bağlantısı bazen zayıf kalabiliyor."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S23+",
+    "slug": "samsung-galaxy-s23-plus",
+    "meta_title": "Samsung Galaxy S23 Plus Onarım: Batarya, Ekran ve Bağlantı Sorunları",
+    "meta_description": "Samsung Galaxy S23 Plus için batarya performans düşüşü, aşırı ısınma, ekran titremesi ve Wi-Fi/şebeke bağlantı sorunları. Kronik arızalar, onarım seçenekleri ve çözüm önerileri.",
+    "h1_baslik": "Samsung Galaxy S23+ Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S23 Plus, S23'ün daha büyük ekranlı ve daha büyük bataryalı versiyonu olarak 2023'te sunuldu. Küresel olarak 'Snapdragon 8 Gen 2 for Galaxy' işlemcisiyle gelen model, yüksek performans sunsa da, bazı kullanıcılar güncelleme sonrası batarya ve ısınma sorunları, ekran titremesi ve bağlantı problemleri bildirdi.",
+    "ozellikler": {
+      "ekran": "6.6 inç Dynamic AMOLED 2X, FHD+ (2340x1080), 120Hz (Uyarlanabilir)",
+      "islemci": "Snapdragon 8 Gen 2 for Galaxy (SM8550-AC)",
+      "ram": "8GB RAM",
+      "batarya": "4700 mAh",
+      "kamera": "Arka: 50MP Geniş (f/1.8, OIS), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 12MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık, Armor Aluminum çerçeve"
+    },
+    "yaygin_arizalar": [
+      "Yazılım güncellemeleri sonrası bataryanın hızlı tükenmesi ve aşırı ısınma.",
+      "Düşük parlaklıkta veya 120Hz modunda ekranda titreme veya renk kaymaları.",
+      "Wi-Fi ve mobil veri bağlantısında zayıflık veya kararsızlık.",
+      "Donma, takılma veya rastgele yeniden başlatma sorunları.",
+      "Parmak izi okuyucunun tepkisizliği."
+    ],
+    "cozum_onerileri": [
+      "Batarya ve ısınma sorunları için cihazı güncel tutun, arka planda çalışan uygulamaları optimize edin ve gereksiz özellikleri kapatın.",
+      "Ekran titremesi için yazılım güncellemelerini bekleyin. Sorun devam ederse donanımsal olabilir, servise danışın.",
+      "Bağlantı sorunları için ağ ayarlarını sıfırlayın, SIM kartı kontrol edin ve cihazı yeniden başlatın.",
+      "Donma ve yeniden başlatma sorunları için önbelleği temizleyin veya son çare olarak fabrika ayarlarına sıfırlayın (verilerinizi yedekledikten sonra).",
+      "Parmak izi okuyucu için parmağınızı farklı açılardan yeniden kaydedin ve ekran koruyucunun uyumlu olduğundan emin olun."
+    ],
+    "sss": [
+      {"soru": "Galaxy S23+ batarya performansı neden güncelleme sonrası düştü?", "cevap": "Güncellemeler bazen yeni özellikler eklerken veya sistemde değişiklik yaparken batarya optimizasyonunu olumsuz etkileyebilir. Genellikle Samsung, bu tür sorunları takip eden küçük güncellemelerle düzeltir."},
+      {"soru": "İkinci el Galaxy S23+ alırken nelere dikkat etmeliyim?", "cevap": "Batarya sağlığını, ısınma durumunu, ekranın titreme veya yanık açısından kontrolünü, Wi-Fi ve şebeke performansını ve parmak izi okuyucunun tepkiselliğini kontrol edin. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S23+ ve S23 arasında ne gibi farklar var?", "cevap": "Temel farklar ekran boyutu (6.6 inç vs 6.1 inç), batarya kapasitesi (4700 mAh vs 3900 mAh) ve daha hızlı şarj desteğidir (45W vs 25W). Diğer temel özellikler (kamera, işlemci) aynıdır."}
+    ],
+    "kullanici_yorumlari": [
+      "Snapdragon işlemci sayesinde çok stabil ve hızlı çalışıyor.",
+      "Bataryası çok iyi, yoğun kullanımda bile günü rahatlıkla çıkarıyor.",
+      "Ekranı büyük ve canlı, medya tüketimi için harika.",
+      "Güncellemeden sonra biraz daha fazla ısınmaya başladı gibi hissediyorum."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S23 Ultra",
+    "slug": "samsung-galaxy-s23-ultra",
+    "meta_title": "Samsung Galaxy S23 Ultra Onarım: S Pen, Kamera ve Wi-Fi Sorunları",
+    "meta_description": "Samsung Galaxy S23 Ultra için S Pen bağlantı/kaydırma sorunları, kamera odaklama arızaları, Wi-Fi kopma problemleri, ekranda yeşil çizgi ve batarya sorunları. Kronik arızalar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S23 Ultra Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S23 Ultra, 2023'ün en üst düzey modeli olarak 200MP ana kamera ve küresel 'Snapdragon 8 Gen 2 for Galaxy' işlemci gibi özelliklerle geldi. Performansı ve kamera yetenekleri övülse de, S Pen bağlantı sorunları, Wi-Fi kopmaları, kamera odaklama sorunları ve nadiren de olsa ekranda yeşil çizgi gibi kronik arızalarla gündeme geldi.",
+    "ozellikler": {
+      "ekran": "6.8 inç Dynamic AMOLED 2X, QHD+ (3088x1440), 120Hz (Uyarlanabilir)",
+      "islemci": "Snapdragon 8 Gen 2 for Galaxy (SM8550-AC)",
+      "ram": "8GB/12GB RAM",
+      "batarya": "5000 mAh",
+      "kamera": "Arka: 200MP Geniş (f/1.7, OIS), 10MP Periskop Telefoto (f/4.9, OIS, 10x optik zoom), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 12MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık, Gorilla Glass Victus 2, Armor Aluminum çerçeve"
+    },
+    "yaygin_arizalar": [
+      "Wi-Fi 6 yönlendiricilere bağlanırken bağlantı kopması veya kararsızlık sorunları.",
+      "S Pen'in zaman zaman bağlantısının kopması veya düzgün çalışmaması.",
+      "Yazılım güncellemeleri sonrası bataryanın hızlı tükenmesi.",
+      "Kamera uygulamasında donma veya odaklama sorunları.",
+      "Ekranda nadiren beliren yeşil çizgi veya hayalet dokunma (ghost touch).",
+      "Yoğun kullanımda aşırı ısınma."
+    ],
+    "cozum_onerileri": [
+      "Wi-Fi sorunları için Samsung yazılım güncellemeleri yayınladı. Sorun devam ederse ağ ayarlarını sıfırlayın veya yönlendirici ayarlarını kontrol edin.",
+      "S Pen sorunları için S Pen'i sıfırlamayı (Ayarlar > Gelişmiş Özellikler > S Pen > Hava hareketleri > Üç nokta menüsü > S Pen'i sıfırla) deneyin.",
+      "Batarya sorunları için cihazı güncel tutun, arka plan uygulamalarını optimize edin ve 'Uyarlanabilir Pil' özelliğini kullanın.",
+      "Kamera sorunları için kamera uygulamasının önbelleğini ve verilerini temizleyin, cihazı yeniden başlatın.",
+      "Ekran sorunları (yeşil çizgi) genellikle donanımsaldır ve yetkili servis müdahalesi gerektirir."
+    ],
+    "sss": [
+      {"soru": "Galaxy S23 Ultra Wi-Fi sorunu nasıl çözülür?", "cevap": "Samsung, bu sorunu büyük ölçüde yazılım güncellemeleri ile çözmüştür. Cihazınızın en son yazılım sürümünde olduğundan emin olun. Sorun devam ederse ağ ayarlarını sıfırlamak veya yönlendiricinizin WPA3 ayarlarını kontrol etmek çözüm olabilir."},
+      {"soru": "İkinci el Galaxy S23 Ultra alırken nelere dikkat etmeliyim?", "cevap": "Özellikle S Pen'in tüm fonksiyonlarının çalıştığını, Wi-Fi bağlantısının stabil olduğunu, ekranın yeşil çizgi veya yanık açısından kontrolünü, kamera odaklama performansını ve batarya sağlığını test edin. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "200MP kamera gerçekten fark yaratıyor mu?", "cevap": "Evet, 200MP modunda çekilen fotoğraflar, özellikle iyi ışık koşullarında inanılmaz bir detay seviyesi sunar. Bu, fotoğrafları kırparken veya büyük boyutlarda baskı alırken avantaj sağlar. Ancak varsayılan modda pikselleri birleştirerek daha dengeli fotoğraflar çeker."}
+    ],
+    "kullanici_yorumlari": [
+      "Kamerası inanılmaz, özellikle zoom yetenekleri rakipsiz.",
+      "Snapdragon işlemci ve büyük batarya ile performans ve pil ömrü harika.",
+      "S Pen ile not almak ve çizim yapmak çok keyifli.",
+      "İlk aldığımda Wi-Fi sürekli kopuyordu, güncelleme ile düzeldi.",
+      "Bu kadar para verip ekranda yeşil çizgi görmek hayal kırıklığı olurdu."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S24",
+    "slug": "samsung-galaxy-s24",
+    "meta_title": "Samsung Galaxy S24 Onarım: Ekran, Isınma ve Kamera Sorunları",
+    "meta_description": "Samsung Galaxy S24 için ekran renk ('vividness') sorunu, Exynos 2400 kaynaklı aşırı ısınma, batarya performans düşüşü ve kamera kalitesi sorunları. Kronik arızalar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S24 Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S24, 2024'te Galaxy AI yapay zeka özellikleriyle tanıtıldı. Türkiye dahil birçok pazarda Exynos 2400 işlemciye geri dönüldü. İlk kullanıcılar ekranın renk doygunluğu ('vividness') sorunu, Exynos modelinde ısınma, kamera performansı ve güncelleme sonrası batarya tüketimi gibi konularda şikayetlerde bulundu.",
+    "ozellikler": {
+      "ekran": "6.2 inç Dynamic AMOLED 2X, FHD+ (2340x1080), 120Hz (Uyarlanabilir), 2600 nit (en yüksek)",
+      "islemci": "Exynos 2400 (Türkiye) / Snapdragon 8 Gen 3 for Galaxy",
+      "ram": "8GB RAM",
+      "batarya": "4000 mAh",
+      "kamera": "Arka: 50MP Geniş (f/1.8, OIS), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 12MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık, Armor Aluminum 2 çerçeve"
+    },
+    "yaygin_arizalar": [
+      "Ekran renklerinin soluk görünmesi ('vividness' sorunu).",
+      "Exynos 2400 işlemcili modellerde aşırı ısınma ve buna bağlı performans düşüşü.",
+      "Yazılım güncellemeleri sonrası bataryanın hızlı tükenmesi.",
+      "Kamera performansında tutarsızlıklar, renklerin yanlış işlenmesi veya bulanıklık.",
+      "Android Auto bağlantı sorunları.",
+      "Ekranda nadiren beliren yeşil çizgi."
+    ],
+    "cozum_onerileri": [
+      "Ekran renk sorunu için Samsung, 'Canlılık' ayarını kullanıcıların özelleştirmesine olanak tanıyan bir yazılım güncellemesi yayınladı. Ayarlar > Ekran > Ekran Modu menüsünden ayarlanabilir.",
+      "Isınma sorunları için cihazı güncel tutun, yoğun kullanımda mola verin ve arka planda çalışan uygulamaları optimize edin.",
+      "Batarya sorunları için güç tasarrufu modlarını kullanın, 'Uyarlanabilir Pil' özelliğini aktif edin ve gereksiz bildirimleri kapatın.",
+      "Kamera ve Android Auto sorunları için en son yazılım güncellemelerini yükleyin. Sorun devam ederse uygulamaların önbelleğini temizleyin."
+    ],
+    "sss": [
+      {"soru": "Galaxy S24 ekran renkleri neden soluktu?", "cevap": "Samsung, ilk yazılımda daha doğal renkler sunmayı hedeflemişti ancak kullanıcıların yoğun geri bildirimi üzerine 'Canlılık' ayarını daha doygun renkler sunacak şekilde özelleştirme seçeneği ekleyen bir güncelleme yayınladı."},
+      {"soru": "Galaxy S24 Exynos 2400, Snapdragon 8 Gen 3'e göre çok mu kötü?", "cevap": "Testler, Exynos 2400'ün performansta Snapdragon'a oldukça yaklaştığını ancak hala termal yönetim ve batarya verimliliği konusunda bir miktar geride kalabildiğini göstermektedir. Günlük kullanımda fark genellikle azdır, ancak yoğun oyunlarda hissedilebilir."},
+      {"soru": "İkinci el Galaxy S24 alırken nelere dikkat etmeliyim?", "cevap": "Isınma durumunu (özellikle Exynos modeliyse), batarya sağlığını, ekranın renk doğruluğunu ve olası yeşil çizgi sorunlarını, kamera performansını kontrol edin. IMEI kaydı ve fatura önemlidir."}
+    ],
+    "kullanici_yorumlari": [
+      "Galaxy AI özellikleri çok ilginç ve kullanışlı.",
+      "Exynos işlemcili model oyun oynarken veya şarj olurken ısınıyor.",
+      "Ekran renk sorunu güncelleme ile düzeldi, artık çok daha canlı.",
+      "Kompakt ve şık bir telefon ama bataryası daha iyi olabilirdi."
+    ]
+  },
+    {
+    "model": "Samsung Galaxy S24+",
+    "slug": "samsung-galaxy-s24-plus",
+    "meta_title": "Samsung Galaxy S24 Plus Onarım: Isınma, Ekran ve Batarya Sorunları",
+    "meta_description": "Samsung Galaxy S24 Plus için Exynos 2400 kaynaklı aşırı ısınma, ekran titremesi/kasma, batarya performans düşüşü ve 'nem algılandı' hatası. Kronik arızalar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S24+ Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S24 Plus, 2024'te QHD+ çözünürlüğe geri dönerek dikkat çekti. Türkiye dahil birçok pazarda Exynos 2400 işlemci ve Galaxy AI özellikleri ile sunuldu. Ancak Exynos kaynaklı ısınma, güncelleme sonrası batarya sorunları ve bazı yazılımsal hatalar ilk kullanıcı raporları arasında yer aldı.",
+    "ozellikler": {
+      "ekran": "6.7 inç Dynamic AMOLED 2X, QHD+ (3120 x 1440), 120Hz (Uyarlanabilir), 2600 nit (en yüksek)",
+      "islemci": "Exynos 2400 (Türkiye) / Snapdragon 8 Gen 3 for Galaxy",
+      "ram": "12GB RAM",
+      "batarya": "4900 mAh",
+      "kamera": "Arka: 50MP Geniş (f/1.8, OIS), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 12MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık, Armor Aluminum 2 çerçeve"
+    },
+    "yaygin_arizalar": [
+      "Exynos 2400 işlemcili modellerde aşırı ısınma.",
+      "Yazılım güncellemeleri sonrası bataryanın hızlı tükenmesi.",
+      "Ekranın kasması, titremesi veya dokunmatik tepkisizliği.",
+      "Kamera odaklama sorunları veya düşük ışıkta kalite düşüşü.",
+      "Güncelleme sonrası 'nem algılandı' hatası."
+    ],
+    "cozum_onerileri": [
+      "Isınma sorunları için cihazı güncel tutun, arka planda çalışan uygulamaları optimize edin ve yoğun kullanımda mola verin.",
+      "Batarya sorunları için güç tasarrufu modlarını kullanın, 'Uyarlanabilir Pil' özelliğini aktif edin.",
+      "Ekran sorunları için yazılım güncellemelerini bekleyin. Sorun devam ederse önbelleği temizlemeyi veya servise danışmayı deneyin.",
+      "Nem algılandı hatası için şarj portunu dikkatlice kurulayın; sorun yazılımsal olabilir, güncellemeleri kontrol edin veya servise başvurun."
+    ],
+    "sss": [
+      {"soru": "Galaxy S24+ ekran çözünürlüğü neden artırıldı?", "cevap": "Samsung, S21+, S22+ ve S23+ modellerinde FHD+ çözünürlük kullandıktan sonra, S24+ ile tekrar QHD+ çözünürlüğe dönerek Plus modelini Ultra modeline daha yakın konumlandırmayı ve daha keskin bir görüntü deneyimi sunmayı hedefledi."},
+      {"soru": "Galaxy S24+ Exynos performansı nasıl?", "cevap": "Exynos 2400, günlük kullanım ve çoğu uygulama için oldukça güçlü bir performans sunar. Ancak yoğun oyun veya video işleme gibi durumlarda Snapdragon versiyonuna göre biraz daha fazla ısınma ve daha düşük verimlilik gösterebilir."},
+      {"soru": "İkinci el Galaxy S24+ alırken nelere dikkat etmeliyim?", "cevap": "Isınma durumunu, batarya sağlığını, QHD+ ekranın durumunu (yanık, çizgi), kamera performansını ve şarj portunu kontrol edin. IMEI kaydı ve fatura önemlidir."}
+    ],
+    "kullanici_yorumlari": [
+      "QHD+ ekran gerçekten çok keskin ve canlı.",
+      "12GB RAM sayesinde çoklu görevlerde çok akıcı.",
+      "Exynos işlemci maalesef ısınabiliyor, bu da bataryayı etkiliyor.",
+      "Galaxy AI özellikleri günlük hayatta işe yarıyor."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S24 Ultra",
+    "slug": "samsung-galaxy-s24-ultra",
+    "meta_title": "Samsung Galaxy S24 Ultra Onarım: Ekran, Kamera ve S Pen Sorunları",
+    "meta_description": "Samsung Galaxy S24 Ultra için ekranda yeşil çizgi, titanyum çerçeve sorunları, kamera odaklama/kalite problemleri, S Pen arızaları ve şebeke sorunları. Kronik arızalar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S24 Ultra Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S24 Ultra, 2024'ün en iddialı modeli olarak düz ekran, titanyum çerçeve, gelişmiş kamera ve Galaxy AI özellikleriyle sunuldu. Küresel olarak Snapdragon 8 Gen 3 for Galaxy işlemci kullansa da, bazı kullanıcılar ekranda yeşil çizgi, kamera performansı, S Pen ve şebeke sorunları gibi ciddi arızalar bildirdi.",
+    "ozellikler": {
+      "ekran": "6.8 inç Dynamic AMOLED 2X, QHD+ (3120 x 1440), 120Hz (Uyarlanabilir), 2600 nit (en yüksek), Gorilla Armor",
+      "islemci": "Snapdragon 8 Gen 3 for Galaxy",
+      "ram": "12GB RAM",
+      "batarya": "5000 mAh",
+      "kamera": "Arka: 200MP Geniş (f/1.7, OIS), 50MP Periskop Telefoto (f/3.4, OIS, 5x optik zoom), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 12MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık, Titanyum çerçeve"
+    },
+    "yaygin_arizalar": [
+      "Ekranda aniden beliren kalıcı yeşil çizgi.",
+      "Kamera odaklama sorunları, renklerde tutarsızlık ve video kaydında titreşim/ses sorunları.",
+      "Şebeke ve sinyal gücünde zayıflık.",
+      "S Pen'in yanık plastik gibi kokması veya düzgün çalışmaması.",
+      "Yazılım güncellemeleri sonrası bataryanın hızlı tükenmesi.",
+      "Ekran renklerinin soluk görünmesi ('vividness' sorunu, ilk yazılımlarda)."
+    ],
+    "cozum_onerileri": [
+      "Ekranda yeşil çizgi sorunu donanımsaldır ve cihazın garanti kapsamında değiştirilmesi veya onarılması gerekir. Derhal yetkili servise başvurun.",
+      "Kamera ve S Pen sorunları için Samsung'un yayınladığı yazılım güncellemelerini yükleyin. Sorun devam ederse donanımsal olabilir.",
+      "Şebeke sorunları için ağ ayarlarını sıfırlamayı, SIM kartı kontrol etmeyi veya operatörünüzle iletişime geçmeyi deneyin.",
+      "Batarya sorunları için cihazı güncel tutun, arka plan uygulamalarını optimize edin ve güç tasarrufu modlarını kullanın."
+    ],
+    "sss": [
+      {"soru": "Galaxy S24 Ultra'daki yeşil çizgi sorunu yaygın mı?", "cevap": "Bu sorun, serinin önceki modellerinde de görülen bir AMOLED panel arızasıdır. S24 Ultra'da da bazı kullanıcılarda ortaya çıkmıştır ve genellikle donanımsal bir kusur olarak kabul edilir. Garanti kapsamında onarım veya değişim yapılması gerekir."},
+      {"soru": "S24 Ultra'nın düz ekranı daha mı iyi?", "cevap": "Bu kişisel bir tercihtir. Düz ekran, S Pen kullanımını kolaylaştırır, yanlışlıkla dokunmaları azaltır ve ekran koruyucu takmayı daha pratik hale getirir. Ancak kavisli ekranı estetik olarak tercih eden kullanıcılar da vardır."},
+      {"soru": "İkinci el Galaxy S24 Ultra alırken nelere dikkat etmeliyim?", "cevap": "Ekranı yeşil çizgi, yanık veya ölü piksel açısından çok dikkatli kontrol edin. Kamera fonksiyonlarını (özellikle zoom), S Pen'i, şebeke çekim gücünü ve batarya sağlığını test edin. Titanyum çerçevenin durumunu inceleyin. IMEI kaydı ve fatura çok önemlidir."}
+    ],
+    "kullanici_yorumlari": [
+      "Düz ekran ve titanyum çerçeve harika hissettiriyor.",
+      "Kamerası inanılmaz, özellikle yeni 5x telefoto lens çok net.",
+      "Aldıktan birkaç hafta sonra ekranda yeşil çizgi belirdi, servis hemen değiştirdi.",
+      "Galaxy AI özellikleri gerçekten fark yaratıyor.",
+      "Bataryası çok güçlü, günü çok rahat çıkarıyor."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S25 (Tahmini)",
+    "slug": "samsung-galaxy-s25-tahmini",
+    "meta_title": "Samsung Galaxy S25 Beklentileri: Olası Sorunlar ve Onarım İhtimalleri",
+    "meta_description": "2025'te çıkması beklenen Samsung Galaxy S25 için tahmini özellikler, olası kronik arızalar (Exynos 2500 ısınma, batarya) ve kullanıcı beklentileri. Sızıntılara dayalı spekülatif bir bakış.",
+    "h1_baslik": "Samsung Galaxy S25 (Tahmini): Beklenen Özellikler ve Olası Kronik Arızalar",
+    "cihaz_aciklama": "2025'in başlarında tanıtılması beklenen Galaxy S25'in, yeni nesil Exynos 2500 ve Snapdragon 8 Gen 4 işlemcilerle gelmesi, daha verimli batarya teknolojisi kullanması ve yapay zeka özelliklerini daha da geliştirmesi bekleniyor. Ancak yeni işlemcilerin termal performansı ve serinin kronik ekran sorunlarının devam edip etmeyeceği merak konusu. (Bu bilgiler sızıntı ve söylentilere dayanmaktadır, kesin değildir.)",
+    "ozellikler": {
+      "ekran": "6.2-6.3 inç aralığında Dynamic AMOLED 3X, daha yüksek parlaklık ve verimlilik (Tahmini)",
+      "islemci": "Exynos 2500 / Snapdragon 8 Gen 4 (Bölgeye göre değişir) (Tahmini)",
+      "ram": "12GB RAM (Standart olabilir) (Tahmini)",
+      "batarya": "4000-4200 mAh aralığında, yeni yığınlanmış (stacked) batarya teknolojisi (Tahmini)",
+      "kamera": "Geliştirilmiş sensörler, daha iyi yapay zeka destekli görüntü işleme (Tahmini)",
+      "dayaniklilik": "IP68, Geliştirilmiş Armor Aluminum veya Titanyum kullanımı (Tahmini)"
+    },
+    "yaygin_arizalar": [
+      "Yeni Exynos 2500 işlemcisinin ilk versiyonlarında olası aşırı ısınma veya verimlilik sorunları (Spekülatif).",
+      "AMOLED ekranlarda kronikleşen yeşil çizgi veya yanık sorununun devam etme riski (Spekülatif).",
+      "Yeni batarya teknolojisinin uzun vadeli performansının belirsizliği (Spekülatif).",
+      "Yeni kamera sensörlerinin ilk yazılımlarında optimizasyon ve odaklama sorunları yaşanma ihtimali (Spekülatif)."
+    ],
+    "cozum_onerileri": [
+      "Olası sorunlar için Samsung'un yayınlayacağı ilk yazılım güncellemelerini takip etmek önemli olacaktır (Spekülatif).",
+      "Her zaman olduğu gibi, batarya ömrünü optimize etmek için güç tasarrufu modları ve uygulama yönetimi etkili olacaktır (Spekülatif)."
+    ],
+    "sss": [
+      {"soru": "Galaxy S25'te ne gibi büyük yenilikler bekleniyor?", "cevap": "En büyük beklentiler, Snapdragon 8 Gen 4 ve Exynos 2500 işlemcilerinin getireceği performans artışı, daha verimli batarya teknolojisi ve Google'ın Gemini Nano v2'si ile güçlendirilmiş daha gelişmiş Galaxy AI özellikleridir. (Bu bilgiler söylentilere dayanmaktadır.)"},
+      {"soru": "Galaxy S25 tamamen Exynos işlemciye mi geçecek?", "cevap": "Söylentiler, Samsung'un Exynos 2500'ü oldukça iddialı bir şekilde hazırladığı ve bazı pazarlarda (belki de tüm pazarlarda standart ve plus modellerde) kullanacağı yönünde. Ancak Snapdragon ile olan ortaklığın devam etmesi de muhtemeldir. (Bu bilgiler söylentilere dayanmaktadır.)"}
+    ],
+    "kullanici_yorumlari": [
+      "Umarım Exynos 2500 bu sefer ısınma sorununu tamamen çözer. (Spekülatif)",
+      "Batarya teknolojisindeki yenilik kulağa hoş geliyor, umarım gerçek hayatta işe yarar. (Spekülatif)",
+      "Artık şu ekrandaki yeşil çizgi sorununa kalıcı bir çözüm bulmaları gerekiyor. (Spekülatif)",
+      "Yapay zeka özellikleri daha da gelişecekse çok heyecan verici. (Spekülatif)"
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S25+ (Tahmini)",
+    "slug": "samsung-galaxy-s25-plus-tahmini",
+    "meta_title": "Samsung Galaxy S25 Plus Beklentileri: Olası Sorunlar ve Onarım",
+    "meta_description": "2025'te çıkması beklenen Samsung Galaxy S25 Plus için tahmini özellikler, olası kronik arızalar (Exynos 2500 ısınma, batarya) ve kullanıcı beklentileri. Sızıntılara dayalı spekülatif bir bakış.",
+    "h1_baslik": "Samsung Galaxy S25+ (Tahmini): Beklenen Özellikler ve Olası Kronik Arızalar",
+    "cihaz_aciklama": "2025'te tanıtılması beklenen Galaxy S25 Plus'ın, standart modele göre daha büyük ekran ve batarya sunması bekleniyor. Exynos 2500 ve Snapdragon 8 Gen 4 işlemci seçenekleri, daha hızlı şarj ve gelişmiş yapay zeka özellikleri muhtemel yenilikler arasında. Yeni işlemcinin termal performansı ve batarya ömrü en kritik konular olacak. (Bu bilgiler sızıntı ve söylentilere dayanmaktadır, kesin değildir.)",
+    "ozellikler": {
+      "ekran": "6.7 inç civarında Dynamic AMOLED 3X, QHD+ çözünürlük (Tahmini)",
+      "islemci": "Exynos 2500 / Snapdragon 8 Gen 4 (Bölgeye göre değişir) (Tahmini)",
+      "ram": "12GB RAM (Tahmini)",
+      "batarya": "4900-5000 mAh aralığında, daha hızlı şarj desteği (Tahmini)",
+      "kamera": "Geliştirilmiş sensörler, daha iyi yapay zeka destekli görüntü işleme (Tahmini)",
+      "dayaniklilik": "IP68, Geliştirilmiş çerçeve malzemesi (Tahmini)"
+    },
+    "yaygin_arizalar": [
+      "Yeni Exynos 2500 işlemcisinin ilk versiyonlarında olası aşırı ısınma veya verimlilik sorunları (Spekülatif).",
+      "AMOLED ekranlarda kronikleşen yeşil çizgi veya yanık sorununun devam etme riski (Spekülatif).",
+      "Büyük ekran ve güçlü işlemcinin batarya ömrü üzerindeki etkisi (Spekülatif).",
+      "Yazılım güncellemeleri sonrası olası kararsızlıklar (Spekülatif)."
+    ],
+    "cozum_onerileri": [
+      "Olası sorunlar için Samsung'un yayınlayacağı ilk yazılım güncellemelerini takip etmek önemli olacaktır (Spekülatif).",
+      "Her zaman olduğu gibi, batarya ömrünü optimize etmek için güç tasarrufu modları ve uygulama yönetimi etkili olacaktır (Spekülatif)."
+    ],
+    "sss": [
+      {"soru": "Galaxy S25+ ve S25 Ultra arasında ne gibi farklar olacak?", "cevap": "Temel farkların S Pen desteği (sadece Ultra'da), kamera kurulumu (Ultra'da daha gelişmiş zoom lensleri) ve muhtemelen tasarım olacağı tahmin ediliyor. Plus modeli, Ultra'nın bazı özelliklerini daha uygun bir fiyata sunan bir ara model olmaya devam edecektir. (Bu bilgiler söylentilere dayanmaktadır.)"}
+    ],
+    "kullanici_yorumlari": [
+      "Umarım bu sefer Plus modelinin bataryası gerçekten çok daha iyi olur. (Spekülatif)",
+      "Exynos yerine Snapdragon gelirse kesin alırım. (Spekülatif)",
+      "Tasarımda bir değişiklik yaparlar umarım. (Spekülatif)"
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S25 Ultra (Tahmini)",
+    "slug": "samsung-galaxy-s25-ultra-tahmini",
+    "meta_title": "Samsung Galaxy S25 Ultra Beklentileri: Olası Sorunlar ve Onarım",
+    "meta_description": "2025'te çıkması beklenen Samsung Galaxy S25 Ultra için tahmini özellikler, olası kronik arızalar (kamera optimizasyonu, batarya, S Pen) ve kullanıcı beklentileri. Sızıntılara dayalı spekülatif bir bakış.",
+    "h1_baslik": "Samsung Galaxy S25 Ultra (Tahmini): Beklenen Özellikler ve Olası Kronik Arızalar",
+    "cihaz_aciklama": "2025'in zirve modeli olması beklenen Galaxy S25 Ultra'nın, kamera sisteminde önemli yükseltmeler (yeni 200MP sensör, değişken zoom lensleri), Snapdragon 8 Gen 4 işlemci, daha verimli batarya ve gelişmiş yapay zeka özellikleriyle gelmesi tahmin ediliyor. Yeni kamera donanımının yazılımsal optimizasyonu ve serinin kronik sorunlarının çözülüp çözülmediği en önemli beklentiler arasında. (Bu bilgiler sızıntı ve söylentilere dayanmaktadır, kesin değildir.)",
+    "ozellikler": {
+      "ekran": "6.8-6.9 inç aralığında Dynamic AMOLED 3X, daha yüksek parlaklık (3000 nit üzeri), daha verimli panel (Tahmini)",
+      "islemci": "Snapdragon 8 Gen 4 (Muhtemelen küresel olarak) (Tahmini)",
+      "ram": "12GB/16GB RAM (Tahmini)",
+      "batarya": "5000 mAh, yığınlanmış teknoloji, daha hızlı şarj (65W üzeri) (Tahmini)",
+      "kamera": "Yeni 200MP ana sensör, değişken odaklı telefoto lensler, geliştirilmiş ultra geniş açı kamera (Tahmini)",
+      "dayaniklilik": "IP68, Geliştirilmiş Titanyum çerçeve, yeni nesil Gorilla Glass (Tahmini)"
+    },
+    "yaygin_arizalar": [
+      "Yeni ve karmaşık kamera donanımının ilk yazılımlarında odaklama, renk doğruluğu veya işleme sorunları yaşama ihtimali (Spekülatif).",
+      "Snapdragon 8 Gen 4 işlemcisinin güç tüketimi ve termal yönetiminin batarya ömrüne etkisi (Spekülatif).",
+      "AMOLED ekranlarda kronikleşen yeşil çizgi sorununun devam etme riski (Spekülatif).",
+      "S Pen'in yazılımsal entegrasyonunda veya donanımında olası küçük hatalar (Spekülatif)."
+    ],
+    "cozum_onerileri": [
+      "Kamera ve performansla ilgili olası sorunlar için Samsung'un yayınlayacağı ilk güncellemeler kritik olacaktır (Spekülatif).",
+      "Gelişmiş batarya yönetimi ve güç tasarrufu ayarları, olası yüksek güç tüketimini dengelemek için önemli olacaktır (Spekülatif)."
+    ],
+    "sss": [
+      {"soru": "Galaxy S25 Ultra'nın kamerası gerçekten devrimsel mi olacak?", "cevap": "Söylentiler, Samsung'un S25 Ultra'da kamera donanımını ciddi şekilde yenileyeceği yönünde. Yeni bir ana sensör ve özellikle değişken odaklı telefoto lensler, zoom kalitesinde önemli bir sıçrama yaratabilir. Ancak başarısı büyük ölçüde yazılım optimizasyonuna bağlı olacaktır. (Bu bilgiler söylentilere dayanmaktadır.)"}
+    ],
+    "kullanici_yorumlari": [
+      "Değişken zoom lensleri söylentisi doğruysa inanılmaz olur. (Spekülatif)",
+      "Umarım bu sefer gerçekten 'tüm gün' yeten bir batarya sunarlar. (Spekülatif)",
+      "Tasarımı çok değiştirmesinler, S24 Ultra'nın tasarımı çok iyi. (Spekülatif)",
+      "Bu kadar para vereceğiz, umarım yeşil çizgi gibi temel sorunlar artık yaşanmaz. (Spekülatif)"
+    ]
+  }
+]

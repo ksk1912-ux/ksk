@@ -1,0 +1,1040 @@
+[
+  {
+    "model_adi": "Samsung Galaxy A31",
+    "slug": "samsung-galaxy-a31",
+    "meta_title": "Samsung Galaxy A31 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A31 detaylı incelemesi: Teknik özellikler (6.4 inç Super AMOLED, MediaTek Helio P65, 5000mAh batarya, 48MP kamera), yaygın arızalar (parmak izi, yavaşlama, nem hatası), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A31: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A31, 2020'de piyasaya sürülen, 6.4 inç Super AMOLED ekranı ve 5000 mAh'lik büyük bataryası ile öne çıkan bir modeldir. MediaTek Helio P65 işlemci, 4GB/6GB RAM seçenekleri ve 48MP ana sensörlü dörtlü kamera kurulumuna sahiptir. Ancak, kullanıcılar tarafından en sık rapor edilen kronik sorunlar arasında ekran içi parmak izi okuyucunun yavaş ve tutarsız çalışması, MediaTek işlemci kaynaklı performans yavaşlığı, 'nem algılandı' hatası ve şarj sorunları yer almaktadır.",
+    "ozellikler": {
+      "cikis_yili": 2020,
+      "ekran": "6.4 inç, 1080x2400 (FHD+), Super AMOLED, Infinity-U Display",
+      "islemci": "MediaTek Helio P65, Octa-core (2x2.0 GHz & 6x1.7 GHz)",
+      "ram": "4 GB / 6 GB",
+      "batarya": "5000 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 48MP (Ana) + 8MP (Ultra Geniş) + 5MP (Makro) + 5MP (Derinlik). Ön: 20MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Ekran içi parmak izi okuyucunun yavaş ve tutarsız çalışması.",
+      "Performans yavaşlığı, donma ve kasmalar (MediaTek işlemci kaynaklı).",
+      "Şarj portunda 'nem algılandı' hatası ve buna bağlı şarj olmama sorunu.",
+      "Yazılım güncellemeleri sonrası ortaya çıkan dokunmatik hassasiyet sorunları.",
+      "Kamera performansının, özellikle düşük ışıkta, beklentilerin altında kalması.",
+      "Bataryanın 5000 mAh olmasına rağmen beklenenden hızlı tükenmesi (yazılımsal optimizasyon sorunları)."
+    ],
+    "cozum_onerileri": [
+      "Parmak izi okuyucu için: Parmaklarınızı yeniden kaydedin, yazılım güncellemelerini kontrol edin ve sensörle uyumlu bir ekran koruyucu kullanın.",
+      "Performans sorunları için: Gereksiz uygulamaları kaldırın, 'Cihaz Bakımı' menüsünden optimizasyon yapın ve son çare olarak fabrika ayarlarına sıfırlayın.",
+      "'Nem algılandı' hatası için: Şarj portunu basınçlı hava ile temizleyin, cihazı bir süre kapalı ve kuru bir yerde bekletin. Sorun devam ederse servis gerekebilir.",
+      "Dokunmatik sorunları için: Telefonu yeniden başlatın ve yazılım güncellemelerini kontrol edin."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A31 parmak izi okuyucusu neden yavaş çalışıyor?",
+        "cevap": "Bu modeldeki optik parmak izi sensörü, ultrasonik sensörlere göre daha yavaş çalışabilir. Yazılım güncellemeleri performansı bir miktar iyileştirebilir, ancak donanım sınırlamaları vardır."
+      },
+      {
+        "soru": "Galaxy A31 oyun oynamak için iyi mi?",
+        "cevap": "MediaTek Helio P65 işlemci, günlük kullanım için yeterli olsa da yüksek grafikli modern oyunlarda kasma ve donma sorunları yaşatabilir."
+      },
+      {
+        "soru": "İkinci el Galaxy A31 alırken nelere dikkat etmeliyim?",
+        "cevap": "Parmak izi okuyucunun performansını, genel sistem akıcılığını ve şarj portunda 'nem algılandı' hatası verip vermediğini mutlaka kontrol edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Parmak izi okuyucusu resmen çileden çıkarıyor, çoğu zaman şifre girmek zorunda kalıyorum.",
+      "Telefon çok kasıyor, Instagram'da gezinirken bile takılıyor.",
+      "Durup dururken nem uyarısı verip şarj olmuyor, kronik bir sorunmuş."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A41",
+    "slug": "samsung-galaxy-a41",
+    "meta_title": "Samsung Galaxy A41 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A41 detaylı incelemesi: Teknik özellikler (6.1 inç Super AMOLED, MediaTek Helio P65, 3500mAh batarya, 48MP kamera), yaygın arızalar (ısınma, batarya, performans), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A41: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A41, 2020 yılında piyasaya sürülen, kompakt boyutları ve 6.1 inçlik Super AMOLED ekranıyla dikkat çeken bir modeldir. A31 gibi MediaTek Helio P65 işlemciye, 4GB RAM'e ve 48MP ana sensörlü üçlü kameraya sahiptir. Batarya kapasitesi ise 3500 mAh'dir. Kullanıcılar tarafından en sık rapor edilen kronik sorunlar arasında, özellikle oyun oynarken veya şarj olurken aşırı ısınma, batarya ömrünün beklenenden kısa olması ve MediaTek işlemci kaynaklı performans düşüşleri yer almaktadır.",
+    "ozellikler": {
+      "cikis_yili": 2020,
+      "ekran": "6.1 inç, 1080x2400 (FHD+), Super AMOLED, Infinity-U Display",
+      "islemci": "MediaTek Helio P65, Octa-core (2x2.0 GHz & 6x1.7 GHz)",
+      "ram": "4 GB",
+      "batarya": "3500 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 48MP (Ana) + 8MP (Ultra Geniş) + 5MP (Derinlik). Ön: 25MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Aşırı ısınma (özellikle oyun oynarken ve şarj sırasında).",
+      "Batarya ömrünün kısa olması, bir günü zor çıkarması.",
+      "Genel performans yavaşlığı ve uygulamalarda takılmalar.",
+      "Ekran içi parmak izi okuyucunun tutarsız çalışması.",
+      "Yazılım güncellemeleri sonrası bildirim ve bağlantı sorunları."
+    ],
+    "cozum_onerileri": [
+      "Isınma sorunu için: Yoğun kullanım sırasında mola verin, şarj olurken telefonu kullanmaktan kaçının ve cihazın yazılımının güncel olduğundan emin olun.",
+      "Batarya ömrünü uzatmak için: Güç tasarrufu modlarını kullanın, ekran parlaklığını düşürün ve arka planda çalışan gereksiz uygulamaları kapatın.",
+      "Performans için: 'Cihaz Bakımı' menüsünden düzenli optimizasyon yapın ve depolama alanını boş tutmaya çalışın."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A41 neden çok ısınıyor?",
+        "cevap": "MediaTek Helio P65 işlemcinin güç yönetimi ve telefonun kompakt kasası, ısıyı dağıtmakta zorlanmasına neden olabilir. Bu durum özellikle yoğun işlem gücü gerektiren durumlarda belirginleşir."
+      },
+      {
+        "soru": "İkinci el Galaxy A41 alırken nelere dikkat etmeliyim?",
+        "cevap": "Cihazı bir süre kullanarak (örneğin 10-15 dakika video izleyerek veya oyun oynayarak) ısınma durumunu kontrol edin. Batarya performansını ve parmak izi okuyucunun çalışmasını test edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Oyun oynamaya başlayınca telefon soba gibi oluyor, elimde tutmakta zorlanıyorum.",
+      "Bataryası çok zayıf, sabah evden çıkıyorum akşama kalmıyor.",
+      "Kompakt ve güzel telefon ama performansı maalesef beklentimin altında kaldı."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A51",
+    "slug": "samsung-galaxy-a51",
+    "meta_title": "Samsung Galaxy A51 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A51 detaylı incelemesi: Teknik özellikler (6.5 inç Super AMOLED, Exynos 9611, 4000mAh batarya, 48MP kamera), yaygın arızalar (anakart, şarj, donma, ısınma), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A51: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A51, 2020 yılının en popüler telefonlarından biriydi. 6.5 inç Super AMOLED Infinity-O ekranı, Exynos 9611 işlemcisi ve 48MP ana sensörlü dörtlü kamera kurulumu ile geldi. Ancak, popülerliğine rağmen ciddi kronik sorunlarla anılmaktadır. Kullanıcı raporlarında en çok öne çıkan sorunlar; anakart arızaları, şarj olmama, sürekli donma ve yeniden başlama, aşırı ısınma ve 'nem algılandı' hatasıdır. Bu sorunlar, A50s modelinde de görülen Exynos 9611 işlemci kaynaklı problemlere benzerlik göstermektedir.",
+    "ozellikler": {
+      "cikis_yili": 2020,
+      "ekran": "6.5 inç, 1080x2400 (FHD+), Super AMOLED, Infinity-O Display",
+      "islemci": "Exynos 9611, Octa-core (4x2.3 GHz & 4x1.7 GHz)",
+      "ram": "4 GB / 6 GB / 8 GB",
+      "batarya": "4000 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 48MP (Ana) + 12MP (Ultra Geniş) + 5MP (Makro) + 5MP (Derinlik). Ön: 32MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 3 ekran. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Anakart arızası ve buna bağlı olarak telefonun hiç açılmaması (ÇOK YAYGIN).",
+      "Şarj olmama, yavaş şarj olma veya şarjın belirli bir yüzdede takılması.",
+      "Sürekli donma, kasma ve kendi kendine yeniden başlama sorunları.",
+      "Aşırı ısınma.",
+      "Şarj portunda 'nem algılandı' uyarısı.",
+      "Yazılım güncellemeleri sonrası ortaya çıkan performans sorunları.",
+      "Wi-Fi ve mobil veri bağlantısında kopmalar."
+    ],
+    "cozum_onerileri": [
+      "Anakart arızası için: Bu sorun genellikle donanımsaldır ve yetkili serviste anakart değişimi veya onarımı gerektirir. Garanti dışıysa maliyetli olabilir.",
+      "Donma ve yeniden başlama için: Geçici çözümler arasında 'wipe cache partition' ve fabrika ayarlarına sıfırlama bulunur. Ancak sorun anakart kaynaklı ise kalıcı çözüm sunmaz.",
+      "Şarj sorunları için: Farklı bir orijinal şarj aleti deneyin. Şarj portunu dikkatlice temizleyin. Sorun devam ederse şarj soketi veya anakart üzerindeki şarj entegresi arızalanmış olabilir.",
+      "Isınma için: Arka planda çalışan uygulamaları kısıtlayın ve Cihaz Bakımı menüsünden optimizasyon yapın."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A51 telefonum aniden kapandı ve açılmıyor, sorun ne olabilir?",
+        "cevap": "Bu durum, Galaxy A51 modellerinde sıkça görülen kronik anakart arızasının bir belirtisi olabilir. Bataryanın tamamen bitmiş olması da bir ihtimaldir, ancak şarja tepki vermiyorsa büyük olasılıkla anakart sorunudur ve servis müdahalesi gerekir."
+      },
+      {
+        "soru": "İkinci el Samsung Galaxy A51 alınır mı?",
+        "cevap": "Yaygın ve maliyetli anakart arızası riski nedeniyle ikinci el Galaxy A51 almak oldukça risklidir. Alınacaksa bile cihazın daha önce tamir görüp görmediği sorgulanmalı ve çok detaylı test edilmelidir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Sakın almayın! A51'lerin kronik sorunu anakart. Benimki de durup dururken bozuldu, tamiri telefonun yarı fiyatı.",
+      "Telefon sürekli donuyor, yeniden başlıyor. Servise götürdüm anakart değişecek dediler.",
+      "Şarj sorunu bitmiyor. Bazen şarj oluyor, bazen olmuyor. Nem hatası da cabası."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A71",
+    "slug": "samsung-galaxy-a71",
+    "meta_title": "Samsung Galaxy A71 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A71 detaylı incelemesi: Teknik özellikler (6.7 inç Super AMOLED Plus, Snapdragon 730, 4500mAh batarya, 64MP kamera), yaygın arızalar (ekran sorunları, şarj, ısınma), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A71: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A71, 2020 yılında piyasaya sürülen, A serisinin daha güçlü modellerinden biridir. 6.7 inç Super AMOLED Plus ekran, güçlü ve verimli Snapdragon 730 işlemci, 6GB/8GB RAM seçenekleri ve 4500 mAh bataryası ile dikkat çeker. 25W Süper Hızlı Şarj desteği sunar. Arkada 64MP ana sensörlü dörtlü kamera bulunur. Genel olarak A51'e göre daha stabil bir cihaz olsa da, kullanıcılar tarafından rapor edilen bazı kronik sorunları vardır. Bunların başında ekranda aniden beliren yeşil veya pembe çizgiler, hayalet ekran (burn-in), şarj sorunları ve zaman zaman aşırı ısınma gelmektedir.",
+    "ozellikler": {
+      "cikis_yili": 2020,
+      "ekran": "6.7 inç, 1080x2400 (FHD+), Super AMOLED Plus, Infinity-O Display",
+      "islemci": "Qualcomm Snapdragon 730, Octa-core (2x2.2 GHz & 6x1.8 GHz)",
+      "ram": "6 GB / 8 GB",
+      "batarya": "4500 mAh, 25W Süper Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 64MP (Ana) + 12MP (Ultra Geniş) + 5MP (Makro) + 5MP (Derinlik). Ön: 32MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 3 ekran. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Ekranda aniden beliren dikey yeşil veya pembe çizgiler (donanımsal sorun).",
+      "Hayalet ekran (AMOLED ekran yanığı).",
+      "Şarj sorunları ('nem algılandı' hatası, yavaş şarj).",
+      "Aşırı ısınma (özellikle yoğun kullanımda).",
+      "Yazılım güncellemeleri sonrası performans düşüşü ve donmalar.",
+      "Parmak izi okuyucunun yavaş veya tutarsız çalışması."
+    ],
+    "cozum_onerileri": [
+      "Ekrandaki yeşil/pembe çizgi sorunu: Bu sorun genellikle donanımsaldır ve flex kablo bağlantısı veya ekran panelinin kendisinden kaynaklanır. Kalıcı çözüm için ekran değişimi gerekir.",
+      "Hayalet ekranı önlemek için: Otomatik parlaklık kullanın, statik görüntüleri uzun süre ekranda bırakmayın ve koyu temayı tercih edin.",
+      "Şarj sorunları için: Orijinal 25W şarj aletini ve kablosunu kullanın. Şarj portunu temizleyin. Sorun devam ederse servis kontrolü gerekebilir.",
+      "Isınma için: Telefonu şarj olurken veya yoğun oyun seansları sırasında kılıfından çıkarmak ısı dağılımına yardımcı olabilir."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A71 ekranımda durup dururken yeşil bir çizgi çıktı, ne yapmalıyım?",
+        "cevap": "Bu, A71 modelinde rapor edilen yaygın bir donanım arızasıdır. Yazılımsal çözümler (yeniden başlatma, sıfırlama) genellikle işe yaramaz. Garanti kapsamında ise servis ile görüşerek ekran değişimi talep edebilirsiniz."
+      },
+      {
+        "soru": "Galaxy A71 oyun performansı nasıl?",
+        "cevap": "Snapdragon 730 işlemci, A51'deki Exynos 9611'e göre çok daha iyi bir oyun performansı sunar. Çoğu modern oyunu orta-yüksek ayarlarda akıcı bir şekilde çalıştırabilir."
+      },
+      {
+        "soru": "İkinci el Galaxy A71 alırken nelere dikkat etmeliyim?",
+        "cevap": "Ekranı dikkatlice kontrol edin; özellikle beyaz ve gri arka planlarda herhangi bir çizgi, leke veya hayalet ekran (burn-in) olup olmadığına bakın. Şarj portunu, batarya sağlığını ve parmak izi okuyucuyu test edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Telefonu aldığımdan beri çok memnundum ama bir sabah uyandığımda ekranın ortasında yeşil bir çizgi vardı.",
+      "Snapdragon işlemci sayesinde performansı gayet akıcı, ısınma sorunu çok az.",
+      "Şarjı çok hızlı doluyor ve günü rahat çıkarıyor ama parmak izi okuyucusu biraz daha iyi olabilirdi."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A21s",
+    "slug": "samsung-galaxy-a21s",
+    "meta_title": "Samsung Galaxy A21s Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A21s detaylı incelemesi: Teknik özellikler (6.5 inç PLS TFT, Exynos 850, 5000mAh batarya, 48MP kamera), yaygın arızalar (Wi-Fi kopması, yavaşlama, donma, kamera sorunları), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A21s: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A21s, 2020'nin en çok satan modellerinden biriydi. 6.5 inç Infinity-O ekranı, yeni nesil Exynos 850 işlemcisi ve 5000 mAh'lik devasa bataryası ile dikkat çekti. Ancak, popülerliğine rağmen kronik sorunları da beraberinde getirdi. Kullanıcılar tarafından en sık rapor edilen problem, Wi-Fi bağlantısının sürekli kopması veya zayıf çekmesidir. Ayrıca Exynos 850 işlemcinin ve eMMC depolama biriminin yetersiz kalması nedeniyle genel performans yavaşlığı, donma, uygulamalarda kasma ve kamera odaklama sorunları da yaygın şikayetler arasındadır. Batarya ömrü iyi olsa da, genel kullanıcı deneyimi bu performans sorunları nedeniyle gölgelenmektedir.",
+    "ozellikler": {
+      "cikis_yili": 2020,
+      "ekran": "6.5 inç, 720x1600 (HD+), PLS TFT LCD, Infinity-O Display",
+      "islemci": "Exynos 850, Octa-core (4x2.0 GHz & 4x2.0 GHz)",
+      "ram": "2 GB / 3 GB / 4 GB / 6 GB",
+      "batarya": "5000 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 48MP (Ana) + 8MP (Ultra Geniş) + 2MP (Makro) + 2MP (Derinlik). Ön: 13MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu (arkada)."
+    },
+    "yaygin_arizalar": [
+      "Wi-Fi bağlantısının sürekli kopması veya zayıf çekmesi (ÇOK YAYGIN).",
+      "Genel performans yavaşlığı, donma, kasma ve arayüzde takılmalar.",
+      "Kameranın geç odaklanması veya bulanık çekim yapması.",
+      "Telefonun kendi kendine yeniden başlaması.",
+      "Şarjın yavaş dolması veya şarjda takılı kalması.",
+      "Yazılım güncellemeleri sonrası performansın daha da düşmesi."
+    ],
+    "cozum_onerileri": [
+      "Wi-Fi sorunu için: Ayarlar > Genel Yönetim > Sıfırla > Ağ Ayarlarını Sıfırla seçeneğini deneyin. Modemi yeniden başlatın. Bazı kullanıcılar 'Wi-Fi Güç Tasarruf Modu'nu kapatarak çözüm bulmuştur. Sorun genellikle yazılımsaldır ve güncellemelerle düzelebilir, ancak bazı durumlarda donanımsal olabilir.",
+      "Performans sorunları için: Cihaz Bakımı menüsünden optimizasyon yapın. Gereksiz uygulamaları kaldırın. Geliştirici seçeneklerinden animasyonları kapatın. Verilerinizi yedekleyip fabrika ayarlarına sıfırlamak geçici bir rahatlama sağlayabilir.",
+      "Kamera odaklama sorunu için: Kamera lensini temizleyin. Kamera uygulamasının verilerini ve önbelleğini temizleyin. Yazılım güncellemelerini kontrol edin."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A21s Wi-Fi sorunu nasıl çözülür?",
+        "cevap": "Bu, modelin bilinen kronik bir sorunudur. Ağ ayarlarını sıfırlamak ilk denenecek yöntemdir. Sorun devam ederse, yazılım güncellemesi beklemek veya garanti kapsamında servise başvurmak gerekebilir. Kalıcı bir çözüm her zaman mümkün olmayabilir."
+      },
+      {
+        "soru": "Galaxy A21s neden bu kadar yavaş?",
+        "cevap": "Exynos 850 işlemci ve eMMC 5.1 depolama birimi, günümüz standartları için yavaş kalmaktadır. Çoklu görevlerde ve yoğun uygulamalarda bu donanım yetersiz kalarak donma ve kasmaya neden olur."
+      },
+      {
+        "soru": "İkinci el Galaxy A21s alırken nelere dikkat etmeliyim?",
+        "cevap": "Mutlaka Wi-Fi bağlantısını detaylı bir şekilde test edin; farklı ağlara bağlanın, sinyal gücünü gözlemleyin. Genel sistem akıcılığını ve kamera odaklama hızını kontrol edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "A21s Wi-Fi sorunu kronik. Sürekli kopuyor, evin dibindeki modemi görmüyor. Alacak olan uzak dursun.",
+      "Telefon o kadar yavaş ki sinir krizi geçirtir. Instagram'da gezerken bile kasıyor.",
+      "Bataryası iyi ama geri kalan her şey çöp. Kamerası odaklamıyor, sürekli donuyor."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A02s",
+    "slug": "samsung-galaxy-a02s",
+    "meta_title": "Samsung Galaxy A02s Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A02s detaylı incelemesi: Teknik özellikler (6.5 inç PLS IPS, Snapdragon 450, 5000mAh batarya, 13MP kamera), yaygın arızalar (yavaşlama, donma, şarj), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A02s: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A02s, 2021'in başlarında piyasaya sürülen giriş seviyesi bir akıllı telefondur. 6.5 inçlik geniş ekranı, Qualcomm Snapdragon 450 işlemcisi ve 5000 mAh'lik büyük bataryası ile temel kullanıcıları hedeflemiştir. Ancak, düşük RAM kapasitesi (1GB/2GB/3GB/4GB seçenekleri) ve HD+ çözünürlüklü ekranı ile performans odaklı bir cihaz değildir. Kullanıcılar tarafından en sık rapor edilen kronik sorunlar, düşük RAM ve yavaş işlemci nedeniyle yaşanan aşırı yavaşlık, sürekli donma, uygulamaların çökmesi ve şarjın yavaş dolmasıdır. Parmak izi okuyucusu bulunmamaktadır.",
+    "ozellikler": {
+      "cikis_yili": 2021,
+      "ekran": "6.5 inç, 720x1600 (HD+), PLS IPS",
+      "islemci": "Qualcomm Snapdragon 450, Octa-core 1.8 GHz",
+      "ram": "1 GB / 2 GB / 3 GB / 4 GB",
+      "batarya": "5000 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 13MP (Ana) + 2MP (Makro) + 2MP (Derinlik). Ön: 5MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu yok."
+    },
+    "yaygin_arizalar": [
+      "Aşırı yavaş performans, sürekli donma ve uygulamalarda kilitlenme.",
+      "Dokunmatik ekranın tepkisiz kalması veya geç algılaması.",
+      "Bataryanın büyük olmasına rağmen şarjın yavaş dolması.",
+      "Yazılım güncellemeleri sonrası ortaya çıkan hatalar ve daha fazla yavaşlama.",
+      "Düşük RAM nedeniyle arka plandaki uygulamaların sürekli kapanması.",
+      "Wi-Fi ve mobil veri bağlantısında zayıflık."
+    ],
+    "cozum_onerileri": [
+      "Performans sorunları için: Kullanılmayan tüm uygulamaları kaldırın. 'Cihaz Bakımı' menüsünden düzenli olarak belleği ve depolamayı temizleyin. Geliştirici seçeneklerinden animasyon ölçeklerini en düşüğe ayarlayın. Cihazı sık sık yeniden başlatın.",
+      "Dokunmatik sorunları için: Ekranın temiz olduğundan emin olun. Telefonu yeniden başlatın. Sorun devam ederse donanımsal olabilir.",
+      "Şarj sorunları için: Orijinal 15W şarj aleti ve kablosunu kullandığınızdan emin olun. Farklı bir priz deneyin."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A02s neden bu kadar yavaş?",
+        "cevap": "Snapdragon 450 eski bir işlemcidir ve düşük RAM (özellikle 1GB/2GB versiyonları) ile birleştiğinde, günümüz Android ve uygulama gereksinimlerini karşılamakta çok zorlanır. Bu durum, cihazın genel olarak yavaş çalışmasına neden olur."
+      },
+      {
+        "soru": "Galaxy A02s'te parmak izi okuyucu var mı?",
+        "cevap": "Hayır, bu modelde parmak izi okuyucu bulunmamaktadır. Güvenlik için desen, PIN veya şifre kullanılabilir."
+      },
+      {
+        "soru": "İkinci el Galaxy A02s alınır mı?",
+        "cevap": "Sadece çok temel iletişim ihtiyaçları (arama, SMS) için düşünülebilir. İnternet, sosyal medya ve diğer uygulamalar için performansı son derece yetersiz kalacağından genellikle tavsiye edilmez."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Bu telefonu aldığıma bin pişmanım. WhatsApp'ı bile açarken 1 dakika bekliyorum.",
+      "Sürekli donuyor, kendi kendine kapanıyor. Asla alınmaması gereken bir model.",
+      "5000'lik batarya var ama şarj olması saatler sürüyor. Performans berbat."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A12",
+    "slug": "samsung-galaxy-a12",
+    "meta_title": "Samsung Galaxy A12 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A12 detaylı incelemesi: Teknik özellikler (6.5 inç PLS IPS, MediaTek Helio P35, 5000mAh batarya, 48MP kamera), yaygın arızalar (donma, yavaşlama, şarj, anakart), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A12: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A12, 2021'in en popüler giriş seviyesi telefonlarından biriydi. 6.5 inç ekran, 5000 mAh batarya ve 48MP'lik ana kamerasıyla kağıt üzerinde iyi özellikler sunuyordu. Ancak, gücünü aldığı MediaTek Helio P35 işlemci, cihazın en zayıf halkası oldu. Kullanıcılar tarafından en sık rapor edilen kronik sorunlar; işlemci kaynaklı aşırı yavaşlık, sürekli donma, uygulamaların çökmesi ve kendi kendine yeniden başlama gibi ciddi performans problemleridir. Bazı durumlarda bu sorunların anakart arızasına kadar gittiği de rapor edilmiştir. Yandan monteli parmak izi okuyucusu ve dörtlü kamera kurulumu gibi artıları olsa da, genel deneyim performans sorunları nedeniyle olumsuzdur.",
+    "ozellikler": {
+      "cikis_yili": 2021,
+      "ekran": "6.5 inç, 720x1600 (HD+), PLS IPS",
+      "islemci": "MediaTek Helio P35, Octa-core",
+      "ram": "3 GB / 4 GB / 6 GB",
+      "batarya": "5000 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 48MP (Ana) + 5MP (Ultra Geniş) + 2MP (Makro) + 2MP (Derinlik). Ön: 8MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu (yanda)."
+    },
+    "yaygin_arizalar": [
+      "Aşırı derecede yavaş performans, donma ve takılmalar (MediaTek Helio P35 kaynaklı).",
+      "Telefonun aniden donması ve yeniden başlaması.",
+      "Şarj olurken veya normal kullanımda aşırı ısınma.",
+      "Anakart arızası ve telefonun hiç açılmaması.",
+      "Şarjın yavaş dolması veya şarj sorunları.",
+      "Yazılım güncellemelerinden sonra performansın daha da kötüleşmesi."
+    ],
+    "cozum_onerileri": [
+      "Performans sorunları için: Kullanılmayan uygulamaları devre dışı bırakın veya silin. Cihaz Bakımı menüsünden düzenli optimizasyon yapın. Cihazı sık sık yeniden başlatın. Bu çözümler genellikle geçicidir, çünkü sorun temel olarak işlemcinin yetersizliğidir.",
+      "Anakart arızası için: Telefon açılmıyorsa veya sürekli yeniden başlıyorsa, sorun donanımsal olabilir. Garanti kapsamında ise servis ile görüşülmelidir. Garanti dışı onarımlar maliyetli olabilir.",
+      "Isınma sorunu için: Yoğun kullanım sırasında mola verin ve şarj olurken telefonu kullanmaktan kaçının."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A12 neden sürekli donuyor?",
+        "cevap": "Bu modelde kullanılan MediaTek Helio P35 işlemci, günümüz uygulamaları ve Android arayüzü için oldukça yetersizdir. Bu durum, telefonun en temel işlemlerde bile donmasına ve kasılmasına neden olan kronik bir sorundur."
+      },
+      {
+        "soru": "İkinci el Samsung Galaxy A12 alınır mı?",
+        "cevap": "Ciddi performans sorunları ve potansiyel anakart arızası riski nedeniyle ikinci el Galaxy A12 almak tavsiye edilmez. Çok daha iyi alternatifler mevcuttur."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Hayatımda kullandığım en kötü telefon. Sürekli donuyor, kendi kendine kapanıyor. Sakın bulaşmayın.",
+      "İşlemcisi o kadar kötü ki, telefon resmen kullanılmaz halde. Şarjı iyi ama neye yarar.",
+      "Aldıktan 6 ay sonra anakartı yandı. Servis kullanıcı hatası dedi. Kronik sorunlu bir model."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A32",
+    "slug": "samsung-galaxy-a32",
+    "meta_title": "Samsung Galaxy A32 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A32 detaylı incelemesi: Teknik özellikler (6.4 inç 90Hz Super AMOLED, Helio G80, 5000mAh batarya, 64MP kamera), yaygın arızalar (yavaşlama, parmak izi, nem hatası), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A32: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A32, 2021 yılında 90Hz Super AMOLED ekranıyla orta segmente yeni bir soluk getirdi. 6.4 inçlik canlı ekranı, MediaTek Helio G80 işlemcisi, 6GB RAM'i ve 5000 mAh'lik büyük bataryası ile dikkat çekti. 64MP ana kamerası da segmenti için iyi sonuçlar veriyordu. Ancak, kullanıcı raporları Helio G80 işlemcinin özellikle oyunlarda ve yoğun kullanımda yetersiz kalarak donma ve kasmaya neden olabildiğini göstermektedir. Ayrıca, ekran içi parmak izi okuyucunun yavaş ve tutarsız çalışması ve Samsung'un klasikleşmiş 'nem algılandı' hatası da bu modelde sıkça karşılaşılan kronik sorunlardandır.",
+    "ozellikler": {
+      "cikis_yili": 2021,
+      "ekran": "6.4 inç, 1080x2400 (FHD+), 90Hz Super AMOLED, Infinity-U Display",
+      "islemci": "MediaTek Helio G80, Octa-core (2x2.0 GHz & 6x1.8 GHz)",
+      "ram": "6 GB",
+      "batarya": "5000 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 64MP (Ana) + 8MP (Ultra Geniş) + 5MP (Makro) + 5MP (Derinlik). Ön: 20MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Performans yavaşlığı, oyunlarda kasma ve genel arayüzde donmalar (Helio G80 kaynaklı).",
+      "Ekran içi parmak izi okuyucunun çok yavaş ve tutarsız çalışması.",
+      "Şarj portunda 'nem algılandı' hatası ve şarj olmama sorunu.",
+      "Yazılım güncellemeleri sonrası ortaya çıkan performans düşüşleri ve hatalar.",
+      "Yakınlık sensörünün (proximity sensor) arızalanması ve arama sırasında ekranın kapanmaması.",
+      "Nadiren de olsa Wi-Fi ve mobil veri bağlantı sorunları."
+    ],
+    "cozum_onerileri": [
+      "Performans için: 'Oyun Güçlendirici' ayarlarını optimize edin, gereksiz uygulamaları kaldırın ve Cihaz Bakımı menüsünü düzenli kullanın. Fabrika ayarlarına sıfırlamak geçici rahatlama sağlayabilir.",
+      "Parmak izi okuyucu için: Yazılım güncellemelerini kontrol edin. Parmağınızı birden fazla kez farklı açılardan kaydedin. Sensörle uyumlu ekran koruyucu kullanın.",
+      "'Nem algılandı' hatası için: Şarj portunu basınçlı hava ile nazikçe temizleyin. Sorun devam ederse şarj soketi değişimi gerekebilir.",
+      "Yakınlık sensörü için: *#0*# menüsünden sensör testi yapın. Sensörün üzerini kapatan bir ekran koruyucu veya kir olup olmadığını kontrol edin. Sorun genellikle donanımsaldır ve servis müdahalesi gerektirir."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A32 oyun oynamak için iyi bir telefon mu?",
+        "cevap": "MediaTek Helio G80 işlemci, PUBG gibi popüler oyunları düşük-orta ayarlarda oynatabilir ancak yüksek ayarlarda ve uzun süreli oyun seanslarında ciddi kasma, donma ve ısınma sorunları yaşatır. Rekabetçi oyunlar için tavsiye edilmez."
+      },
+      {
+        "soru": "Galaxy A32'nin parmak izi okuyucusu neden bu kadar kötü?",
+        "cevap": "Bu modeldeki optik parmak izi sensörünün donanım kalitesi ve yazılım optimizasyonu, daha pahalı modellere göre daha zayıftır. Bu durum, okuma hızının ve tutarlılığının düşük olmasına neden olur."
+      },
+      {
+        "soru": "İkinci el Galaxy A32 alırken nelere dikkat etmeliyim?",
+        "cevap": "Özellikle parmak izi okuyucunun ne kadar yavaş çalıştığını test edin. Bir oyun açarak veya birkaç uygulama arasında geçiş yaparak genel performansını gözlemleyin. Arama yaparak yakınlık sensörünü ve şarj portunu kontrol edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Parmak izi okuyucu tam bir fiyasko, on denemenin birinde açılıyor.",
+      "Telefonun şarjı çok iyi gidiyor, ekranı da çok güzel ama oyunlarda çok kasıyor.",
+      "Durup dururken nem algılandı hatası veriyor, kronik sorunmuş bu modellerde."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A52",
+    "slug": "samsung-galaxy-a52",
+    "meta_title": "Samsung Galaxy A52 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A52 detaylı incelemesi: Teknik özellikler (6.5 inç 90Hz Super AMOLED, Snapdragon 720G, OIS, IP67), yaygın arızalar (aşırı ısınma, yakınlık sensörü, yazılım hataları), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A52: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A52, 2021 yılında orta segmente OIS (Optik Görüntü Sabitleme) ve IP67 suya dayanıklılık gibi amiral gemisi özellikleri getirerek büyük bir başarı yakaladı. 6.5 inç 90Hz Super AMOLED ekranı, stabil çalışan Snapdragon 720G işlemcisi ve 4500 mAh bataryası ile çok dengeli bir paket sunuyordu. Ancak, popülerliğine rağmen bazı kronik sorunları da vardı. Kullanıcılar tarafından en sık rapor edilen sorun, özellikle video kaydı sırasında ve oyun oynarken cihazın aşırı ısınmasıdır. Ayrıca, fiziksel bir sensör yerine sanal yakınlık sensörü kullanılması, telefonla konuşurken ekranın istenmeyen dokunuşlara açık kalmasına neden olan yaygın bir şikayettir. Android 12 ve 13 güncellemeleri sonrası artan yazılım hataları da kullanıcı deneyimini etkilemiştir.",
+    "ozellikler": {
+      "cikis_yili": 2021,
+      "ekran": "6.5 inç, 1080x2400 (FHD+), 90Hz Super AMOLED, Infinity-O Display",
+      "islemci": "Qualcomm Snapdragon 720G, Octa-core (2x2.3 GHz & 6x1.8 GHz)",
+      "ram": "8 GB",
+      "batarya": "4500 mAh, 25W Süper Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 64MP (OIS, Ana) + 12MP (Ultra Geniş) + 5MP (Makro) + 5MP (Derinlik). Ön: 32MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Aşırı ısınma (özellikle 4K video kaydı ve oyun sırasında).",
+      "Sanal yakınlık sensörü sorunu (arama sırasında ekranın kapanmaması).",
+      "Yazılım güncellemeleri (özellikle Android 12) sonrası performans düşüşü, donma ve hatalar.",
+      "Batarya performansının güncellemeler sonrası azalması.",
+      "Nadiren ekranda titreme veya yeşil ton sorunu.",
+      "Şarj soketi arızaları ve 'nem algılandı' hatası."
+    ],
+    "cozum_onerileri": [
+      "Isınma için: 4K yerine 1080p video çekimi tercih edin. Yoğun oyun seanslarında mola verin. Cihazı şarj olurken kullanmaktan kaçının.",
+      "Yakınlık sensörü için: Bu sorun temel olarak donanım tasarımından kaynaklandığı için kalıcı bir çözümü yoktur. Yazılım güncellemeleri durumu bir miktar iyileştirebilir. Arama sırasında ekranı güç tuşuyla manuel olarak kilitlemek bir yöntem olabilir.",
+      "Yazılım sorunları için: Güncelleme sonrası 'wipe cache partition' yapın. Sorun devam ederse verileri yedekleyip fabrika ayarlarına sıfırlamayı düşünün.",
+      "Ekran titremesi için: Ekran parlaklığını otomatikten çıkarıp manuel olarak ayarlamayı deneyin. Sorun donanımsal olabilir."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A52 neden çok ısınıyor?",
+        "cevap": "Snapdragon 720G işlemci, 4K video işleme ve yüksek grafikli oyunlar gibi yoğun görevler altında zorlandığında ciddi miktarda ısı üretebilir. Cihazın plastik kasası da ısıyı dağıtmakta metal kasalar kadar etkili değildir."
+      },
+      {
+        "soru": "Arama yaparken Galaxy A52'nin ekranı neden açık kalıyor?",
+        "cevap": "Galaxy A52, maliyeti düşürmek için fiziksel bir yakınlık sensörü yerine sanal bir sensör kullanır. Bu sanal sensör, jiroskop ve diğer sensör verilerini kullanarak kulağınıza götürdüğünüzü anlamaya çalışır ancak her zaman doğru çalışmaz. Bu, modelin bilinen bir kronik sorunudur."
+      },
+      {
+        "soru": "İkinci el Galaxy A52 alırken nelere dikkat etmeliyim?",
+        "cevap": "Cihazla bir arama yaparak yakınlık sensörünün çalışıp çalışmadığını test edin. 5-10 dakika video kaydı yaparak ısınma durumunu kontrol edin. Ekranda herhangi bir titreme veya renk sorunu olup olmadığına bakın. IP67 sertifikasına güvenerek suya sokulmuş olabileceğini ve contaların zamanla aşınabileceğini unutmayın."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "OIS ve IP67 harika ama telefonla konuşurken ekran kapanmıyor, sürekli bir yerlere dokunuyorum.",
+      "4K video çekmeye başlayınca 5 dakika içinde telefon ateş gibi oluyor ve kamera uygulaması kapanıyor.",
+      "Android 12 güncellemesinden sonra telefon resmen yavaşladı ve hatalar vermeye başladı."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A52s 5G",
+    "slug": "samsung-galaxy-a52s-5g",
+    "meta_title": "Samsung Galaxy A52s 5G Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A52s 5G detaylı incelemesi: Teknik özellikler (6.5 inç 120Hz Super AMOLED, Snapdragon 778G, OIS, IP67), yaygın arızalar ve neden 'efsane' olarak anıldığı.",
+    "h1_baslik": "Samsung Galaxy A52s 5G: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A52s 5G, 2021'de A52'nin üzerine küçük ama çok önemli bir yükseltme ile geldi: Snapdragon 778G 5G işlemci. Bu işlemci, telefonu orta segmentten üst-orta segmente taşıyarak adeta bir 'performans canavarı' haline getirdi. 120Hz Super AMOLED ekran, OIS'li 64MP kamera ve IP67 suya dayanıklılık gibi sevilen özellikler korundu. A52s, dengeli ve güçlü yapısıyla kullanıcılar tarafından 'efsane kasa' olarak nitelendirildi ve çıktığı dönemin en çok tavsiye edilen telefonlarından biri oldu. Kronik ve yaygın bir sorunu olmamasıyla ünlüdür. Tek tük rapor edilen sorunlar genellikle münferit yazılım hataları veya batarya performansının 120Hz nedeniyle beklentiyi karşılamamasıdır.",
+    "ozellikler": {
+      "cikis_yili": 2021,
+      "ekran": "6.5 inç, 1080x2400 (FHD+), 120Hz Super AMOLED, Infinity-O Display",
+      "islemci": "Qualcomm Snapdragon 778G 5G, Octa-core (4x2.4 GHz & 4x1.8 GHz)",
+      "ram": "8 GB",
+      "batarya": "4500 mAh, 25W Süper Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 64MP (OIS, Ana) + 12MP (Ultra Geniş) + 5MP (Makro) + 5MP (Derinlik). Ön: 32MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Bilinen yaygın bir kronik arızası bulunmamaktadır.",
+      "Batarya performansının 120Hz ekran tazeleme hızı nedeniyle bazı kullanıcılara yetersiz gelmesi.",
+      "Nadiren, büyük yazılım güncellemeleri sonrası ortaya çıkan küçük hatalar (bug'lar).",
+      "A52'deki sanal yakınlık sensörü sorunu bu modelde de mevcuttur ancak işlemci daha iyi optimize ettiği için daha az hissedilebilir."
+    ],
+    "cozum_onerileri": [
+      "Batarya ömrünü uzatmak için: Ayarlar > Ekran > Ekran Akıcılığı menüsünden ekran tazeleme hızını 'Standart' (60Hz) olarak ayarlayabilirsiniz. Bu, batarya ömrünü belirgin şekilde artıracaktır.",
+      "Yazılım hataları için: Cihazı güncel tutun. Herhangi bir sorun yaşarsanız önbelleği temizlemeyi veya sorunlu uygulamayı yeniden yüklemeyi deneyin."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A52s, A52'den neden çok daha iyi?",
+        "cevap": "Temel fark işlemcidir. A52s'teki Snapdragon 778G, A52'deki Snapdragon 720G'den %40-50'ye varan oranlarda daha güçlüdür. Bu, oyunlarda, genel arayüz akıcılığında ve uygulama açılış hızlarında kendini belli eder. Ayrıca 120Hz ekran (A52'de 90Hz) daha akıcı bir görsel deneyim sunar."
+      },
+      {
+        "soru": "İkinci el Samsung Galaxy A52s alınır mı?",
+        "cevap": "Kesinlikle. Temiz ve sorunsuz bir A52s, günümüzde bile birçok yeni orta segment telefondan daha iyi bir performans ve deneyim sunabilir. Alırken genel fiziksel durumu, batarya sağlığını ve ekranı kontrol etmek yeterlidir. Kronik bir sorunu olmadığı için daha güvenli bir tercihtir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Bu telefonu 2 senedir kullanıyorum, bir kere bile teklemedi. Samsung'un yaptığı en iyi F/P telefonuydu.",
+      "Performansı hala canavar gibi. Yeni çıkan birçok telefona kafa tutar.",
+      "Tek şikayetim bataryası. 120Hz açıkken günü zor çıkarıyor. 60Hz'e alınca rahatlıyor."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A72",
+    "slug": "samsung-galaxy-a72",
+    "meta_title": "Samsung Galaxy A72 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A72 detaylı incelemesi: Teknik özellikler (6.7 inç 90Hz Super AMOLED, Snapdragon 720G, OIS, 3x Telefoto Kamera, IP67), yaygın arızalar (ısınma, yazılım), pratik çözümler.",
+    "h1_baslik": "Samsung Galaxy A72: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A72, 2021 yılında A52 ile birlikte piyasaya sürüldü ve temel olarak onun 'büyük ekranlı ve telefoto kameralı' abisiydi. 6.7 inç 90Hz Super AMOLED ekranı, 5000 mAh'lik daha büyük bataryası ve en önemlisi 3x optik zoom yapabilen 8MP telefoto kamerası ile A52'den ayrılıyordu. Diğer özellikler (Snapdragon 720G işlemci, 64MP OIS'li ana kamera, IP67) A52 ile aynıydı. Bu nedenle, A52'de görülen aşırı ısınma ve sanal yakınlık sensörü gibi kronik sorunları miras aldı. Büyük kasası daha iyi ısı dağılımı sağlasa da, işlemci limitleri nedeniyle yoğun kullanımda ısınma hala bir sorundu. Telefoto kamera, onu fotoğrafçılıkta daha esnek bir seçenek haline getiriyordu.",
+    "ozellikler": {
+      "cikis_yili": 2021,
+      "ekran": "6.7 inç, 1080x2400 (FHD+), 90Hz Super AMOLED, Infinity-O Display",
+      "islemci": "Qualcomm Snapdragon 720G, Octa-core (2x2.3 GHz & 6x1.8 GHz)",
+      "ram": "8 GB",
+      "batarya": "5000 mAh, 25W Süper Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 64MP (OIS, Ana) + 8MP (3x Optik Zoom, Telefoto) + 12MP (Ultra Geniş) + 5MP (Makro). Ön: 32MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Aşırı ısınma (A52'ye göre biraz daha az olsa da hala mevcut).",
+      "Sanal yakınlık sensörü sorunu ve arama sırasında yaşanan problemler.",
+      "Büyük yazılım güncellemeleri sonrası ortaya çıkan donma ve kasma sorunları.",
+      "Parmak izi okuyucunun yavaş çalışması.",
+      "Nadiren de olsa şarj soketi ve 'nem algılandı' hatası."
+    ],
+    "cozum_onerileri": [
+      "Isınma ve yazılım sorunları için çözümler Galaxy A52 ile aynıdır: Yazılımı güncel tutmak, 'wipe cache partition' yapmak ve yoğun görevler sırasında cihaza mola verdirmek.",
+      "Yakınlık sensörü sorununun kalıcı bir donanımsal çözümü yoktur, yazılım güncellemeleri ile iyileştirme beklenebilir.",
+      "Parmak izi okuyucu performansını artırmak için parmağı birden fazla kez kaydetmek ve kaliteli ekran koruyucu kullanmak önerilir."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A72 ve A52 arasındaki temel farklar nelerdir?",
+        "cevap": "A72'nin üç temel farkı vardır: Daha büyük 6.7 inç ekran (A52'de 6.5 inç), daha büyük 5000 mAh batarya (A52'de 4500 mAh) ve en önemlisi 3x optik zoom yapabilen telefoto kameranın bulunması (A52'de yok)."
+      },
+      {
+        "soru": "Galaxy A72'nin telefoto kamerası iyi mi?",
+        "cevap": "Evet, 3x optik zoom özelliği, özellikle gün ışığında uzaktaki nesneleri kaliteden çok az kayıpla çekmek için oldukça kullanışlıdır. Dijital zoom'a göre çok daha net sonuçlar verir. Bu, A72'nin en büyük satış noktalarından biridir."
+      },
+      {
+        "soru": "İkinci el Galaxy A72 alırken nelere dikkat etmeliyim?",
+        "cevap": "A52 için geçerli olan tüm kontroller yapılmalıdır: Isınma durumu, yakınlık sensörü, ekran ve şarj portu. Ek olarak, kamera uygulamasında 3x zoom'a geçerek telefoto kameranın düzgün çalışıp odaklandığını mutlaka test edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Bataryası ve ekranı muhteşem, tam bir medya tüketim cihazı.",
+      "Kamerasındaki 3x zoom hayat kurtarıyor, konserlerde falan çok işe yarıyor.",
+      "Telefon çok büyük ve ağır, tek elle kullanmak neredeyse imkansız. A52 gibi ısınıyor."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A13",
+    "slug": "samsung-galaxy-a13",
+    "meta_title": "Samsung Galaxy A13 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A13 (4G) detaylı incelemesi: Teknik özellikler (6.6 inç PLS LCD, Exynos 850, 5000mAh batarya, 50MP kamera), yaygın arızalar (aşırı yavaşlık, donma, kasma, Wi-Fi), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A13: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A13, 2022'nin en çok satan giriş seviyesi telefonlarından biri oldu. 6.6 inç Full HD+ ekran, 50MP ana kamera ve 5000 mAh batarya gibi dikkat çekici özelliklerle geldi. Ancak, cihazın kalbinde yer alan Exynos 850 işlemci, A21s modelinden de bilinen ciddi bir performans sorununa yol açtı. Kullanıcılar tarafından en sık ve yoğun şekilde rapor edilen kronik sorun, cihazın aşırı yavaş çalışması, en temel işlemlerde bile donması, kasması ve arayüzde takılmasıdır. Bu durum, cihazın genel kullanıcı deneyimini önemli ölçüde olumsuz etkilemektedir. Wi-Fi bağlantı sorunları ve yavaş şarj da diğer yaygın şikayetler arasındadır.",
+    "ozellikler": {
+      "cikis_yili": 2022,
+      "ekran": "6.6 inç, 1080x2408 (FHD+), PLS LCD",
+      "islemci": "Exynos 850, Octa-core (4x2.0 GHz & 4x2.0 GHz)",
+      "ram": "3 GB / 4 GB / 6 GB",
+      "batarya": "5000 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 50MP (Ana) + 5MP (Ultra Geniş) + 2MP (Makro) + 2MP (Derinlik). Ön: 8MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu (yanda)."
+    },
+    "yaygin_arizalar": [
+      "Aşırı yavaş performans, sürekli donma, kasma ve arayüzde gezinirken takılma (ÇOK YAYGIN).",
+      "Uygulamaların geç açılması ve çökmesi.",
+      "Wi-Fi bağlantısında zayıflık veya kopmalar.",
+      "Bataryanın yavaş şarj olması (15W şarjın 5000 mAh için yetersiz kalması).",
+      "Yazılım güncellemeleri sonrası performansın daha da düşmesi.",
+      "Ekran dokunmatiğinde zaman zaman tepkisizlik."
+    ],
+    "cozum_onerileri": [
+      "Performans sorunları için: Bu sorun temel olarak Exynos 850 işlemcinin yetersizliğinden kaynaklandığı için kalıcı bir çözümü yoktur. Geçici rahatlama için Cihaz Bakımı menüsünden optimizasyon yapın, gereksiz uygulamaları silin, geliştirici seçeneklerinden animasyonları kapatın ve cihazı sık sık yeniden başlatın.",
+      "Wi-Fi sorunları için: Ayarlar > Genel Yönetim > Sıfırla > Ağ Ayarlarını Sıfırla seçeneğini deneyin.",
+      "Yavaş şarj için: Telefonu şarj olurken kullanmaktan kaçının. Orijinal Samsung 15W şarj aletini kullandığınızdan emin olun."
+    ],
+    "sss": [
+      {
+        "soru": "Samsung Galaxy A13 neden bu kadar yavaş ve çok kasıyor?",
+        "cevap": "Galaxy A13'teki Exynos 850 işlemci ve yavaş eMMC depolama birimi, Full HD+ ekran ve günümüz Android arayüzünün gereksinimlerini karşılamakta zorlanır. Bu donanım yetersizliği, cihazın en temel görevlerde bile kronik olarak donmasına ve kasmasına neden olur."
+      },
+      {
+        "soru": "Galaxy A13 oyun oynamak için uygun mu?",
+        "cevap": "Hayır. Ciddi performans sorunları nedeniyle, en basit oyunlar dışındaki modern ve popüler oyunları oynamak için kesinlikle uygun değildir. Oyun sırasında aşırı kasma ve donma yaşanır."
+      },
+      {
+        "soru": "İkinci el Galaxy A13 almayı düşünüyorum, tavsiye eder misiniz?",
+        "cevap": "Kronik performans sorunları nedeniyle ikinci el Galaxy A13 almak genellikle tavsiye edilmez. Çok temel kullanım için bile sabır gerektirebilir. Alınacaksa bile, ne kadar yavaş çalıştığını bizzat deneyimleyerek karar verilmelidir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Bu kadar yavaş bir telefon görmedim. Rehberi açmak için bile 10 saniye bekliyorum. Sakın almayın.",
+      "Telefon resmen kanser ediyor. Sürekli donuyor, kasıyor, kendi kendine bir şeyler yapıyor. Parasının telefonu değil.",
+      "Exynos 850 işlemcili telefonlardan uzak durun. A13 de bunun en kötü örneklerinden biri."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A23",
+    "slug": "samsung-galaxy-a23",
+    "meta_title": "Samsung Galaxy A23 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A23 (4G) detaylı incelemesi: Teknik özellikler (6.6 inç 90Hz PLS LCD, Snapdragon 680, OIS), yaygın arızalar (yazılım hataları, dokunmatik, şarj), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A23: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A23, 2022'de A13'ün bir üst modeli olarak piyasaya sürüldü. 6.6 inç 90Hz ekran, daha performanslı Snapdragon 680 işlemci ve en önemlisi OIS (Optik Görüntü Sabitleme) özellikli 50MP ana kamera gibi önemli iyileştirmelerle geldi. 5000 mAh bataryası 25W hızlı şarjı desteklese de kutudan genellikle 15W adaptör çıkmaktadır. Genel olarak A13'e göre çok daha akıcı bir deneyim sunsa da, kullanıcılar tarafından rapor edilen bazı sorunları vardır. Bunların başında yazılım güncellemeleri sonrası ortaya çıkan hatalar, dokunmatik ekranın zaman zaman tepkisiz kalması (ghost touch) ve şarj sorunları gelmektedir.",
+    "ozellikler": {
+      "cikis_yili": 2022,
+      "ekran": "6.6 inç, 1080x2408 (FHD+), 90Hz PLS LCD",
+      "islemci": "Qualcomm Snapdragon 680 4G, Octa-core",
+      "ram": "4 GB / 6 GB / 8 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 50MP (OIS, Ana) + 5MP (Ultra Geniş) + 2MP (Makro) + 2MP (Derinlik). Ön: 8MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu (yanda)."
+    },
+    "yaygin_arizalar": [
+      "Yazılım güncellemeleri sonrası ortaya çıkan hatalar, donmalar ve performans düşüşü.",
+      "Dokunmatik ekran sorunları (ghost touch - kendi kendine basma, tepkisizlik).",
+      "Şarjın yavaş dolması veya şarjın belirli bir seviyede takılı kalması.",
+      "Nadiren kamera odaklama sorunları.",
+      "Parmak izi okuyucunun zaman zaman geç algılaması."
+    ],
+    "cozum_onerileri": [
+      "Yazılım sorunları için: Güncelleme sonrası 'wipe cache partition' yapın. Cihazı güncel tutun. Sorun devam ederse fabrika ayarlarına sıfırlamak gerekebilir.",
+      "Dokunmatik sorunları için: Ekranı ve ellerinizi temizleyin. Ekran koruyucuyu çıkarıp test edin. Yazılım güncellemelerini kontrol edin. Sorun devam ederse donanımsal bir arıza olabilir ve servis kontrolü gerekebilir.",
+      "Şarj sorunları için: 25W destekli orijinal bir Samsung adaptörü kullanmak şarj süresini önemli ölçüde kısaltır. Farklı kablo ve adaptör deneyin. Şarj portunu temizleyin."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A23'ün en önemli özelliği nedir?",
+        "cevap": "Galaxy A23'ün kendi segmentindeki en önemli özelliği, ana kamerasında OIS (Optik Görüntü Sabitleme) bulunmasıdır. Bu özellik, özellikle video çekerken ve düşük ışıkta fotoğraf çekerken titreşimleri azaltarak daha net ve sabit görüntüler elde etmeyi sağlar."
+      },
+      {
+        "soru": "Galaxy A23'ün dokunmatik sorunu (ghost touch) nasıl çözülür?",
+        "cevap": "Bu sorun genellikle yazılımsaldır ve güncellemelerle düzeltilebilir. Geçici çözüm olarak telefonu yeniden başlatmak veya dokunmatik hassasiyeti ayarlarını değiştirmek denenebilir. Sorun kalıcı ise donanımsal olabilir."
+      },
+      {
+        "soru": "İkinci el Galaxy A23 alırken nelere dikkat edilmeli?",
+        "cevap": "Dokunmatik ekranı detaylıca test edin (yazı yazın, hızlıca kaydırın). Kamera uygulamasını açıp OIS'in çalışıp çalışmadığını (hafif titreşimleri sönümlediğini) gözlemleyin. Parmak izi okuyucusunu ve şarj portunu kontrol edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Telefonu aldığımdan beri dokunmatik sorunu yaşıyorum, kendi kendine bir yerlere giriyor.",
+      "Son güncellemeden sonra telefon yavaşladı ve bazı uygulamalar hata veriyor.",
+      "Kamerası OIS sayesinde gerçekten çok iyi. Gündüz çekimleri harika."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A33 5G",
+    "slug": "samsung-galaxy-a33-5g",
+    "meta_title": "Samsung Galaxy A33 5G Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A33 5G detaylı incelemesi: Teknik özellikler (6.4 inç 90Hz Super AMOLED, Exynos 1280, OIS, IP67), yaygın arızalar (aşırı ısınma, performans düşüşü, yakınlık sensörü), pratik çözümler.",
+    "h1_baslik": "Samsung Galaxy A33 5G: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A33 5G, 2022'de A serisine önemli yenilikler getirdi. 90Hz Super AMOLED ekran, IP67 suya ve toza dayanıklılık, OIS destekli 48MP kamera gibi özellikler sunuyordu. Ancak, gücünü aldığı yeni Exynos 1280 işlemci, bazı kronik sorunları da beraberinde getirdi. Kullanıcılar tarafından en sık rapor edilen problemler; özellikle oyun ve yoğun kullanımda aşırı ısınma ve buna bağlı performans düşüşü (throttling), yazılım optimizasyon sorunları nedeniyle arayüzde yaşanan takılmalar ve A52'den miras kalan sanal yakınlık sensörü problemidir. Ayrıca bu modelle birlikte kulaklık jakı da kaldırılmıştır. Özellikleri iyi olsa da, işlemci kaynaklı sorunlar kullanıcı deneyimini etkilemiştir.",
+    "ozellikler": {
+      "cikis_yili": 2022,
+      "ekran": "6.4 inç, 1080x2400 (FHD+), 90Hz Super AMOLED, Infinity-U Display",
+      "islemci": "Exynos 1280, Octa-core (2x2.4 GHz & 6x2.0 GHz)",
+      "ram": "6 GB / 8 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 48MP (OIS, Ana) + 8MP (Ultra Geniş) + 5MP (Makro) + 2MP (Derinlik). Ön: 13MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Aşırı ısınma ve performans düşüşü (throttling), özellikle oyunlarda (Exynos 1280 kaynaklı).",
+      "Yazılım optimizasyon sorunları, arayüzde takılmalar ve donmalar.",
+      "Sanal yakınlık sensörü sorunu (arama sırasında ekranın kapanmaması).",
+      "Batarya performansının beklenenden düşük olması (ısınma nedeniyle).",
+      "Kulaklık jakının olmaması (kullanıcılar için bir eksiklik)."
+    ],
+    "cozum_onerileri": [
+      "Isınma ve performans sorunları için: Yoğun kullanım sırasında cihazı kılıfsız kullanmak ısı dağılımına yardımcı olabilir. Oyun oynarken grafik ayarlarını düşürün. Yazılım güncellemeleri, zamanla işlemci optimizasyonunu iyileştirebilir.",
+      "Yakınlık sensörü sorunu için: Bu donanım tasarımı kaynaklı bir problem olduğu için kalıcı bir çözümü yoktur. Arama sırasında güç tuşuyla ekranı manuel kilitlemek bir yöntemdir.",
+      "Batarya performansını artırmak için: Isınmayı tetikleyen uygulamalardan kaçının. Güç tasarrufu modlarını ve 60Hz ekran modunu kullanın."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A33 5G oyun için alınır mı?",
+        "cevap": "Exynos 1280 işlemcinin aşırı ısınma ve performans kısma (throttling) eğilimi nedeniyle, uzun süreli ve rekabetçi oyun seansları için tavsiye edilmez. Kısa süreli ve basit oyunlar oynanabilir, ancak yoğun oyunlarda ciddi performans düşüşleri yaşanır."
+      },
+      {
+        "soru": "Galaxy A33 5G'de kulaklık girişi var mı?",
+        "cevap": "Hayır, Galaxy A33 5G modelinde 3.5mm kulaklık jakı bulunmamaktadır. Kulaklıklar için USB-C dönüştürücü veya Bluetooth kulaklık kullanılması gerekmektedir."
+      },
+      {
+        "soru": "İkinci el Galaxy A33 5G alırken neye dikkat etmeliyim?",
+        "cevap": "Cihazı bir süre yoğun kullanarak (oyun, video) ısınma durumunu ve performans düşüşü yaşayıp yaşamadığını kontrol edin. Arama yaparak yakınlık sensörünü test edin. IP67 sertifikasına güvenerek suya maruz kalmış olabileceğini ve bunun uzun vadede sorun yaratabileceğini unutmayın."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Telefon oyun oynarken soba gibi oluyor ve kasmaya başlıyor. Exynos 1280 tam bir hayal kırıklığı.",
+      "IP67 ve OIS güzel özellikler ama telefonla konuşurken yüzümle sürekli bir yerleri sessize alıyorum.",
+      "Bataryası kağıt üzerinde 5000 mAh ama ısındığı için çok çabuk bitiyor."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A53 5G",
+    "slug": "samsung-galaxy-a53-5g",
+    "meta_title": "Samsung Galaxy A53 5G Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A53 5G detaylı incelemesi: Teknik özellikler (6.5 inç 120Hz Super AMOLED, Exynos 1280, OIS, IP67), yaygın arızalar (performans, ısınma, takılma), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A53 5G: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A53 5G, 2022'nin en çok konuşulan orta segment telefonlarından biriydi. 120Hz Super AMOLED ekran, OIS'li 64MP kamera ve IP67 sertifikası gibi üst düzey özellikler sunuyordu. Ancak, A33 5G gibi, o da gücünü tartışmalı Exynos 1280 işlemcisinden alıyordu. Bu durum, A53 5G'nin en büyük handikabı oldu. Kullanıcılar tarafından en sık rapor edilen kronik sorunlar; genel arayüzde ve uygulamalarda yaşanan anlamsız takılmalar, donmalar, aşırı ısınma ve buna bağlı performans düşüşüdür. Birçok kullanıcı, A52s gibi önceki bir modelin çok daha akıcı çalıştığını belirtmiştir. Sanal yakınlık sensörü sorunu ve kulaklık jakının olmaması da eleştirilen diğer noktalardır. Zamanla gelen güncellemelerle performans bir miktar iyileşse de, ilk çıkışındaki sorunlar modelin reputasyonunu etkilemiştir.",
+    "ozellikler": {
+      "cikis_yili": 2022,
+      "ekran": "6.5 inç, 1080x2400 (FHD+), 120Hz Super AMOLED, Infinity-O Display",
+      "islemci": "Exynos 1280, Octa-core (2x2.4 GHz & 6x2.0 GHz)",
+      "ram": "6 GB / 8 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 64MP (OIS, Ana) + 12MP (Ultra Geniş) + 5MP (Makro) + 5MP (Derinlik). Ön: 32MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Genel arayüzde ve uygulamalarda sürekli takılma, donma ve gecikme (lag) (ÇOK YAYGIN).",
+      "Aşırı ısınma ve performans düşüşü (throttling).",
+      "Sanal yakınlık sensörü sorunu.",
+      "Yazılım optimizasyon sorunları ve hatalar.",
+      "Batarya ömrünün beklenenden kısa olması."
+    ],
+    "cozum_onerileri": [
+      "Performans ve takılma sorunları için: Tüm yazılım güncellemelerini mutlaka yapın. Ayarlar > Cihaz Bakımı menüsündeki 'RAM Plus' özelliğini daha düşük bir seviyeye ayarlamak veya kapatmak bazı kullanıcılarda performansı artırmıştır. Gereksiz uygulamaları silin ve cihazı düzenli olarak yeniden başlatın.",
+      "Isınma sorunları için: Yoğun kullanımda cihazı kılıfından çıkarın ve mola verin. Parlaklığı düşürün.",
+      "Yakınlık sensörü sorunu için: Kalıcı bir çözümü yoktur, yazılım güncellemeleri ile iyileştirme beklenebilir."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A53 5G neden sürekli takılıyor ve yavaş?",
+        "cevap": "Bu durumun temel nedeni Exynos 1280 işlemcinin ve One UI arayüzünün optimizasyon sorunlarıdır. Donanım güçlü olmasına rağmen, yazılımın donanımla uyumsuzluğu, en basit işlemlerde bile takılmalara ve gecikmelere neden olan kronik bir sorundur. Sonraki güncellemeler bu sorunu bir miktar azaltmıştır."
+      },
+      {
+        "soru": "Galaxy A53 5G mi yoksa eski model A52s 5G mi daha iyi?",
+        "cevap": "Performans ve akıcılık açısından, Snapdragon 778G işlemcili Galaxy A52s 5G, Exynos 1280'li A53 5G'den kesinlikle daha üstündür. A53 daha uzun yazılım desteği sunsa da, günlük kullanım deneyiminde A52s daha sorunsuz bir cihaz olarak kabul edilir."
+      },
+      {
+        "soru": "İkinci el Galaxy A53 5G alırken nelere dikkat etmeliyim?",
+        "cevap": "Cihazın en son yazılım güncellemesini aldığından emin olun. Menülerde gezinerek, uygulamalar arası geçiş yaparak takılma (lag) olup olmadığını kontrol edin. Yoğun kullanımda ısınma seviyesini ve arama yaparak yakınlık sensörünü test edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Telefon resmen takılmak için üretilmiş. Arayüzde gezerken bile anlamsız kasmalar oluyor.",
+      "A52s'ten bu telefona geçtim, bin pişmanım. Eskisi çok daha akıcıydı. Exynos tam bir fiyasko.",
+      "Isınma sorunu yüzünden bataryası su gibi akıp gidiyor. Özellikleri güzel ama kullanımı eziyet."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A73 5G",
+    "slug": "samsung-galaxy-a73-5g",
+    "meta_title": "Samsung Galaxy A73 5G Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A73 5G detaylı incelemesi: Teknik özellikler (6.7 inç 120Hz Super AMOLED Plus, Snapdragon 778G, 108MP OIS Kamera, IP67), yaygın arızalar ve neden başarılı olduğu.",
+    "h1_baslik": "Samsung Galaxy A73 5G: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A73 5G, 2022 yılında A serisinin zirvesi olarak piyasaya sürüldü ve A52s'in başarısını devam ettirdi. En önemli özelliği, A33/A53 modellerindeki tartışmalı Exynos işlemci yerine, kendini kanıtlamış ve çok sevilen Snapdragon 778G işlemciyi kullanmasıydı. Bu sayede, performans konusunda son derece stabil ve akıcı bir deneyim sundu. 6.7 inçlik devasa 120Hz Super AMOLED Plus ekranı, A serisinde ilk defa kullanılan 108MP OIS destekli ana kamerası ve IP67 sertifikası ile tam bir amiral gemisi katiliydi. A52s gibi, A73 5G de bilinen yaygın bir kronik soruna sahip değildir. Tek eleştirilen noktası, A72'de bulunan telefoto (optik zoom) kamerasının bu modelde yer almaması ve kulaklık jakının kaldırılmış olmasıdır. Türkiye'de resmi olarak satışa çıkmamış olsa da, ithalatçı garantili olarak bulunan en sorunsuz ve güçlü A serisi modellerinden biridir.",
+    "ozellikler": {
+      "cikis_yili": 2022,
+      "ekran": "6.7 inç, 1080x2400 (FHD+), 120Hz Super AMOLED Plus, Infinity-O Display",
+      "islemci": "Qualcomm Snapdragon 778G 5G, Octa-core",
+      "ram": "6 GB / 8 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 108MP (OIS, Ana) + 12MP (Ultra Geniş) + 5MP (Makro) + 5MP (Derinlik). Ön: 32MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Bilinen yaygın veya kronik bir arızası bulunmamaktadır.",
+      "Telefoto (optik zoom) kamerasının olmaması (önceki model A72'de vardı).",
+      "Kulaklık jakının olmaması.",
+      "Nadiren, büyük yazılım güncellemeleri sonrası küçük hatalar (her telefonda olabilir)."
+    ],
+    "cozum_onerileri": [
+      "Bu modelde yaygın bir sorun rapor edilmediği için genel bakım önerileri geçerlidir: Cihazı güncel tutun, gereksiz dosyaları temizleyin ve Cihaz Bakımı menüsünü kullanın."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A73 5G'nin en büyük avantajı nedir?",
+        "cevap": "En büyük avantajı, güçlü ve verimli Snapdragon 778G işlemcisini, 108MP OIS'li ana kamera ve 120Hz Super AMOLED Plus ekran gibi üst düzey özelliklerle birleştirmesidir. Bu, onu son derece performanslı ve sorunsuz bir cihaz yapar."
+      },
+      {
+        "soru": "Galaxy A73 5G'de neden telefoto kamera yok?",
+        "cevap": "Samsung, bu modelde maliyet ve odak noktasını dengelemek için telefoto kamera yerine daha yüksek çözünürlüklü 108MP ana kamerayı kullanmayı tercih etmiştir. Yüksek çözünürlük, dijital zoom yapıldığında daha az kalite kaybı anlamına gelse de, optik zoom'un yerini tutmaz."
+      },
+      {
+        "soru": "İkinci el Galaxy A73 5G alınır mı?",
+        "cevap": "Kesinlikle. Kronik bir sorunu olmaması, güçlü işlemcisi ve harika özellikleriyle, temiz bir ikinci el A73 5G, birçok yeni telefondan daha iyi bir seçenek olabilir. Alırken genel fiziksel durum, batarya sağlığı ve ekran kontrolü yapılmalıdır."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Snapdragon 778G işlemci sayesinde telefon yağ gibi akıyor. Hiçbir kasma donma yok.",
+      "108 MP kamerası gerçekten fark yaratıyor, fotoğraflar çok detaylı ve net.",
+      "Keşke A72'deki gibi optik zoom kamerası da olsaydı, tek eksiği o."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A14",
+    "slug": "samsung-galaxy-a14",
+    "meta_title": "Samsung Galaxy A14 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A14 (4G/5G) detaylı incelemesi: Teknik özellikler (Helio G80/Dimensity 700), yaygın arızalar (aşırı yavaşlık, donma, dokunmatik sorunları), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A14: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A14, 2023'te 4G ve 5G versiyonlarıyla piyasaya sürülen popüler bir giriş seviyesi modelidir. 6.6 inç FHD+ ekran, 50MP ana kamera ve 5000 mAh batarya gibi özellikler sunar. Ancak, özellikle 4G versiyonunda kullanılan MediaTek Helio G80 (bazı pazarlarda Exynos 850) işlemci, cihazın en çok eleştirilen yönü olmuştur. Kullanıcılar tarafından en sık rapor edilen kronik sorun, A13 modeline benzer şekilde, cihazın aşırı yavaş çalışması, arayüzde sürekli donma ve kasma yaşanmasıdır. Dokunmatik ekran sorunları, şarjın yavaş dolması ve parmak izi okuyucunun yavaşlığı da diğer yaygın şikayetlerdir. 5G versiyonunda kullanılan Dimensity 700 işlemci bir nebze daha iyi performans sunsa da, her iki model de yoğun kullanım için yetersiz kalmaktadır.",
+    "ozellikler": {
+      "cikis_yili": 2023,
+      "ekran": "6.6 inç, 1080x2408 (FHD+), PLS LCD (5G modelinde 90Hz)",
+      "islemci": "4G: MediaTek Helio G80 / 5G: MediaTek Dimensity 700",
+      "ram": "4 GB / 6 GB",
+      "batarya": "5000 mAh, 15W Şarj, USB Type-C",
+      "kamera": "Arka: 50MP (Ana) + 5MP (Ultra Geniş - 4G) / 2MP (Makro - 5G) + 2MP (Derinlik). Ön: 13MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu (yanda)."
+    },
+    "yaygin_arizalar": [
+      "Aşırı derecede yavaş performans, sürekli donma ve takılmalar (ÇOK YAYGIN, özellikle 4G modelinde).",
+      "Dokunmatik ekranın tepkisiz kalması veya geç algılaması.",
+      "Parmak izi okuyucunun yavaş ve tutarsız çalışması.",
+      "Bataryanın yavaş şarj olması (15W şarjın yetersiz kalması).",
+      "Arayüzde ve uygulamalarda gezinirken yaşanan gecikmeler (lag).",
+      "Wi-Fi bağlantı sorunları."
+    ],
+    "cozum_onerileri": [
+      "Performans sorunları için: Kalıcı bir çözüm olmamakla birlikte; Cihaz Bakımı menüsünden optimizasyon yapın, gereksiz uygulamaları silin, geliştirici seçeneklerinden animasyonları kapatın ve cihazı sık sık yeniden başlatın. 'RAM Plus' özelliğini kapatmak bazı durumlarda yardımcı olabilir.",
+      "Dokunmatik sorunları için: Ekran koruyucuyu kontrol edin veya çıkarın. Yazılım güncellemelerini yükleyin. 'Dokunmatik hassasiyeti' ayarını etkinleştirin.",
+      "Parmak izi okuyucu için: Sensörü temizleyin. Parmağınızı farklı açılardan yeniden kaydedin."
+    ],
+    "sss": [
+      {
+        "soru": "Samsung Galaxy A14 neden bu kadar yavaş?",
+        "cevap": "Özellikle 4G modelindeki Helio G80 işlemci, FHD+ çözünürlüklü ekran ve modern One UI Core arayüzü için yetersiz kalmaktadır. Bu donanım-yazılım dengesizliği, cihazın kronik olarak yavaş ve tepkisiz çalışmasına neden olur."
+      },
+      {
+        "soru": "Galaxy A14'ün 4G ve 5G modeli arasındaki fark nedir?",
+        "cevap": "Temel fark işlemcidir. 5G modelindeki Dimensity 700, 4G modelindeki Helio G80'den daha iyi bir performans sunar. Ayrıca 5G modelinin ekranı 90Hz yenileme hızına sahipken, 4G modeli 60Hz'dir."
+      },
+      {
+        "soru": "İkinci el Galaxy A14 alınır mı?",
+        "cevap": "Ciddi performans sorunları nedeniyle, özellikle 4G modeli, sabırlı olmayan kullanıcılar için tavsiye edilmez. Alınacaksa bile, cihazın ne kadar yavaş çalıştığını bizzat deneyimlemek ve beklentileri çok düşük tutmak önemlidir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Sakın almayın, telefon donmaktan başka bir işe yaramıyor. Aldığıma alacağıma pişman oldum.",
+      "A14 4G modeli aşırı yavaş. Instagram'da gezinmek bile bir işkence.",
+      "Parmak izi okuyucusu o kadar yavaş ki desen girmek daha hızlı."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A24",
+    "slug": "samsung-galaxy-a24",
+    "meta_title": "Samsung Galaxy A24 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A24 (4G) detaylı incelemesi: Teknik özellikler (6.5 inç 90Hz Super AMOLED, Helio G99, OIS), yaygın arızalar ve neden başarılı bir model olduğu.",
+    "h1_baslik": "Samsung Galaxy A24: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A24, 2023 yılında A serisinin en başarılı fiyat/performans modellerinden biri olarak öne çıktı. Önceki modellerdeki en büyük şikayetlerden ders çıkaran Samsung, bu modelde güçlü MediaTek Helio G99 işlemciyi, 90Hz yenileme hızına sahip canlı bir Super AMOLED ekranla birleştirdi. Ayrıca, OIS destekli 50MP ana kamera ve 5000 mAh batarya gibi özelliklerle segmentinde fark yarattı. A14 ve A23 gibi modellerdeki kronik yavaşlık ve donma sorunları bu modelde görülmez. Genel olarak sorunsuz ve akıcı bir deneyim sunmasıyla kullanıcıların beğenisini kazandı. Belirgin bir kronik arızası rapor edilmemiştir, bu da onu güvenilir bir seçenek haline getirmektedir.",
+    "ozellikler": {
+      "cikis_yili": 2023,
+      "ekran": "6.5 inç, 1080x2340 (FHD+), 90Hz Super AMOLED",
+      "islemci": "MediaTek Helio G99, Octa-core",
+      "ram": "6 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 50MP (OIS, Ana) + 5MP (Ultra Geniş) + 2MP (Makro). Ön: 13MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu (yanda)."
+    },
+    "yaygin_arizalar": [
+      "Bilinen yaygın veya kronik bir arızası bulunmamaktadır.",
+      "Nadiren, yazılım güncellemeleri sonrası küçük hatalar (her telefonda olabilir).",
+      "IP sertifikası (suya dayanıklılık) olmaması bazı kullanıcılar için bir eksikliktir."
+    ],
+    "cozum_onerileri": [
+      "Bu modelde yaygın bir sorun rapor edilmediği için genel bakım önerileri geçerlidir: Cihazı güncel tutun, gereksiz dosyaları temizleyin ve Cihaz Bakımı menüsünü kullanın."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A24 oyun performansı nasıl?",
+        "cevap": "MediaTek Helio G99 işlemci, çoğu modern oyunu orta ayarlarda akıcı bir şekilde çalıştırabilir. Kendi segmentindeki birçok telefondan belirgin şekilde daha iyi bir oyun performansı sunar ve ciddi ısınma sorunları yaşatmaz."
+      },
+      {
+        "soru": "Galaxy A24'ün en önemli avantajları nelerdir?",
+        "cevap": "En önemli avantajları; güçlü Helio G99 işlemcisi, akıcı 90Hz Super AMOLED ekranı ve OIS destekli ana kamerasıdır. Bu üç özellik, onu kendi fiyat segmentinde çok dengeli ve performanslı bir cihaz yapmaktadır."
+      },
+      {
+        "soru": "İkinci el Galaxy A24 alınır mı?",
+        "cevap": "Evet, kesinlikle. Kronik bir sorunu olmaması ve sunduğu dengeli özellikler sayesinde ikinci eli güvenle alınabilecek modellerden biridir. Alırken genel fiziksel durum, batarya sağlığı ve ekran kontrolü yapılması yeterlidir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "A14'ten sonra bu telefona geçtim, dünya varmış. Hiç kasmıyor, çok akıcı.",
+      "Ekranı ve kamerası fiyatına göre inanılmaz iyi. Helio G99 işlemci de hakkını veriyor.",
+      "Bu fiyata hem AMOLED hem OIS hem de bu kadar iyi işlemci bulmak zor. Tam bir F/P canavarı."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A34 5G",
+    "slug": "samsung-galaxy-a34-5g",
+    "meta_title": "Samsung Galaxy A34 5G Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A34 5G detaylı incelemesi: Teknik özellikler (6.6 inç 120Hz Super AMOLED, Dimensity 1080, OIS, IP67), yaygın arızalar ve neden başarılı olduğu.",
+    "h1_baslik": "Samsung Galaxy A34 5G: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A34 5G, 2023 yılında A54 ile birlikte tanıtıldı ve A33'ün üzerine önemli iyileştirmelerle geldi. En büyük değişiklik, tartışmalı Exynos 1280 yerine güçlü ve verimli MediaTek Dimensity 1080 işlemciye geçilmesi oldu. Bu hamle, A34'ü performans konusunda çok daha stabil ve sorunsuz bir hale getirdi. 6.6 inç 120Hz Super AMOLED ekranı, OIS destekli 48MP kamerası ve IP67 suya dayanıklılık sertifikası gibi özelliklerle donatılmıştır. A33'teki ısınma ve takılma sorunları bu modelde büyük ölçüde çözülmüştür. Tek eleştirilen yönü, A52/A53 gibi modellerden miras kalan sanal yakınlık sensörü sorunudur. Genel olarak, bilinen bir kronik arızası olmamasıyla A serisinin başarılı modelleri arasına girmiştir.",
+    "ozellikler": {
+      "cikis_yili": 2023,
+      "ekran": "6.6 inç, 1080x2340 (FHD+), 120Hz Super AMOLED, Infinity-U Display",
+      "islemci": "MediaTek Dimensity 1080, Octa-core",
+      "ram": "8 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 48MP (OIS, Ana) + 8MP (Ultra Geniş) + 5MP (Makro). Ön: 13MP",
+      "dayaniklilik": "Plastik gövde, Gorilla Glass 5 ekran. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Sanal yakınlık sensörü sorunu (arama sırasında ekranın kapanmaması).",
+      "Ekran altı parmak izi okuyucunun bazı kullanıcılara göre yavaş kalması.",
+      "Kulaklık jakının olmaması."
+    ],
+    "cozum_onerileri": [
+      "Yakınlık sensörü sorunu için: Bu sorun donanım tasarımı kaynaklı olduğu için kalıcı bir çözümü yoktur. Arama sırasında güç tuşuyla ekranı manuel olarak kilitlemek en etkili yöntemdir. Yazılım güncellemeleri durumu bir miktar iyileştirebilir.",
+      "Parmak izi okuyucu için: Parmak izinizi birden fazla kez farklı açılardan kaydedin. 'Dokunmatik hassasiyeti' ayarını etkinleştirin."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A34 5G oyun performansı nasıl?",
+        "cevap": "MediaTek Dimensity 1080 işlemci, A33'teki Exynos 1280'e göre çok daha iyi bir termal kontrol ve sürdürülebilir performans sunar. Çoğu modern oyunu yüksek ayarlarda akıcı bir şekilde çalıştırabilir ve ciddi ısınma sorunları yaşatmaz."
+      },
+      {
+        "soru": "Galaxy A34 mü, A54 mü alınmalı?",
+        "cevap": "A34, daha iyi sürdürülebilir performansı ve daha az ısınmasıyla oyun gibi yoğun görevler için daha iyi bir seçenek olabilir. A54 ise daha premium malzeme kalitesi (cam arka yüzey) ve biraz daha iyi kamera sensörleri sunar. Performans öncelikse A34, tasarım ve kamera öncelikse A54 tercih edilebilir."
+      },
+      {
+        "soru": "İkinci el Galaxy A34 5G alınır mı?",
+        "cevap": "Evet. Ciddi bir kronik sorunu olmaması ve güçlü performansı sayesinde ikinci eli güvenle alınabilecek bir modeldir. Alırken sanal yakınlık sensörü durumunu bir arama yaparak test etmek ve genel fiziksel durumu kontrol etmek önemlidir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Dimensity 1080 işlemci harika iş çıkarıyor. Isınma, kasma nedir bilmiyorum.",
+      "Ekranı çok canlı ve akıcı. Sadece telefonla konuşurken ekranın açık kalması sinir bozucu.",
+      "Fiyatına göre sunduğu özellikler (IP67, 120Hz AMOLED, OIS) mükemmel. Çok dengeli bir telefon."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A54 5G",
+    "slug": "samsung-galaxy-a54-5g",
+    "meta_title": "Samsung Galaxy A54 5G Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A54 5G detaylı incelemesi: Teknik özellikler (6.4 inç 120Hz Super AMOLED, Exynos 1380, OIS, IP67, Cam Arka Yüzey), yaygın arızalar (ısınma, performans), pratik çözümler.",
+    "h1_baslik": "Samsung Galaxy A54 5G: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A54 5G, 2023'te serinin en popüler ve premium modeli olarak piyasaya sürüldü. Cam arka yüzeyi, daha küçük ve daha parlak 6.4 inç 120Hz Super AMOLED ekranı ve yeni Exynos 1380 işlemcisi ile dikkat çekti. IP67 suya dayanıklılık ve OIS'li 50MP ana kamera gibi özellikler devam etti. Exynos 1380, A53'teki Exynos 1280'e göre bir gelişme olsa da, hala MediaTek ve Snapdragon rakipleri kadar verimli olmadığı ve yoğun kullanımda ısınma eğilimi gösterdiği yönünde eleştiriler aldı. Kullanıcılar tarafından en sık rapor edilen sorunlar, özellikle oyunlarda yaşanan aşırı ısınma ve buna bağlı performans düşüşüdür. Sanal yakınlık sensörü ve kulaklık jakının olmaması da bu modeldeki eksikliklerdir. Genel olarak, premium hissiyatı ve iyi kamerasıyla öne çıksa da, performans tutkunlarını tam olarak memnun edememiştir.",
+    "ozellikler": {
+      "cikis_yili": 2023,
+      "ekran": "6.4 inç, 1080x2340 (FHD+), 120Hz Super AMOLED, Infinity-O Display",
+      "islemci": "Exynos 1380, Octa-core",
+      "ram": "8 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 50MP (OIS, Ana) + 12MP (Ultra Geniş) + 5MP (Makro). Ön: 32MP",
+      "dayaniklilik": "Cam arka yüzey (Gorilla Glass 5), plastik çerçeve. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Aşırı ısınma, özellikle oyun ve kamera kullanımında.",
+      "Isınmaya bağlı olarak performansta düşüş (throttling).",
+      "Sanal yakınlık sensörü sorunu.",
+      "Batarya ömrünün ısınma nedeniyle beklenenden daha çabuk tükenmesi."
+    ],
+    "cozum_onerileri": [
+      "Isınma ve performans sorunları için: Cihazı kılıfsız kullanmak veya daha ince bir kılıf tercih etmek ısı dağılımına yardımcı olabilir. Yoğun görevler sırasında mola verin. Yazılım güncellemeleri işlemci verimliliğini artırabilir.",
+      "Yakınlık sensörü sorunu için: Kalıcı bir çözüm yoktur. Arama sırasında ekranı güç tuşuyla manuel kilitlemek en pratik yöntemdir.",
+      "Batarya performansını iyileştirmek için: Isınmayı tetikleyen uygulamaları ve oyunları daha düşük ayarlarda çalıştırın. Güç tasarrufu modlarını kullanın."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A54 5G oyun oynamak için iyi mi?",
+        "cevap": "Exynos 1380 işlemci çoğu oyunu çalıştırabilir, ancak uzun süreli oyun seanslarında aşırı ısınma ve buna bağlı olarak performansın kısılması (throttling) gibi sorunlar yaşanabilir. Bu durum, oyun deneyimini olumsuz etkileyebilir."
+      },
+      {
+        "soru": "Galaxy A54'ün A34'e göre avantajları nelerdir?",
+        "cevap": "A54'ün temel avantajları daha premium malzeme kalitesi (cam arka kapak), daha gelişmiş ana ve ön kamera sensörleri ve daha parlak bir ekrandır. Ancak A34, performans ve ısınma yönetimi konusunda daha dengeli bir cihazdır."
+      },
+      {
+        "soru": "İkinci el Galaxy A54 5G alırken nelere dikkat etmeliyim?",
+        "cevap": "Cihazı yoğun bir şekilde kullanarak (örneğin 10-15 dakika oyun oynayarak) ısınma durumunu ve performansını mutlaka test edin. Cam arka yüzeyinde çizik veya çatlak olup olmadığını kontrol edin. Yakınlık sensörünü ve diğer temel fonksiyonları test edin."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Tasarımı çok şık, eldeki hissiyatı amiral gemisi gibi. Ama oyun oynamaya başlayınca ısınıyor.",
+      "Kamerası gerçekten çok başarılı, özellikle gece çekimleri fiyatına göre harika.",
+      "A34'ü olan arkadaşımla oyun testi yaptık, onunki daha az ısınıp daha stabil performans verdi. Exynos hala olmamış."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A35 5G",
+    "slug": "samsung-galaxy-a35-5g",
+    "meta_title": "Samsung Galaxy A35 5G Özellikleri, Performansı ve Sorunları",
+    "meta_description": "Samsung Galaxy A35 5G detaylı incelemesi: Teknik özellikler (6.6 inç 120Hz Super AMOLED, Exynos 1380, OIS, IP67, Gorilla Glass Victus+), olası arızalar ve kullanıcı beklentileri.",
+    "h1_baslik": "Samsung Galaxy A35 5G: İnceleme, Performans ve Olası Sorunlar",
+    "cihaz_aciklama": "Samsung Galaxy A35 5G, 2024 yılında A54'ün başarılı işlemcisi Exynos 1380'i daha uygun bir fiyata sunarak piyasaya sürüldü. 6.6 inçlik büyük ve akıcı 120Hz Super AMOLED ekran, OIS destekli 50MP ana kamera ve Gorilla Glass Victus+ gibi premium bir ekran koruması ile dikkat çekiyor. IP67 suya ve toza dayanıklılık sertifikası da bu modelde mevcut. A54'teki Exynos 1380'i kullandığı için, benzer bir performans karakteristiği göstermesi beklenir; yani günlük kullanımda akıcı, ancak yoğun oyun seanslarında ısınma eğilimi olabilir. Yeni bir model olduğu için henüz kronikleşmiş bir sorunu rapor edilmemiştir, ancak sanal yakınlık sensörü gibi önceki nesillerden gelen sorunların devam etmesi muhtemeldir.",
+    "ozellikler": {
+      "cikis_yili": 2024,
+      "ekran": "6.6 inç, 1080x2340 (FHD+), 120Hz Super AMOLED, Infinity-O Display",
+      "islemci": "Exynos 1380, Octa-core",
+      "ram": "6 GB / 8 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 50MP (OIS, Ana) + 8MP (Ultra Geniş) + 5MP (Makro). Ön: 13MP",
+      "dayaniklilik": "Cam arka yüzey, plastik çerçeve. Corning Gorilla Glass Victus+ ön cam. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Yeni bir model olduğu için henüz kronik bir arıza rapor edilmemiştir.",
+      "Exynos 1380 işlemci nedeniyle yoğun kullanımda ısınma potansiyeli.",
+      "Sanal yakınlık sensörü sorununun devam etme olasılığı.",
+      "Kulaklık jakının olmaması."
+    ],
+    "cozum_onerileri": [
+      "Olası ısınma sorunları için: Yoğun görevler sırasında cihazı kılıfsız kullanmak ve mola vermek faydalı olabilir. Grafik ayarlarını optimize etmek oyun performansını stabil tutmaya yardımcı olur.",
+      "Olası yakınlık sensörü sorunları için: Arama sırasında ekranı güç tuşuyla manuel olarak kilitlemek en pratik yöntemdir."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A35 5G oyun performansı nasıl?",
+        "cevap": "Exynos 1380 işlemcisi sayesinde, A35 çoğu modern oyunu iyi ayarlarda çalıştırabilir. Ancak, uzun süreli oyunlarda A54'te olduğu gibi ısınma ve buna bağlı küçük performans düşüşleri yaşanabilir."
+      },
+      {
+        "soru": "Galaxy A35'in A54'ten en önemli farkları nelerdir?",
+        "cevap": "A35, A54'e göre daha büyük bir ekrana (6.6'ya karşı 6.4 inç) ve daha düşük çözünürlüklü bir ön kameraya (13MP'ye karşı 32MP) sahiptir. A35'in en büyük avantajı ise daha yeni bir model olması ve daha dayanıklı Gorilla Glass Victus+ ekran korumasıyla gelmesidir."
+      },
+      {
+        "soru": "İkinci el Galaxy A35 5G alırken nelere dikkat etmeliyim?",
+        "cevap": "Yeni bir model olduğu için ikinci el piyasasında az bulunur. Alınacaksa, cihazın genel fiziksel durumu, özellikle cam yüzeyler kontrol edilmelidir. Isınma eğilimini test etmek için kısa bir oyun seansı ve arama yaparak yakınlık sensörünün davranışı kontrol edilebilir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Telefon çok şık duruyor, ekranı da harika. Performansı günlük kullanımda gayet yeterli.",
+      "Oyunlarda biraz ısınıyor ama A54 kadar değil gibi, belki güncellemelerle daha iyi olmuştur.",
+      "Gorilla Glass Victus+ olması bu fiyattaki bir telefon için büyük avantaj."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A55 5G",
+    "slug": "samsung-galaxy-a55-5g",
+    "meta_title": "Samsung Galaxy A55 5G Özellikleri, Performansı ve Sorunları",
+    "meta_description": "Samsung Galaxy A55 5G detaylı incelemesi: Teknik özellikler (6.6 inç 120Hz Super AMOLED, Exynos 1480, OIS, IP67, Metal Çerçeve), olası arızalar ve kullanıcı beklentileri.",
+    "h1_baslik": "Samsung Galaxy A55 5G: İnceleme, Performans ve Olası Sorunlar",
+    "cihaz_aciklama": "Samsung Galaxy A55 5G, 2024 yılında A serisine getirdiği en büyük yeniliklerden biri olan 'metal çerçeve' ile premium hissiyatı bir üst seviyeye taşıdı. Gücünü yeni Exynos 1480 işlemciden alan model, AMD RDNA tabanlı Xclipse 530 GPU'su ile özellikle oyun performansında ciddi bir artış vaat ediyor. 6.6 inç 120Hz Super AMOLED ekran, Gorilla Glass Victus+ koruma, 50MP OIS'li ana kamera ve IP67 sertifikası gibi özelliklerle donatılmıştır. Exynos 1480'in metal çerçeve sayesinde daha iyi soğutulması ve daha verimli çalışması beklenmektedir. Bu, önceki Exynos işlemcilerde yaşanan kronik ısınma ve performans düşüşü sorunlarını çözebilir. Yeni bir model olduğu için henüz yaygın bir kronik sorunu yoktur, ancak A serisinin genelinde görülen sanal yakınlık sensörü gibi konuların bu modelde de devam etme ihtimali bulunmaktadır.",
+    "ozellikler": {
+      "cikis_yili": 2024,
+      "ekran": "6.6 inç, 1080x2340 (FHD+), 120Hz Super AMOLED, Infinity-O Display",
+      "islemci": "Exynos 1480, Octa-core",
+      "ram": "8 GB",
+      "batarya": "5000 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 50MP (OIS, Ana) + 12MP (Ultra Geniş) + 5MP (Makro). Ön: 32MP",
+      "dayaniklilik": "Cam arka yüzey (Gorilla Glass), Metal çerçeve. Corning Gorilla Glass Victus+ ön cam. IP67 suya ve toza dayanıklılık. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Yeni bir model olduğu için henüz kronik bir arıza rapor edilmemiştir.",
+      "Sanal yakınlık sensörü sorununun devam etme olasılığı.",
+      "Exynos 1480'in uzun vadeli performans ve verimliliği henüz test aşamasında.",
+      "Kulaklık jakının olmaması."
+    ],
+    "cozum_onerileri": [
+      "Bu modelde henüz yaygın bir sorun rapor edilmemiştir. Genel bakım önerileri geçerlidir: Cihazı güncel tutun, gereksiz dosyaları temizleyin ve Cihaz Bakımı menüsünü kullanın."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A55'in en büyük yeniliği nedir?",
+        "cevap": "En büyük yenilikleri, premium bir hissiyat ve daha iyi ısı dağılımı sağlayan metal çerçevesi ile AMD GPU'lu yeni Exynos 1480 işlemcisidir. Bu iki özellik, cihazın hem tasarım hem de performans olarak önceki A5x modellerinden ayrışmasını sağlar."
+      },
+      {
+        "soru": "Galaxy A55 oyun performansı nasıl?",
+        "cevap": "Yeni Exynos 1480 işlemci ve Xclipse 530 GPU sayesinde, Galaxy A55'in A serisi tarihindeki en iyi oyun performanslarından birini sunması beklenmektedir. Isınma sorununun metal çerçeve ile daha iyi yönetilmesi, sürdürülebilir performansı artıracaktır."
+      },
+      {
+        "soru": "Galaxy A55 mi, A35 mi alınmalı?",
+        "cevap": "Eğer önceliğiniz mümkün olan en yüksek performans, oyun ve premium malzeme kalitesi (metal çerçeve) ise A55 daha iyi bir seçenektir. Daha uygun bir fiyata A54'e yakın bir performans arıyorsanız ve Gorilla Glass Victus+ gibi dayanıklılık özellikleri sizin için önemliyse A35 mantıklı bir tercih olabilir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Metal çerçeve harika olmuş, telefon elden kaymıyor ve çok daha sağlam hissettiriyor.",
+      "Exynos 1480'in oyun performansı gerçekten şaşırtıcı, önceki Exynos'lara hiç benzemiyor.",
+      "Isınma sorunu eskisi kadar yok gibi, metal çerçeve işe yaramış anlaşılan."
+    ]
+  }
+]

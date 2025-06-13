@@ -1,3 +1,5 @@
+import { samsungModelsData } from "./samsung-models-data"
+
 export interface BrandModel {
   model: string
   slug: string
@@ -269,6 +271,20 @@ export const brandsData: BrandData[] = [
 
 // Helper function to get brand data
 export function getBrandData(slug: string) {
+  if (slug === "samsung") {
+    return {
+      name: "Samsung",
+      slug: "samsung",
+      description:
+        "Orijinal parçalar ve uzman teknisyenlerle profesyonel Samsung onarım hizmetleri. Hızlı teslimat süresi ve garanti dahil.",
+      models: samsungModelsData.map((model) => ({
+        model: model.model,
+        slug: model.slug,
+        repairCount: 5, // İsterseniz model.repairCount varsa onu kullanabilirsiniz
+        startingPrice: "999", // İsterseniz model.startingPrice varsa onu kullanabilirsiniz
+      })),
+    }
+  }
   return brandsData.find((brand) => brand.slug === slug)
 }
 

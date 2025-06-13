@@ -1,0 +1,222 @@
+[
+  {
+    "model_adi": "Samsung Galaxy A70s",
+    "slug": "samsung-galaxy-a70s",
+    "meta_title": "Samsung Galaxy A70s Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A70s detaylı incelemesi: Teknik özellikler (6.7 inç Super AMOLED, Snapdragon 675, 64MP kamera), yaygın arızalar (ekran, batarya, ısınma), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A70s: İnceleme, Yaygın Arızalar ve Çözüm Önerileri",
+    "cihaz_aciklama": "Samsung Galaxy A70s, 2019'da A70 modelinin geliştirilmiş bir versiyonu olarak piyasaya sürüldü. Temel farkı, 32MP olan ana kameranın 64MP'e yükseltilmesi ve arka kapak tasarımının değiştirilmesidir. 6.7 inç Super AMOLED ekran, Snapdragon 675 işlemci ve 4500 mAh batarya gibi özelliklerini A70'den miras almıştır. Bu nedenle, A70'de görülen ekranda hayalet ekran (burn-in), zamanla batarya performansında düşüş ve yoğun kullanımda ısınma gibi sorunlar bu model için de geçerlidir. Kamera tarafında daha yüksek çözünürlük sunsa da, genel deneyim ve potansiyel arızalar A70 ile büyük ölçüde benzerdir.",
+    "ozellikler": {
+      "cikis_yili": 2019,
+      "ekran": "6.7 inç, 1080x2400 (FHD+), Super AMOLED, Infinity-U Display",
+      "islemci": "Qualcomm Snapdragon 675, Octa-core",
+      "ram": "6 GB / 8 GB",
+      "batarya": "4500 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 64MP (Ana) + 8MP (Ultra Geniş) + 5MP (Derinlik). Ön: 32MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Hayalet ekran (AMOLED burn-in) ve ekranda sararma.",
+      "Yoğun kullanımda batarya performansında düşüş.",
+      "Oyunlarda ve uzun süreli kullanımlarda aşırı ısınma.",
+      "Ekran içi parmak izi okuyucunun yavaş ve tutarsız çalışması.",
+      "Yazılım güncellemeleri sonrası performans düşüşü."
+    ],
+    "cozum_onerileri": [
+      "Hayalet ekranı önlemek için: Otomatik parlaklık kullanın, statik görüntüleri (klavye, durum çubuğu) uzun süre ekranda bırakmayın ve koyu temayı tercih edin.",
+      "Batarya ömrünü iyileştirmek için: Güç tasarrufu modunu aktif edin, arka planda çalışan gereksiz uygulamaları kapatın.",
+      "Isınmayı azaltmak için: Yüksek grafikli oyunlarda mola verin ve cihazı güncel tutun."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A70s ve A70 arasındaki fark nedir?",
+        "cevap": "En temel fark ana kameradır. A70'de 32MP ana kamera bulunurken, A70s modelinde 64MP'lik daha yüksek çözünürlüklü bir sensör kullanılmıştır. Ayrıca arka kapak tasarımı farklıdır."
+      },
+      {
+        "soru": "İkinci el Galaxy A70s alırken nelere dikkat etmeli?",
+        "cevap": "Öncelikle ekran durumunu (hayalet ekran veya sararma var mı?), batarya sağlığını ve parmak izi okuyucunun doğru çalışıp çalışmadığını kontrol edin. Isınma durumunu test etmek için cihazı bir süre yoğun kullanın."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Kamerası A70'e göre biraz daha iyi ama diğer her şey aynı.",
+      "Ekranı büyük ve güzel ama bir süre sonra klavye izi çıkmaya başladı.",
+      "Bataryası ilk aldığımda iyiydi ama şimdi günü zor çıkarıyor."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A80",
+    "slug": "samsung-galaxy-a80",
+    "meta_title": "Samsung Galaxy A80 Döner Kamera Sorunları, Özellikleri ve Çözümleri",
+    "meta_description": "Samsung Galaxy A80 detaylı incelemesi: Teknik özellikler (6.7 inç Super AMOLED, Snapdragon 730), yaygın arızalar (döner kamera mekanizması arızası, motor sıkışması, tozlanma), çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A80: Döner Kamera Arızaları ve Onarım Seçenekleri",
+    "cihaz_aciklama": "Samsung Galaxy A80, 2019 yılının en yenilikçi telefonlarından biriydi. Çentiksiz ve deliksiz tam ekran deneyimi sunmak için, arka kameraların motorlu bir mekanizma ile dönerek ön kamera olarak kullanılmasını sağlayan bir tasarıma sahipti. 6.7 inç New Infinity Display (Super AMOLED) ve güçlü Snapdragon 730 işlemcisi vardı. Ancak, bu yenilikçi tasarım aynı zamanda cihazın en büyük kronik sorun kaynağı oldu. Döner kamera mekanizması, zamanla arızalanmaya, sıkışmaya veya toz kaparak takılmaya çok müsaitti. Bu motor arızası, cihazın en yaygın ve maliyetli problemidir. Mekanik parçaların hassasiyeti, A80'i uzun ömürlü bir seçenek olmaktan çıkarmıştır.",
+    "ozellikler": {
+      "cikis_yili": 2019,
+      "ekran": "6.7 inç, 1080x2400 (FHD+), Super AMOLED, New Infinity Display",
+      "islemci": "Qualcomm Snapdragon 730, Octa-core",
+      "ram": "8 GB",
+      "batarya": "3700 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Döner Mekanizmalı Kamera: 48MP (Ana) + 8MP (Ultra Geniş) + ToF 3D (Derinlik)",
+      "dayaniklilik": "Cam ön ve arka yüzey (Gorilla Glass 3 & 6), alüminyum çerçeve. Suya ve toza karşı resmi bir sertifika YOKTUR. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "Döner kamera mekanizmasının arızalanması, motorun sıkışması veya hiç çalışmaması (EN YAYGIN SORUN).",
+      "Kamera mekanizmasının içine toz ve kir birikmesi, takılmalara neden olması.",
+      "Ön kameraya geçerken veya dönerken uygulamanın kilitlenmesi.",
+      "Mekanizmanın düşme veya darbelerde kolayca hasar görmesi.",
+      "Batarya kapasitesinin (3700 mAh) büyük ekrana yetersiz kalması."
+    ],
+    "cozum_onerileri": [
+      "Döner kamera arızası için: Bu sorun neredeyse tamamen donanımsaldır. Sıkışma durumunda mekanizmayı zorlamamak gerekir. Kalıcı çözüm için yetkili serviste motor mekanizmasının onarımı veya değişimi gereklidir. Bu, maliyetli bir işlemdir.",
+      "Tozlanmayı önlemek için: Cihazı tozlu ortamlardan uzak tutmak ve düzenli olarak mekanizmanın görünen kısımlarını kuru ve yumuşak bir fırça ile temizlemek faydalı olabilir.",
+      "Batarya ömrünü uzatmak için: Güç tasarrufu modlarını kullanın ve ekran parlaklığını optimize edin."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A80'nin kamerası dönmüyor/takılıyor, ne yapmalıyım?",
+        "cevap": "Bu, modelin bilinen kronik motor arızasıdır. Mekanizmayı kesinlikle zorlamayın. Yazılımsal bir donma ihtimaline karşı telefonu yeniden başlatmayı deneyebilirsiniz, ancak sorun %99 donanımsaldır ve servis müdahalesi gerektirir."
+      },
+      {
+        "soru": "Galaxy A80 suya dayanıklı mı?",
+        "cevap": "Hayır. Hareketli mekanik parçaları nedeniyle Galaxy A80'nin suya ve toza karşı hiçbir dayanıklılık sertifikası (IP) yoktur. Sıvı temasına karşı son derece hassastır."
+      },
+      {
+        "soru": "İkinci el Samsung Galaxy A80 alınır mı?",
+        "cevap": "Kesinlikle tavsiye edilmez. Döner kamera mekanizmasının arızalanma riski çok yüksektir ve onarımı çok maliyetlidir. İkinci el piyasasında bu riski almaya değecek bir model değildir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Fikir harikaydı ama kamera motoru 1 yıl dolmadan bozuldu. Tamirine dünyanın parasını istediler.",
+      "Kameranın içine toz doluyor ve dönerken ses çıkarmaya başlıyor. Çok hassas bir mekanizma.",
+      "Bataryası bir günü bile çıkarmıyor. Tam ekran keyfi dışında bir esprisi kalmadı."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A90 5G",
+    "slug": "samsung-galaxy-a90-5g",
+    "meta_title": "Samsung Galaxy A90 5G Özellikleri, Performansı ve Sorunları",
+    "meta_description": "Samsung Galaxy A90 5G detaylı incelemesi: Teknik özellikler (Snapdragon 855, 6.7 inç Super AMOLED, 5G), yaygın arızalar (ısınma, batarya, yazılım), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A90 5G: Amiral Gemisi İşlemcili A Serisi",
+    "cihaz_aciklama": "Samsung Galaxy A90 5G, 2019'da A serisi ile amiral gemisi S serisi arasındaki çizgiyi bulanıklaştıran bir model oldu. O dönemin en güçlü işlemcilerinden olan Snapdragon 855'i kullanarak A serisinde görülmemiş bir performans sundu. 5G desteği, 6.7 inç Super AMOLED ekranı ve premium tasarımıyla dikkat çekti. Ancak, A serisinin ilk 5G'li ve ilk amiral gemisi işlemcili telefonu olması bazı sorunları da beraberinde getirdi. Kullanıcılar tarafından en çok rapor edilen sorunlar; 5G kullanımı sırasında ve oyunlarda aşırı ısınma, 4500 mAh bataryanın güçlü işlemci ve 5G'ye rağmen günü zor çıkarması ve ilk çıkan yazılımlardaki optimizasyon sorunlarıdır.",
+    "ozellikler": {
+      "cikis_yili": 2019,
+      "ekran": "6.7 inç, 1080x2400 (FHD+), Super AMOLED, Infinity-U Display",
+      "islemci": "Qualcomm Snapdragon 855, Octa-core",
+      "ram": "6 GB / 8 GB",
+      "batarya": "4500 mAh, 25W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 48MP (Ana) + 8MP (Ultra Geniş) + 5MP (Derinlik). Ön: 32MP",
+      "dayaniklilik": "Cam ön ve arka yüzey (Gorilla Glass 6), alüminyum çerçeve. Suya ve toza karşı resmi bir sertifika YOKTUR. Güvenlik: Ekran içi parmak izi okuyucu."
+    },
+    "yaygin_arizalar": [
+      "5G kullanımı ve oyun gibi yoğun görevlerde aşırı ısınma.",
+      "Batarya ömrünün beklenenden kısa olması.",
+      "İlk yazılım sürümlerinde yaşanan optimizasyon sorunları ve küçük hatalar.",
+      "Ekran içi parmak izi okuyucunun yavaşlığı."
+    ],
+    "cozum_onerileri": [
+      "Isınma sorunu için: Yoğun kullanımda cihazı kılıfsız kullanmak veya mola vermek faydalı olabilir. Cihaz yazılımını güncel tutmak, performansı ve güç tüketimini optimize edebilir.",
+      "Batarya ömrünü uzatmak için: Kullanılmadığı zamanlarda 5G yerine 4G/LTE modunu tercih etmek batarya ömrünü belirgin şekilde artırır. Güç tasarrufu modlarını kullanın."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A90 5G neden bu kadar güçlü bir işlemciye sahip?",
+        "cevap": "Samsung, bu modelle 5G teknolojisini daha geniş bir kitleye ulaştırmayı ve A serisinde daha premium bir seçenek sunmayı hedefledi. Snapdragon 855, o dönemde 5G modemini destekleyen ve yüksek performans sunan en iyi işlemcilerden biriydi."
+      },
+      {
+        "soru": "İkinci el Galaxy A90 5G alınır mı?",
+        "cevap": "Performansı hala birçok yeni orta segment telefondan daha iyidir. Ancak, artık yazılım güncelleme desteğinin sonuna gelmiş olması, bataryasının yıpranmış olma olasılığı ve 5G'nin artık daha yeni telefonlarda standart olması nedeniyle eski bir teknoloji olarak kalmaktadır. Fiyatı çok uygunsa ve sadece performansı için alınıyorsa düşünülebilir."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Telefon hala canavar gibi çalışıyor, Snapdragon 855 farkını belli ediyor.",
+      "5G'yi açınca hem ısınıyor hem de şarjı su gibi içiyor.",
+      "O zamanın parasına göre harika bir telefondu, A serisine S serisi gücü getirmişti."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A01",
+    "slug": "samsung-galaxy-a01",
+    "meta_title": "Samsung Galaxy A01 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A01 detaylı incelemesi: Teknik özellikler (5.7 inç PLS TFT, Snapdragon 439, 2GB RAM), yaygın arızalar (aşırı yavaşlık, donma, depolama), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A01: Performans Sorunları ve Kullanıcı Deneyimi",
+    "cihaz_aciklama": "Samsung Galaxy A01, 2020'de piyasaya sürülen, markanın en temel ve en uygun fiyatlı akıllı telefonlarından biriydi. 5.7 inç ekran, Snapdragon 439 işlemci ve 2GB RAM gibi mütevazı özelliklere sahipti. Temel amacı, sadece arama ve mesajlaşma gibi en basit ihtiyaçları karşılamaktı. Ancak, modern Android sürümleri ve uygulamalar için donanımı son derece yetersiz kaldığından, en bilinen kronik sorunu aşırı yavaşlık, sürekli donma ve uygulamaların çökmesidir. Düşük dahili depolama (16GB/32GB) da çok çabuk dolarak telefonu kullanılmaz hale getirebilir. Bu model, akıllı telefon özelliklerini yoğun kullananlar için kesinlikle uygun değildir.",
+    "ozellikler": {
+      "cikis_yili": 2020,
+      "ekran": "5.7 inç, 720x1520 (HD+), PLS TFT",
+      "islemci": "Qualcomm Snapdragon 439, Octa-core",
+      "ram": "2 GB",
+      "batarya": "3000 mAh, Micro-USB",
+      "kamera": "Arka: 13MP (Ana) + 2MP (Derinlik). Ön: 5MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu yok."
+    },
+    "yaygin_arizalar": [
+      "Aşırı derecede yavaş performans ve sürekli donma (EN YAYGIN SORUN).",
+      "Düşük RAM nedeniyle uygulamaların sürekli çökmesi veya yeniden başlaması.",
+      "Dahili depolama alanının çok çabuk dolması.",
+      "Bataryanın günü çıkarmakta zorlanması.",
+      "Dokunmatik ekranın zaman zaman tepkisiz kalması."
+    ],
+    "cozum_onerileri": [
+      "Performans sorunları için: Kalıcı bir çözüm yoktur. Telefonu kullanılabilir kılmak için; tüm gereksiz uygulamaları silin, 'Lite' versiyonlu uygulamaları (Facebook Lite, Messenger Lite vb.) tercih edin, cihazı her gün yeniden başlatın ve Cihaz Bakımı menüsünden belleği düzenli olarak temizleyin.",
+      "Depolama sorunu için: Mutlaka bir SD kart kullanın ve tüm medya dosyalarını (fotoğraf, video) SD karta taşıyın. Uygulamaların önbelleğini düzenli olarak temizleyin."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A01 neden bu kadar yavaş çalışıyor?",
+        "cevap": "2GB RAM ve Snapdragon 439 işlemci, günümüz Android işletim sistemi ve uygulamaları için gereken minimum gücü bile karşılayamamaktadır. Bu donanım yetersizliği, telefonun kronik olarak yavaş çalışmasına neden olur."
+      },
+      {
+        "soru": "İkinci el Galaxy A01 alınır mı?",
+        "cevap": "Hayır. Performansı o kadar düşüktür ki, en temel işlemlerde bile kullanıcıyı çileden çıkarabilir. Günümüzde akıllı telefon olarak kullanılması neredeyse imkansızdır ve kesinlikle tavsiye edilmez."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Telefonu aldığıma bin pişmanım. Sadece arama yapmak için bile 1 dakika beklemek gerekiyor.",
+      "Hafızası sürekli dolu, hiçbir şey yükleyemiyorum.",
+      "Sürekli donuyor, kendi kendine kapanıyor. Çocuklara bile oyuncak niyetine verilmez."
+    ]
+  },
+  {
+    "model_adi": "Samsung Galaxy A11",
+    "slug": "samsung-galaxy-a11",
+    "meta_title": "Samsung Galaxy A11 Özellikleri, Kronik Sorunları ve Çözümleri",
+    "meta_description": "Samsung Galaxy A11 detaylı incelemesi: Teknik özellikler (6.4 inç PLS TFT, Snapdragon 450), yaygın arızalar (yavaşlama, donma, şarj soketi), pratik çözümler ve kullanıcı yorumları.",
+    "h1_baslik": "Samsung Galaxy A11: Performans Sorunları ve Kullanıcı Deneyimi",
+    "cihaz_aciklama": "Samsung Galaxy A11, 2020 yılında A01'in bir üst modeli olarak piyasaya sürüldü. Delikli ekran tasarımı (Infinity-O), 6.4 inçlik daha büyük ekranı ve 4000 mAh bataryası ile daha modern bir görünüm sunuyordu. Ancak, gücünü aldığı Snapdragon 450 işlemci ve 2GB/3GB RAM seçenekleri, performans konusunda yine yetersiz kaldı. Kullanıcılar tarafından en sık rapor edilen kronik sorunlar, genel kullanımda yavaşlık, donma, uygulamaların geç açılması ve zamanla arızalanan şarj soketidir. A01 kadar olmasa da, A11 de yoğun kullanım için tavsiye edilmeyen, sadece temel ihtiyaçlara yönelik bir modeldir.",
+    "ozellikler": {
+      "cikis_yili": 2020,
+      "ekran": "6.4 inç, 720x1560 (HD+), PLS TFT, Infinity-O Display",
+      "islemci": "Qualcomm Snapdragon 450, Octa-core",
+      "ram": "2 GB / 3 GB",
+      "batarya": "4000 mAh, 15W Hızlı Şarj, USB Type-C",
+      "kamera": "Arka: 13MP (Ana) + 5MP (Ultra Geniş) + 2MP (Derinlik). Ön: 8MP",
+      "dayaniklilik": "Plastik gövde. Suya ve toza karşı resmi bir sertifika yok. Güvenlik: Parmak izi okuyucu (arkada)."
+    },
+    "yaygin_arizalar": [
+      "Genel performans yavaşlığı, donma ve takılmalar.",
+      "Şarj soketi arızası ve telefonun şarj olmaması.",
+      "Yazılım güncellemeleri sonrası performansın daha da düşmesi.",
+      "Düşük RAM nedeniyle çoklu görevlerde zorlanma.",
+      "Kamera performansının vasat olması."
+    ],
+    "cozum_onerileri": [
+      "Performans sorunları için: Kalıcı bir çözüm olmamakla birlikte; Cihaz Bakımı menüsünü kullanarak optimizasyon yapın, gereksiz uygulamaları silin ve cihazı düzenli olarak yeniden başlatın.",
+      "Şarj soketi arızası için: Bu genellikle donanımsal bir sorundur ve soketin değişmesi gerekir. Yetkili servis veya özel bir teknik serviste onarım yapılabilir."
+    ],
+    "sss": [
+      {
+        "soru": "Galaxy A11 oyun oynamak için uygun mu?",
+        "cevap": "Hayır. Snapdragon 450 işlemci, en basit gündelik oyunlar dışında modern oyunları çalıştırmak için yetersizdir. Oyunlarda ciddi kasma ve donma sorunları yaşanır."
+      },
+      {
+        "soru": "İkinci el Galaxy A11 alınır mı?",
+        "cevap": "Performans beklentisi çok düşükse ve sadece temel iletişim için kullanılacaksa düşünülebilir. Ancak kronik yavaşlığı ve potansiyel şarj soketi arızası riski nedeniyle genellikle tavsiye edilmez."
+      }
+    ],
+    "kullanici_yorumlari": [
+      "Telefon çok yavaş, basit bir uygulamayı açmak bile uzun sürüyor.",
+      "Bir süre sonra şarj almamaya başladı, meğer soketi bozulmuş.",
+      "Görüntüsü güzel ama performansı çok kötü. Bu paraya değmez."
+    ]
+  }
+]

@@ -1,57 +1,65 @@
-import Header from "@/components/header"
-import Footer from "@/components/footer"
-import RepairItem from "@/components/repair-item"
-import FaqItem from "@/components/faq-item"
-import CTAButton from "@/components/cta-button"
-import { notFound } from "next/navigation"
-import { ArrowLeft, ChevronLeft, ChevronRight, Shield, Clock, Award } from "lucide-react"
-import Link from "next/link"
-import { getiPhoneModelData, getAlliPhoneModelSlugs, iPhoneModelsData } from "@/data/iphone-models-data"
-import { getBrandData } from "@/data/brands-data"
+// app/[brand]/[slug]/page.tsx
+
+import Header from "@/components/header";
+import Footer from "@/components/footer";
+import RepairItem from "@/components/repair-item";
+import FaqItem from "@/components/faq-item";
+import CTAButton from "@/components/cta-button";
+import { notFound } from "next/navigation";
+import { ArrowLeft, ChevronLeft, ChevronRight, Shield, Clock, Award } from "lucide-react";
+import Link from "next/link";
+
+// 1. DİKKAT: Veri fonksiyonlarını artık merkezi yükleyicimizden alıyoruz
+import { getDeviceData, getAllDevicePaths, getAllDevices } from "@/lib/data-loader"; 
+import { getBrandData } from "@/data/brands-data";
 
 interface ModelPageProps {
   params: {
-    brand: string
-    slug: string
-  }
+    brand: string;
+    slug: string;
+  };
+}
+
+// 2. DİKKAT: Bu fonksiyon artık tüm markalar için otomatik çalışıyor
+export async function generateStaticParams() {
+  const paths = await getAllDevicePaths();
+  return paths;
 }
 
 export default async function ModelPage({ params }: ModelPageProps) {
   const resolvedParams = await params;
-  // iPhone modelleri için veri al
-  const deviceData = getiPhoneModelData(resolvedParams.slug)
-  const brandData = getBrandData(resolvedParams.brand)
+  const deviceData = await getDeviceData(resolvedParams.brand, resolvedParams.slug);
+  const brandData = getBrandData(resolvedParams.brand);
 
   if (!deviceData || !brandData) {
-    notFound()
+    notFound();
   }
 
-  // Repair prices'ı düzenle
-  const repairs = Object.entries(deviceData.repair_prices)
-    .filter(([name]) => !name.includes("Su Hasarı"))
-    .map(([name, price]) => ({
-      name,
-      price: price.replace("₺", ""),
-      duration: name.includes("Ekran")
-        ? "1-2 saat"
-        : name.includes("Batarya")
-          ? "45-60 dk"
-          : name.includes("Face ID")
-            ? "2-3 saat"
-            : "1 saat",
-    }))
+  const repairs = deviceData.repair_prices
+    ? Object.entries(deviceData.repair_prices)
+        .filter(([name]) => !name.includes("Su Hasarı"))
+        .map(([name, price]) => ({
+          name,
+          price: price.replace("₺", ""),
+          duration: name.includes("Ekran") ? "1-2 saat" : "45-60 dk",
+        }))
+    : [];
 
-  const specialRepair = {
-    type: "Su Hasarı Onarımı",
-    price: deviceData.repair_prices["Su Hasarı Onarımı"]?.replace("₺", "") || "999+",
-    note: "Teşhis gereklidir. 24-48 saat onarım süresi. Başarı garanti edilmez.",
-  }
+  const specialRepair = deviceData.repair_prices?.["Su Hasarı Onarımı"]
+    ? {
+        type: "Su Hasarı Onarımı",
+        price: deviceData.repair_prices["Su Hasarı Onarımı"].replace("₺", "") || "999+",
+        note: "Teşhis gereklidir. Onarım süresi ve başarı oranı değişebilir.",
+      }
+    : null;
 
-  // Önceki ve sonraki modelleri bul
-  const currentModelIndex = iPhoneModelsData.findIndex((model) => model.slug === resolvedParams.slug)
-  const previousModel = currentModelIndex > 0 ? iPhoneModelsData[currentModelIndex - 1] : null
-  const nextModel = currentModelIndex < iPhoneModelsData.length - 1 ? iPhoneModelsData[currentModelIndex + 1] : null
+  // resolvedParams ile güncellendi
+  const allDevicesInBrand = (await getAllDevices()).filter(d => d.brand === resolvedParams.brand);
+  const currentModelIndex = allDevicesInBrand.findIndex((model) => model.slug === resolvedParams.slug);
+  const previousModel = currentModelIndex > 0 ? allDevicesInBrand[currentModelIndex - 1] : null;
+  const nextModel = currentModelIndex < allDevicesInBrand.length - 1 ? allDevicesInBrand[currentModelIndex + 1] : null;
 
+  // 5. DİKKAT: BURADAN İTİBAREN SENİN ORİJİNAL, ÇALIŞAN JSX KODUN
   return (
     <div className="min-h-screen">
       <Header />
@@ -81,15 +89,17 @@ export default async function ModelPage({ params }: ModelPageProps) {
                   </div>
                 ))}
 
-                <div className="slide-up" style={{ animationDelay: `${repairs.length * 0.1}s` }}>
-                  <RepairItem
-                    name={specialRepair.type}
-                    price={specialRepair.price}
-                    duration="24-48 saat"
-                    isSpecial={true}
-                    note={specialRepair.note}
-                  />
-                </div>
+                {specialRepair && (
+                    <div className="slide-up" style={{ animationDelay: `${repairs.length * 0.1}s` }}>
+                        <RepairItem
+                            name={specialRepair.type}
+                            price={specialRepair.price}
+                            duration="24-48 saat"
+                            isSpecial={true}
+                            note={specialRepair.note}
+                        />
+                    </div>
+                )}
               </div>
             </div>
 
@@ -143,10 +153,12 @@ export default async function ModelPage({ params }: ModelPageProps) {
               <h3 className="text-xl font-semibold mb-4">Teknik Özellikler</h3>
               <div className="space-y-3">
                 {Object.entries(deviceData.ozellikler).map(([key, value]) => (
-                  <div key={key} className="flex justify-between items-center p-3 bg-white/5 rounded-lg">
-                    <span className="text-muted capitalize">{key}:</span>
-                    <span className="font-medium">{value}</span>
-                  </div>
+                  value && (
+                    <div key={key} className="flex justify-between items-center p-3 bg-white/5 rounded-lg">
+                      <span className="text-muted capitalize">{key}:</span>
+                      <span className="font-medium text-right">{value}</span>
+                    </div>
+                  )
                 ))}
               </div>
             </div>
@@ -190,27 +202,18 @@ export default async function ModelPage({ params }: ModelPageProps) {
         </div>
       </main>
 
-      {/* Önceki/Sonraki Model Navigasyonu */}
       <div className="container-custom mt-12 mb-20">
         <div className="glass-card p-6">
           <div className="flex justify-between items-center">
             {previousModel ? (
-              <Link
-                href={`/${resolvedParams.brand}/${previousModel.slug}`}
-                className="flex items-center space-x-2 hover:bg-white/10 transition-colors p-3 rounded-lg"
-              >
+              <Link href={`/${previousModel.brand}/${previousModel.slug}`} className="flex items-center space-x-2 hover:bg-white/10 transition-colors p-3 rounded-lg">
                 <ChevronLeft className="h-5 w-5" />
                 <div>
                   <div className="text-xs text-muted">Önceki Model</div>
                   <div className="font-medium">{previousModel.model}</div>
                 </div>
               </Link>
-            ) : (
-              <div className="p-3 opacity-50">
-                <div className="text-xs text-muted">Önceki Model</div>
-                <div className="font-medium">Mevcut Değil</div>
-              </div>
-            )}
+            ) : ( <div className="p-3 opacity-50"><div className="text-xs text-muted">Önceki Model</div><div className="font-medium">Mevcut Değil</div></div> )}
 
             <div className="hidden md:block text-center">
               <div className="text-sm text-muted">Şu an görüntülüyorsunuz</div>
@@ -218,22 +221,14 @@ export default async function ModelPage({ params }: ModelPageProps) {
             </div>
 
             {nextModel ? (
-              <Link
-                href={`/${resolvedParams.brand}/${nextModel.slug}`}
-                className="flex items-center space-x-2 hover:bg-white/10 transition-colors p-3 rounded-lg"
-              >
-                <div className="text-right">
+              <Link href={`/${nextModel.brand}/${nextModel.slug}`} className="flex items-center space-x-2 hover:bg-white/10 transition-colors p-3 rounded-lg text-right">
+                <div>
                   <div className="text-xs text-muted">Sonraki Model</div>
                   <div className="font-medium">{nextModel.model}</div>
                 </div>
                 <ChevronRight className="h-5 w-5" />
               </Link>
-            ) : (
-              <div className="p-3 text-right opacity-50">
-                <div className="text-xs text-muted">Sonraki Model</div>
-                <div className="font-medium">Mevcut Değil</div>
-              </div>
-            )}
+            ) : ( <div className="p-3 text-right opacity-50"><div className="text-xs text-muted">Sonraki Model</div><div className="font-medium">Mevcut Değil</div></div> )}
           </div>
         </div>
       </div>
@@ -242,29 +237,4 @@ export default async function ModelPage({ params }: ModelPageProps) {
       <CTAButton />
     </div>
   )
-}
-
-export function generateStaticParams() {
-  // iPhone modelleri için tüm slugları al
-  const iPhoneSlugs = getAlliPhoneModelSlugs()
-
-  return [
-    // iPhone modelleri
-    ...iPhoneSlugs.map((slug) => ({ brand: "iphone", slug })),
-    // Samsung için örnek
-    { brand: "samsung", slug: "galaxy-s24-ultra" },
-    { brand: "samsung", slug: "galaxy-s24-plus" },
-    { brand: "samsung", slug: "galaxy-s24" },
-    { brand: "samsung", slug: "galaxy-s23-ultra" },
-    { brand: "samsung", slug: "galaxy-s23-plus" },
-    { brand: "samsung", slug: "galaxy-s23" },
-    { brand: "samsung", slug: "galaxy-note-20-ultra" },
-    { brand: "samsung", slug: "galaxy-a54" },
-    // Huawei için örnek
-    { brand: "huawei", slug: "p60-pro" },
-    { brand: "huawei", slug: "mate-50-pro" },
-    { brand: "huawei", slug: "p50-pro" },
-    { brand: "huawei", slug: "nova-11" },
-    { brand: "huawei", slug: "p40-pro" },
-  ]
 }

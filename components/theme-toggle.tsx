@@ -1,34 +1,33 @@
-"use client"
+// components/theme-toggle.tsx
+"use client";
 
-import { useState, useEffect } from "react"
-import { Sun, Moon } from "lucide-react"
+import * as React from "react";
+import { useTheme } from "next-themes";
+import { Sun, Moon } from "lucide-react";
 
 export default function ThemeToggle() {
-  const [theme, setTheme] = useState<"dark" | "light">("dark")
+  const [mounted, setMounted] = React.useState(false);
+  const { theme, setTheme } = useTheme();
 
-  useEffect(() => {
-    // Sayfa yüklendiğinde localStorage'dan tema tercihini al
-    const savedTheme = localStorage.getItem("theme") as "dark" | "light" | null
-    if (savedTheme) {
-      setTheme(savedTheme)
-      document.documentElement.setAttribute("data-theme", savedTheme)
-    }
-  }, [])
+  // useEffect, bileşenin sadece istemcide yüklendiğinden emin olur.
+  // Bu, hydration hatasını önler.
+  React.useEffect(() => {
+    setMounted(true);
+  }, []);
 
-  const toggleTheme = () => {
-    const newTheme = theme === "dark" ? "light" : "dark"
-    setTheme(newTheme)
-    document.documentElement.setAttribute("data-theme", newTheme)
-    localStorage.setItem("theme", newTheme)
+  // Eğer bileşen henüz yüklenmediyse, bir yer tutucu göstererek
+  // sunucu ve istemci arasında fark olmasını engelliyoruz.
+  if (!mounted) {
+    return <button className="theme-toggle w-9 h-9" disabled />;
   }
 
   return (
     <button
-      onClick={toggleTheme}
+      onClick={() => setTheme(theme === "light" ? "dark" : "light")}
       className="theme-toggle"
-      aria-label={theme === "dark" ? "Light moda geç" : "Dark moda geç"}
+      aria-label="Toggle theme"
     >
       {theme === "dark" ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
     </button>
-  )
+  );
 }

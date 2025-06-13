@@ -1,7 +1,10 @@
+// app/layout.tsx
+
 import type React from "react"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
+import { ThemeProvider } from "@/components/theme-provider" // Bu satırı ekleyin
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -17,8 +20,17 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="tr">
-      <body className={inter.className}>{children}</body>
+    <html lang="tr" suppressHydrationWarning>
+      <body className={inter.className}>
+        <ThemeProvider
+          attribute="data-theme" // globals.css'teki seçici ile aynı olmalı
+          defaultTheme="dark"
+          enableSystem={false} // Sistem temasını şimdilik devre dışı bırakalım
+          disableTransitionOnChange
+        >
+          {children}
+        </ThemeProvider>
+      </body>
     </html>
   )
 }

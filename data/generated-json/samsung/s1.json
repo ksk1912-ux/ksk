@@ -1,0 +1,650 @@
+[
+  {
+    "model": "Samsung Galaxy S10e",
+    "slug": "samsung-galaxy-s10e",
+    "meta_title": "Samsung Galaxy S10e Onarım Fiyatları ve Kronik Arızalar",
+    "meta_description": "Samsung Galaxy S10e için ekran (yeşil çizgi, AMOLED yanığı), batarya, parmak izi okuyucu ve şarj sorunları. Kronik arızalar, onarım ve çözüm önerileri.",
+    "h1_baslik": "Samsung Galaxy S10e Yaygın Arızalar ve Onarım Çözümleri",
+    "cihaz_aciklama": "2019'un kompakt amiral gemisi Galaxy S10e, küçük boyutlarına rağmen güçlü performans sunar. Dynamic AMOLED ekranı ve yan tarafa monte parmak izi okuyucusu ile dikkat çeker. Ancak AMOLED yanığı, yeşil çizgi, Exynos ısınması ve batarya sorunları gibi kronik arızalarla karşılaşabilir.",
+    "ozellikler": {
+      "ekran": "5.8 inç Dynamic AMOLED, FHD+ (2280x1080)",
+      "islemci": "Exynos 9820 (Türkiye) / Snapdragon 855",
+      "ram": "6GB/8GB RAM",
+      "batarya": "3100 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.5-2.4, OIS), 16MP Ultra Geniş (f/2.2); Ön: 10MP (f/1.9)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "AMOLED ekran yanığı (burn-in) ve hayalet ekran.",
+      "Ekranda aniden beliren yeşil veya renkli dikey çizgiler.",
+      "Yoğun kullanımda batarya performansında düşüş ve hızlı tükenme.",
+      "Özellikle Exynos çipli versiyonlarda aşırı ısınma.",
+      "Yan taraftaki parmak izi okuyucunun zamanla hassasiyetini kaybetmesi veya çalışmaması.",
+      "Şarj portunda 'nem algılandı' uyarısı ve şarj sorunları.",
+      "Hoparlör ve mikrofon ses kalitesinde düşüş veya arızalar.",
+      "Titreşim motorunun çalışmaması."
+    ],
+    "cozum_onerileri": [
+      "Ekran yanığını önlemek için statik görüntüleri uzun süre ekranda bırakmayın, otomatik parlaklığı ve mümkünse koyu temayı kullanın.",
+      "Batarya ömrünü iyileştirmek için 'Güç Tasarrufu Modu'nu etkinleştirin, kullanılmayan uygulamaları uyku moduna alın ve ekran parlaklığını optimize edin.",
+      "Aşırı ısınmayı azaltmak için cihazı güncel tutun, yüksek grafikli oyunlar veya yoğun uygulamalar sırasında mola verin ve arka planda çalışan gereksiz uygulamaları kapatın.",
+      "Parmak izi okuyucuyu düzenli olarak temizleyin, parmağınızı farklı açılardan yeniden kaydedin.",
+      "Nem algılandı uyarısı alırsanız şarj portunu dikkatlice kurulayın; sorun devam ederse kablosuz şarjı deneyin veya yetkili servise başvurun."
+    ],
+    "sss": [
+        {"soru": "S10e ekran sorunları (yeşil çizgi, yanık) nasıl çözülür?", "cevap": "Yeşil çizgi ve AMOLED yanığı gibi sorunlar genellikle donanımsaldır ve ekran değişimi gerektirir. Yazılımsal sorunlar için cihazı yeniden başlatmak veya fabrika ayarlarına döndürmek denenebilir. AMOLED yanığını azaltmak için koyu tema ve düşük parlaklık kullanımı önerilir."},
+        {"soru": "İkinci el Galaxy S10e alırken nelere dikkat etmeli?", "cevap": "Ekranın AMOLED yanığı veya yeşil çizgi açısından kontrol edilmesi, batarya sağlığı ve ömrü, parmak izi okuyucunun, hoparlörlerin, mikrofonun ve diğer donanımların düzgün çalışıp çalışmadığına bakılmalıdır. IMEI kaydı sorgulanmalı ve mümkünse fatura istenmelidir."},
+        {"soru": "Galaxy S10e için Türkiye'de resmi onarım programı var mı?", "cevap": "Samsung Türkiye, Samsung Care+ gibi ücretli sigorta paketleri ve yetkili servisler aracılığıyla onarım hizmeti sunar. S10e modeline özel, yaygın ve ücretsiz bir kronik arıza onarım programı (örneğin yeşil çizgi için) bilgisi bulunmamaktadır."}
+    ],
+    "kullanici_yorumlari": [
+      "Kompakt boyutu ve performansı güzel ama bataryası günü zor çıkarıyor.",
+      "Exynos versiyonu bazen ısınıyor, özellikle oyun oynarken.",
+      "Yan parmak izi okuyucusu zaman zaman tepkisiz kalabiliyor.",
+      "Ekranı canlı ve parlak, kamerası hala iş görüyor."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S10",
+    "slug": "samsung-galaxy-s10",
+    "meta_title": "Samsung Galaxy S10 Onarım Hizmetleri ve Kronik Arıza Çözümleri",
+    "meta_description": "Samsung Galaxy S10 ekran sorunları (yeşil çizgi, AMOLED yanığı), batarya değişimi ve anakart tamiri. Exynos ısınma, parmak izi okuyucu ve nem uyarısı gibi yaygın arızalar ve çözümleri.",
+    "h1_baslik": "Samsung Galaxy S10 Yaygın Arızalar, Onarım ve Sorun Giderme Rehberi",
+    "cihaz_aciklama": "2019'da tanıtılan Galaxy S10, 6.1 inç Quad HD+ Dynamic AMOLED ekranı, üçlü arka kamerası ve ekrana gömülü ultrasonik parmak izi okuyucusu ile dikkat çekti. Performans ve tasarım dengesi sunsa da AMOLED ekran yanığı, yeşil çizgi, Exynos modelinde ısınma ve batarya sorunları gibi kronik arızalar kullanıcı deneyimini etkileyebilir.",
+    "ozellikler": {
+      "ekran": "6.1 inç Dynamic AMOLED, Quad HD+ (3040x1440)",
+      "islemci": "Exynos 9820 (Türkiye) / Snapdragon 855",
+      "ram": "8GB RAM",
+      "batarya": "3400 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.5-2.4, OIS), 12MP Telefoto (f/2.4, OIS, 2x optik zoom), 16MP Ultra Geniş (f/2.2); Ön: 10MP (f/1.9)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "AMOLED ekran yanığı, hayalet ekran veya ekranda kalıcı izler.",
+      "Ekranda aniden beliren yeşil veya renkli dikey çizgiler.",
+      "Batarya performansında düşüş, özellikle Exynos işlemcili modelde hızlı tükenme ve şarj sorunları.",
+      "Exynos çipli versiyonlarda aşırı ısınma ve performans kısıtlaması.",
+      "Ekrana gömülü ultrasonik parmak izi okuyucuda yavaş çalışma, tanımama veya hassasiyet sorunları.",
+      "Şarj portunda 'nem algılandı' uyarısı.",
+      "Yazılım güncellemeleri sonrası performans sorunları, uygulamaların çökmesi veya cihazın kendi kendine kapanması."
+    ],
+    "cozum_onerileri": [
+      "Ekran sorunlarını önlemek için koyu temayı ve otomatik parlaklığı kullanın, statik görüntüleri uzun süre ekranda bırakmayın.",
+      "Batarya ömrünü uzatmak için güç tasarrufu modlarını etkinleştirin, gereksiz uygulamaları ve özellikleri (NFC, Bluetooth vb.) kapatın.",
+      "Isınma sorunları için cihaz yazılımını güncel tutun, ağır uygulamalar ve oyunlar sırasında cihazı havalandırın veya mola verin.",
+      "Parmak izi okuyucu sorunları için ekran koruyucunun uyumlu olduğundan emin olun, parmağınızı ve sensör alanını temiz tutun, parmağınızı farklı açılardan yeniden kaydedin.",
+      "Nem algılandı uyarısı alırsanız şarj portunu dikkatlice kurulayın, sorun devam ederse yetkili servise danışın."
+    ],
+    "sss": [
+      {"soru": "Galaxy S10 ekran sorunları nasıl çözülür?", "cevap": "Yeşil çizgi sorunu genellikle donanımsaldır ve ekran değişimi gerektirir. Nadiren yazılımsal bir sorundan kaynaklanabilir, bu durumda fabrika ayarlarına dönmek denenebilir. Yetkili servise başvurmanız önerilir."},
+      {"soru": "İkinci el Galaxy S10 alırken hangi kontrolleri yapmalıyım?", "cevap": "Ekran durumu (AMOLED yanığı, yeşil çizgi var mı), batarya sağlığı ve performansı (özellikle Exynos modelinde), ultrasonik parmak izi okuyucunun düzgün çalışıp çalışmadığı, nem uyarısı olup olmadığı ve genel donanım performansı kontrol edilmelidir. IMEI sorgulaması ve fatura talep edilmelidir."},
+      {"soru": "Galaxy S10 Exynos ve Snapdragon işlemcili modeller arasında ne gibi farklar var?", "cevap": "Genel kullanıcı deneyimlerine göre Snapdragon işlemcili modeller, batarya ömrü, ısınma ve genel performans konularında Exynos işlemcili modellere kıyasla daha iyi bir deneyim sunabilmektedir. Türkiye'de genellikle Exynos işlemcili modeller satılmaktadır."}
+    ],
+    "kullanici_yorumlari": [
+      "Ekran kalitesi mükemmel, renkler çok canlı.",
+      "Exynos işlemcili modelde batarya çabuk bitiyor ve telefon ısınabiliyor.",
+      "Parmak izi okuyucusu bazen yavaş kalabiliyor veya tanımakta zorlanıyor.",
+      "Kamerası hala çok başarılı, özellikle geniş açı çekimleri harika.",
+      "Tasarımı ele tam oturuyor ve premium hissettiriyor."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S10+",
+    "slug": "samsung-galaxy-s10-plus",
+    "meta_title": "Samsung Galaxy S10 Plus Onarım ve Kronik Arıza Çözüm Merkezi",
+    "meta_description": "Samsung Galaxy S10 Plus ekran sorunları (AMOLED yanığı, yeşil çizgi), batarya değişimi, ısınma problemleri ve parmak izi okuyucu arızaları. Kapsamlı onarım ve çözüm önerileri.",
+    "h1_baslik": "Samsung Galaxy S10+ Kronik Arızaları ve Profesyonel Onarım Hizmetleri",
+    "cihaz_aciklama": "Galaxy S10 Plus, 2019'un büyük ekranlı amiral gemisi olarak 6.4 inç Quad HD+ Dynamic AMOLED ekran, güçlü Exynos/Snapdragon işlemci seçenekleri ve geliştirilmiş kamera sistemiyle geldi. Çift ön kamerası ve büyük bataryasıyla dikkat çeken model, AMOLED ekran yanığı, yeşil çizgi, ısınma ve parmak izi okuyucu gibi bazı kronik sorunlarla karşılaşabilir.",
+    "ozellikler": {
+      "ekran": "6.4 inç Dynamic AMOLED, Quad HD+ (3040x1440)",
+      "islemci": "Exynos 9820 (Türkiye) / Snapdragon 855",
+      "ram": "8GB/12GB RAM",
+      "batarya": "4100 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.5-2.4, OIS), 12MP Telefoto (f/2.4, OIS, 2x optik zoom), 16MP Ultra Geniş (f/2.2); Ön: 10MP (f/1.9) + 8MP Derinlik (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "AMOLED ekran yanığı veya yeşil çizgi sorunu.",
+      "Batarya performansında düşüş, hızlı tükenme ve şarj sorunları.",
+      "Özellikle Exynos işlemcili versiyonlarda aşırı ısınma.",
+      "Ultrasonik parmak izi okuyucuda yavaşlık ve tanıma sorunları.",
+      "Yazılım güncellemeleri sonrası donma, yavaşlama ve uygulama çökme sorunları.",
+      "Bluetooth bağlantı kopmaları ve zayıf LTE sinyali."
+    ],
+    "cozum_onerileri": [
+      "Ekran sorunlarını önlemek veya azaltmak için koyu tema kullanın ve parlaklığı optimize edin.",
+      "Batarya ömrünü artırmak için güç tasarruf modlarını kullanın, arka planda çalışan uygulamaları kısıtlayın ve gereksiz bildirimleri kapatın.",
+      "Isınma sorunlarını azaltmak için cihazı güncel tutun, yoğun kullanımda (oyun, video kayıt vb.) ara verin ve cihazı serin bir ortamda kullanmaya özen gösterin.",
+      "Parmak izi okuyucu performansını artırmak için sensör alanını temiz tutun, parmağınızı farklı açılardan birkaç kez kaydedin ve uyumlu bir ekran koruyucu kullanın.",
+      "Yazılımsal sorunlar için önbelleği temizlemeyi, uygulamaları güncellemeyi veya son çare olarak fabrika ayarlarına sıfırlamayı (verilerinizi yedekledikten sonra) deneyin."
+    ],
+    "sss": [
+      {"soru": "Galaxy S10+ ekran sorunları nasıl çözülür?", "cevap": "AMOLED ekran yanığı donanımsaldır ve kalıcıdır. Yeşil çizgi de donanımsal olup servis müdahalesi gerektirebilir."},
+      {"soru": "İkinci el Galaxy S10+ alırken nelere özellikle dikkat etmeliyim?", "cevap": "Ekranın yanık veya çizgi açısından detaylı kontrolü, batarya sağlığı ve şişme olup olmadığı, parmak izi okuyucunun tepkiselliği, genel performans ve ısınma durumu kontrol edilmelidir. IMEI sorgulaması ve fatura önemlidir."},
+      {"soru": "Galaxy S10+ için Türkiye'de özel bir onarım programı mevcut mu?", "cevap": "Samsung Türkiye, Samsung Care+ gibi ücretli sigorta ve onarım paketleri sunmaktadır. Belirli kronik arızalar için (örneğin S10 serisi yeşil çizgi) yaygın, ücretsiz bir onarım programı bilgisi bulunmamaktadır. Yetkili servislerden destek alabilirsiniz."}
+    ],
+    "kullanici_yorumlari": [
+      "Ekranı büyük ve çok canlı, film izlemek için harika.",
+      "Bataryası yoğun kullanımda bile günü çıkarabiliyor ama Exynos modeli biraz daha fazla tüketiyor.",
+      "Kamerası çok yönlü ve kaliteli fotoğraflar çekiyor, özellikle portre modu iyi.",
+      "Parmak izi okuyucusu bazen can sıkıcı olabiliyor, birkaç denemede açılıyor.",
+      "Uzun süreli kullanımda bile hala performanslı bir telefon."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S10 5G",
+    "slug": "samsung-galaxy-s10-5g",
+    "meta_title": "Samsung Galaxy S10 5G Onarım ve Kronik Arıza Bilgileri",
+    "meta_description": "Samsung Galaxy S10 5G ekran sorunları, batarya performansı, ısınma ve 5G bağlantı problemleri. Yaygın arızalar, onarım seçenekleri ve çözüm önerileri.",
+    "h1_baslik": "Samsung Galaxy S10 5G Kronik Sorunlar ve Onarım Çözümleri",
+    "cihaz_aciklama": "Galaxy S10 5G, 2019'da S10 serisinin 5G teknolojisine sahip ilk modeli olarak piyasaya sürüldü. Daha büyük 6.7 inç ekran, daha büyük batarya ve ek ToF kameralar gibi özelliklerle geldi. Ancak, 5G bağlantısının getirdiği ek yükler, olası ekran sorunları (yeşil çizgi, AMOLED yanığı) ve serinin genel ısınma sorunları bu modelde de görülebilir.",
+    "ozellikler": {
+      "ekran": "6.7 inç Dynamic AMOLED, Quad HD+ (3040x1440)",
+      "islemci": "Exynos 9820 (Türkiye) / Snapdragon 855",
+      "ram": "8GB RAM",
+      "batarya": "4500 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.5-2.4, OIS), 12MP Telefoto (f/2.4, OIS), 16MP Ultra Geniş (f/2.2), 0.3MP TOF 3D Derinlik; Ön: 10MP (f/1.9) + 0.3MP TOF 3D Derinlik",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "AMOLED ekran yanığı veya yeşil çizgi.",
+      "5G kullanımıyla birlikte bataryanın beklenenden hızlı tükenmesi.",
+      "Özellikle 5G kullanımı ve yoğun işlemlerde aşırı ısınma.",
+      "Şebeke ve 5G bağlantı sorunları, sinyal düşmeleri.",
+      "Yazılımsal donmalar ve genel performans sorunları.",
+      "Parmak izi okuyucu hassasiyet sorunları (S10 serisi genelinde)."
+    ],
+    "cozum_onerileri": [
+      "Ekran sorunları için koyu tema kullanın, parlaklığı optimize edin; yeşil çizgi için servise başvurun.",
+      "Batarya ömrünü uzatmak için 5G'yi gereksiz durumlarda kapatın, güç tasarrufu modlarını kullanın ve arka plan uygulamalarını yönetin.",
+      "Isınmayı azaltmak için cihazı güncel tutun, 5G'yi yoğun kullanırken veya şarj olurken havalandırmaya dikkat edin.",
+      "Bağlantı sorunları için ağ ayarlarını sıfırlamayı, SIM kartı kontrol etmeyi veya operatörle iletişime geçmeyi deneyin.",
+      "Parmak izi okuyucu için ekran koruyucu uyumluluğunu kontrol edin ve parmağınızı farklı açılardan kaydedin."
+    ],
+    "sss": [
+      {"soru": "Galaxy S10 5G bataryası neden çabuk bitiyor?", "cevap": "5G bağlantısı, 4G'ye göre daha fazla güç tüketir. Bu nedenle 5G aktifken bataryanın daha hızlı tükenmesi normaldir. Ayrıca, S10 serisinin Exynos işlemcili modellerinde genel bir batarya optimizasyon sorunu da rapor edilmiştir."},
+      {"soru": "İkinci el Galaxy S10 5G alırken nelere dikkat edilmeli?", "cevap": "Ekran sağlığı (yanık, çizgi), batarya performansı (özellikle 5G ile kullanımda), 5G bağlantısının çalışıp çalışmadığı, ısınma durumu ve parmak izi okuyucusu kontrol edilmelidir. IMEI sorgulaması ve fatura önemlidir."},
+      {"soru": "Galaxy S10 5G için Türkiye'de resmi onarım programı var mı?", "cevap": "Samsung Türkiye, Samsung Care+ gibi ücretli sigorta ve onarım paketleri sunar. S10 5G modeline özel, yaygın ve ücretsiz bir kronik arıza onarım programı bilgisi mevcut değildir. Yetkili servislerden destek alabilirsiniz."}
+    ],
+    "kullanici_yorumlari": [
+      "5G hızı etkileyici ama bataryayı çabuk tüketiyor.",
+      "Ekranı büyük ve canlı, video izlemek keyifli.",
+      "Bazen 5G bağlantısında kopmalar yaşanabiliyor veya telefon aşırı ısınabiliyor.",
+      "Kameraları S10 Plus ile benzer kalitede, ToF sensörleri portre modunda fark yaratıyor.",
+      "Türkiye'de 5G yaygınlaşmadığı için potansiyelini tam kullanamıyor olabilir."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S20",
+    "slug": "samsung-galaxy-s20",
+    "meta_title": "Samsung Galaxy S20 Onarım ve Ekran Sorunları (Yeşil Çizgi, Beyaz Ekran)",
+    "meta_description": "Samsung Galaxy S20 için ekran değişimi (yeşil çizgi, beyaz ekran), batarya sorunları, Exynos 990 ısınma ve kamera arızaları. Kronik sorunlar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S20 Kronik Arızalar, Onarım Seçenekleri ve Çözüm Önerileri",
+    "cihaz_aciklama": "2020'de tanıtılan Galaxy S20, 6.2 inç 120Hz Dynamic AMOLED 2X ekranı, geliştirilmiş kamera sistemi ve Exynos 990 (Türkiye) / Snapdragon 865 işlemcisiyle geldi. Yüksek yenileme hızı ve 8K video kaydı gibi özellikler sunsa da, ekranda yeşil çizgi, beyaz ekran, Exynos 990 kaynaklı aşırı ısınma ve batarya sorunları gibi kronik arızalar kullanıcı deneyimini olumsuz etkileyebilir.",
+    "ozellikler": {
+      "ekran": "6.2 inç Dynamic AMOLED 2X, Quad HD+ (3200x1440), 120Hz",
+      "islemci": "Exynos 990 (Türkiye) / Snapdragon 865",
+      "ram": "8GB RAM (LTE) / 12GB RAM (5G)",
+      "batarya": "4000 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.8, OIS), 64MP Telefoto (f/2.0, OIS, 3x hibrit zoom), 12MP Ultra Geniş (f/2.2); Ön: 10MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Ekranda yeşil çizgi, beyaz ekran veya pembeleşme gibi sorunlar (özellikle güncelleme sonrası).",
+      "Exynos 990 işlemcili modellerde aşırı ısınma ve buna bağlı performans düşüşü.",
+      "Bataryanın hızlı tükenmesi ve şarj sorunları.",
+      "Kamera odaklama sorunları veya 'kamera başarısız' hatası.",
+      "SIM kartın tanınmaması veya şebeke sorunları.",
+      "Yazılım güncellemeleri sonrası genel sistem kararsızlıkları."
+    ],
+    "cozum_onerileri": [
+      "Ekran sorunları (yeşil çizgi, beyaz ekran) genellikle donanımsaldır ve yetkili servis tarafından ekran değişimi gerektirebilir.",
+      "Isınma sorunları için cihazı güncel tutun, arka planda çalışan uygulamaları kısıtlayın ve yoğun kullanımda mola verin.",
+      "Batarya ömrünü iyileştirmek için güç tasarrufu modlarını kullanın, ekran yenileme hızını 60Hz'e düşürün ve parlaklığı azaltın.",
+      "Kamera sorunları için kamera uygulamasının önbelleğini ve verilerini temizlemeyi, cihazı yeniden başlatmayı deneyin. Sorun devam ederse servise başvurun.",
+      "SIM kart ve şebeke sorunları için SIM kartı çıkarıp yeniden takmayı, ağ ayarlarını sıfırlamayı veya operatörünüzle iletişime geçmeyi deneyin."
+    ],
+    "sss": [
+      {"soru": "Galaxy S20'deki yeşil çizgi/beyaz ekran sorunu neden oluyor?", "cevap": "Bu sorun genellikle bir donanım arızasıdır ve ekranın veya ekran bağlantı kablosunun hasar görmesiyle ilgilidir. Yetkili servise başvurarak ekran değişimi veya onarım hakkında bilgi almanız en doğru yoldur."},
+      {"soru": "İkinci el Galaxy S20 alırken nelere dikkat etmeliyim?", "cevap": "Öncelikle ekranın yeşil çizgi, beyaz ekran veya AMOLED yanığı açısından kontrol edilmesi, Exynos modeliyse ısınma durumu, batarya sağlığı, kamera performansı ve SIM kart okuyucusu gibi donanımların çalışır durumda olduğundan emin olunmalıdır. IMEI kaydı ve fatura kontrolü yapılmalıdır."},
+      {"soru": "Galaxy S20 Exynos 990 işlemcisi gerçekten sorunlu mu?", "cevap": "Exynos 990 işlemcili Galaxy S20 modellerinde, Snapdragon versiyonlarına kıyasla daha fazla ısınma ve buna bağlı performans düşüşü ile batarya tüketimi rapor edilmiştir."}
+    ],
+    "kullanici_yorumlari": [
+      "Ekranı 120Hz çok akıcı ama bataryayı hızlı tüketiyor.",
+      "Exynos işlemcili model oyunlarda ve yoğun kullanımda ısınıyor.",
+      "Kamerası çok iyi, özellikle video çekim kalitesi başarılı.",
+      "Güncellemeden sonra ekranda yeşil çizgi çıktı, kronik bir sorunmuş.",
+      "Kompakt ve ele oturan bir amiral gemisi ama bataryası daha iyi olabilirdi."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S20+",
+    "slug": "samsung-galaxy-s20-plus",
+    "meta_title": "Samsung Galaxy S20 Plus Onarım: Ekran, Batarya ve Isınma Sorunları",
+    "meta_description": "Samsung Galaxy S20 Plus için ekran değişimi (yeşil/pembe çizgi, beyaz ekran), batarya sorunları, Exynos 990 kaynaklı aşırı ısınma ve kamera odaklama arızaları. Kronik sorunlar ve çözüm yolları.",
+    "h1_baslik": "Samsung Galaxy S20+ Kronik Arızalar, Onarım ve Sorun Giderme Kılavuzu",
+    "cihaz_aciklama": "Galaxy S20 Plus, 6.7 inç 120Hz Dynamic AMOLED 2X ekranı, dörtlü kamera kurulumu ve daha büyük bataryası ile 2020'de S20 ailesinin ortanca modeli olarak sunuldu. Exynos 990 (Türkiye) işlemcisi bazı performans ve ısınma sorunlarına yol açabilirken, ekranda yeşil/pembe çizgi ve beyaz ekran gibi kronik sorunlar da kullanıcıları üzebiliyor.",
+    "ozellikler": {
+      "ekran": "6.7 inç Dynamic AMOLED 2X, Quad HD+ (3200x1440), 120Hz",
+      "islemci": "Exynos 990 (Türkiye) / Snapdragon 865",
+      "ram": "8GB RAM (LTE) / 12GB RAM (5G)",
+      "batarya": "4500 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.8, OIS), 64MP Telefoto (f/2.0, OIS, 3x hibrit zoom), 12MP Ultra Geniş (f/2.2), 0.3MP ToF Derinlik; Ön: 10MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Ekranda yeşil, pembe veya beyaz çizgiler, beyaz ekran veya AMOLED yanığı.",
+      "Exynos 990 işlemcili modellerde aşırı ısınma ve buna bağlı performans düşüşleri.",
+      "Bataryanın hızlı tükenmesi, şarj tutmama veya yavaş şarj olma sorunları.",
+      "Kamera odaklama sorunları, 'kamera başarısız' hatası veya mikrofon sorunları.",
+      "Yazılım güncellemeleri sonrası rastgele yeniden başlatmalar, donmalar veya genel sistem kararsızlıkları."
+    ],
+    "cozum_onerileri": [
+      "Ekran sorunları (renkli çizgiler, beyaz ekran) genellikle donanımsaldır ve yetkili servis tarafından ekran değişimi gerektirebilir.",
+      "Isınma sorunlarını azaltmak için cihaz yazılımını güncel tutun, arka planda çalışan uygulamaları kısıtlayın ve yoğun kullanımda (oyun, 8K video) mola verin.",
+      "Batarya performansını artırmak için güç tasarrufu modlarını kullanın, ekran yenileme hızını 120Hz'den 60Hz'e düşürün ve ekran parlaklığını azaltın.",
+      "Kamera sorunları için kamera uygulamasının önbelleğini ve verilerini temizleyin, cihazı yeniden başlatın. Sorun devam ederse donanımsal bir arıza olabilir, servise başvurun.",
+      "Yazılımsal kararsızlıklar için cihazı güvenli modda başlatarak sorunun bir uygulamadan kaynaklanıp kaynaklanmadığını kontrol edin veya son çare olarak fabrika ayarlarına sıfırlayın (verilerinizi yedekledikten sonra)."
+    ],
+    "sss": [
+      {"soru": "Galaxy S20 Plus'taki ekran çizgileri neden oluşur?", "cevap": "Bu sorun genellikle donanımsaldır. Çözümü çoğunlukla yetkili serviste ekran değişimidir. Bazı kullanıcılar yazılım güncellemeleri sonrası bu sorunla karşılaştığını belirtmiştir."},
+      {"soru": "İkinci el Galaxy S20 Plus alırken nelere dikkat etmeliyim?", "cevap": "Öncelikle ekranın yeşil/pembe çizgi, beyaz ekran veya AMOLED yanığı açısından dikkatlice kontrol edilmesi, Exynos modeliyse ısınma durumu, batarya sağlığı, kamera fonksiyonları ve genel donanım performansı incelenmelidir. IMEI kaydı ve fatura kontrolü önemlidir."},
+      {"soru": "Galaxy S20 Plus Exynos 990 işlemcisi çok mu ısınıyor?", "cevap": "Evet, Exynos 990 işlemcili Galaxy S20 Plus modellerinde, özellikle yoğun kullanımda ve bazı güncellemeler sonrasında aşırı ısınma ve buna bağlı performans düşüşü raporları yaygındır."}
+    ],
+    "kullanici_yorumlari": [
+      "120Hz ekranı çok akıcı ve canlı, ancak bataryayı olumsuz etkiliyor.",
+      "Exynos işlemci maalesef çok ısınıyor ve bazen performansı düşüyor.",
+      "Kamerası harika, özellikle zoom yetenekleri ve video kalitesi çok iyi.",
+      "Birçok kullanıcı gibi bende de güncelleme sonrası ekranda yeşil çizgi sorunu oluştu.",
+      "Tasarımı şık ve ele iyi oturuyor, genel olarak iyi bir telefon ama kronik sorunları can sıkıcı."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S20 Ultra",
+    "slug": "samsung-galaxy-s20-ultra",
+    "meta_title": "Samsung Galaxy S20 Ultra Onarım: Ekran, Kamera ve Isınma Sorunları",
+    "meta_description": "Samsung Galaxy S20 Ultra için ekran değişimi (yeşil ekran, beyaz ekran), kamera odaklama sorunları, Exynos 990 kaynaklı aşırı ısınma ve batarya problemleri. Kronik arızalar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S20 Ultra Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S20 Ultra, 2020'nin en üst düzey S serisi modeli olarak 6.9 inç devasa 120Hz ekran, 108MP ana kamera, 100x Space Zoom ve 5000 mAh batarya gibi iddialı özelliklerle geldi. Ancak Exynos 990 işlemcinin (Türkiye) neden olduğu ısınma, kamera odak sorunları, ekranda yeşil renk tonu/beyaz ekran ve batarya sorunları gibi kronik problemlerle de gündeme geldi.",
+    "ozellikler": {
+      "ekran": "6.9 inç Dynamic AMOLED 2X, Quad HD+ (3200x1440), 120Hz",
+      "islemci": "Exynos 990 (Türkiye) / Snapdragon 865",
+      "ram": "12GB/16GB RAM",
+      "batarya": "5000 mAh",
+      "kamera": "Arka: 108MP Geniş (f/1.8, OIS), 48MP Periskop Telefoto (f/3.5, OIS, 10x hibrit zoom), 12MP Ultra Geniş (f/2.2), 0.3MP ToF Derinlik; Ön: 40MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Ekranda yeşil renk tonu, beyaz ekran veya titreme sorunları (özellikle 120Hz modunda ve düşük parlaklıkta).",
+      "Exynos 990 işlemcili modellerde aşırı ısınma ve buna bağlı performans düşüşleri, özellikle kamera kullanımı ve oyunlarda.",
+      "Bataryanın beklenenden hızlı tükenmesi ve şarj sorunları.",
+      "Ana kamerada otomatik odaklama sorunları, bulanık fotoğraflar veya 'kamera başarısız' hatası.",
+      "Yazılım güncellemeleri sonrası Wi-Fi bağlantı sorunları, rastgele yeniden başlatmalar veya ahize sorunları.",
+      "Parmak izi okuyucunun yavaş çalışması veya tanımaması."
+    ],
+    "cozum_onerileri": [
+      "Ekran sorunları için ekran yenileme hızını 60Hz'e düşürmeyi deneyin veya yetkili servise başvurun; genellikle donanımsaldır.",
+      "Isınma sorunlarını azaltmak için cihazı güncel tutun, arka planda çalışan uygulamaları kısıtlayın ve yoğun kullanımda (özellikle kamera) mola verin.",
+      "Batarya performansını artırmak için güç tasarrufu modlarını kullanın, ekran parlaklığını ve yenileme hızını optimize edin.",
+      "Kamera odak sorunları için yazılım güncellemelerini kontrol edin, kamera uygulamasının önbelleğini temizleyin. Sorun devam ederse donanımsal olabilir.",
+      "Yazılımsal kararsızlıklar ve bağlantı sorunları için ağ ayarlarını sıfırlayın, cihazı yeniden başlatın veya son çare olarak fabrika ayarlarına dönün (verilerinizi yedekledikten sonra)."
+    ],
+    "sss": [
+      {"soru": "Galaxy S20 Ultra kamera odaklama sorunu neden oluyor?", "cevap": "Bu sorun, özellikle cihazın ilk çıktığı dönemlerde 108MP sensörün otomatik odaklama sistemindeki yazılımsal ve donanımsal optimizasyon eksikliğinden kaynaklanıyordu. Samsung bu sorunu yazılım güncellemeleri ile iyileştirmeye çalışsa da bazı kullanıcılarda sorun devam edebilir ve donanımsal bir arıza olabilir."},
+      {"soru": "İkinci el Galaxy S20 Ultra alırken nelere dikkat etmeliyim?", "cevap": "Ekranın yeşil ton, beyaz ekran veya AMOLED yanığı açısından kontrol edilmesi, Exynos modeliyse aşırı ısınma durumu, batarya sağlığı, kamera odaklama performansı ve genel donanım fonksiyonları incelenmelidir. IMEI kaydı ve fatura kontrolü önemlidir."},
+      {"soru": "Galaxy S20 Ultra'nın Exynos 990 işlemcisi gerçekten çok mu ısınıyor?", "cevap": "Evet, Exynos 990 işlemcili Galaxy S20 Ultra modellerinde, özellikle kamera kullanımı, oyun oynama gibi yoğun işlemlerde aşırı ısınma ve buna bağlı performans düşüşü yaygın olarak rapor edilmiştir."}
+    ],
+    "kullanici_yorumlari": [
+      "Kamerası kağıt üzerinde çok iyi ama odaklama sorunları can sıkıyor.",
+      "Exynos işlemci yüzünden telefon çok ısınıyor ve bataryası çabuk bitiyor.",
+      "Ekranı devasa ve 120Hz çok akıcı, film izlemek için ideal.",
+      "100x zoom özelliği ilginç ama pratik kullanımda çok işe yaramıyor.",
+      "Bu kadar pahalı bir telefonda bu kadar sorun olması hayal kırıklığı."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S20 FE",
+    "slug": "samsung-galaxy-s20-fe",
+    "meta_title": "Samsung Galaxy S20 FE Onarım: Dokunmatik, Batarya ve Isınma Sorunları",
+    "meta_description": "Samsung Galaxy S20 FE için dokunmatik ekran sorunları, batarya değişimi, aşırı ısınma ve kamera arızaları. Yaygın kronik sorunlar, onarım seçenekleri ve çözüm önerileri.",
+    "h1_baslik": "Samsung Galaxy S20 FE Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S20 FE (Fan Edition), 2020'de S20 serisinin daha uygun fiyatlı bir alternatifi olarak sunuldu. 6.5 inç 120Hz Super AMOLED ekran, güçlü işlemci seçenekleri (Snapdragon 865 veya Exynos 990) ve renkli tasarım seçenekleriyle geldi. Ancak dokunmatik ekran sorunları ('ghost touch'), batarya tüketimi, ısınma ve bazı modellerde arka kapak açılması gibi kronik arızalarla da anıldı.",
+    "ozellikler": {
+      "ekran": "6.5 inç Super AMOLED, FHD+ (2400x1080), 120Hz",
+      "islemci": "Snapdragon 865 (5G/4G) / Exynos 990 (4G) (Bölgeye göre değişir)",
+      "ram": "6GB/8GB RAM",
+      "batarya": "4500 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.8, OIS), 8MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 32MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Dokunmatik ekran sorunları ('ghost touch', tepkisizlik).",
+      "Bataryanın hızlı tükenmesi ve şarj sorunları.",
+      "Aşırı ısınma (hem Snapdragon hem Exynos versiyonlarında raporlar mevcut).",
+      "Ekranda sarımsı renk tonu veya karıncalanma.",
+      "Kamera odaklama sorunları veya güncelleme sonrası kalite düşüşü.",
+      "Arka kapağın menteşe kısmından açılması veya gevşemesi.",
+      "Sanal yakınlık sensörünün (virtual proximity sensor) hatalı çalışması."
+    ],
+    "cozum_onerileri": [
+      "Dokunmatik ekran sorunları için Samsung yazılım güncellemeleri yayınladı. Sorun devam ederse ekran koruyucuyu çıkarıp deneyin veya servise başvurun.",
+      "Batarya ömrünü iyileştirmek için güç tasarrufu modlarını kullanın, ekran yenileme hızını 60Hz'e ayarlayın ve arka plan uygulama kullanımını kısıtlayın.",
+      "Isınma sorunları için cihazı güncel tutun, yoğun kullanımda (oyun, video) mola verin ve gereksiz uygulamaları kapatın.",
+      "Ekran renk sorunları için renk ayarlarını kontrol edin; donanımsal bir sorun olabilir, servise danışın.",
+      "Kamera sorunları için uygulamanın önbelleğini temizleyin, cihazı yeniden başlatın. Güncellemeleri takip edin."
+    ],
+    "sss": [
+      {"soru": "Galaxy S20 FE dokunmatik sorunu nasıl çözülür?", "cevap": "Samsung bu sorunu büyük ölçüde yazılım güncellemeleri ile çözmeye çalıştı. Cihazınızın en son yazılım sürümünde olduğundan emin olun. Ekran koruyucuyu çıkarmak veya dokunmatik hassasiyet ayarını artırmak da yardımcı olabilir."},
+      {"soru": "İkinci el Galaxy S20 FE alırken nelere dikkat etmeliyim?", "cevap": "Dokunmatik ekranın düzgün çalıştığından, batarya sağlığından, ısınma durumundan, kamera performansından ve arka kapağın sağlamlığından emin olunmalıdır. Snapdragon ve Exynos işlemci versiyonları arasındaki farkları araştırın. IMEI kaydı ve fatura kontrolü önemlidir."},
+      {"soru": "Galaxy S20 FE'nin Snapdragon ve Exynos versiyonları arasında büyük fark var mı?", "cevap": "Genellikle Snapdragon 865 versiyonu, Exynos 990 versiyonuna göre daha iyi performans, daha az ısınma ve daha iyi batarya ömrü sunar. Türkiye'de her iki versiyon da bulunabilmektedir, alırken kontrol etmek önemlidir."}
+    ],
+    "kullanici_yorumlari": [
+      "Dokunmatik ekran sorunları güncelleme ile biraz düzeldi ama hala mükemmel değil.",
+      "Bataryası günü çıkarıyor ama yoğun kullanımda ve 120Hz'de çabuk bitiyor.",
+      "Kamerası fiyatına göre çok iyi, özellikle ana kamera başarılı.",
+      "Telefon oyun oynarken veya şarj olurken biraz fazla ısınıyor.",
+      "Fiyat/performans olarak iyi bir seçenek ama bazı kronik sorunları var."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S21",
+    "slug": "samsung-galaxy-s21",
+    "meta_title": "Samsung Galaxy S21 Onarım: Isınma, Batarya ve Ekran Sorunları",
+    "meta_description": "Samsung Galaxy S21 için aşırı ısınma, batarya performans düşüşü, ekran sorunları (dokunmatik, yeşil çizgi) ve kamera arızaları. Kronik sorunlar, onarım seçenekleri ve çözüm önerileri.",
+    "h1_baslik": "Samsung Galaxy S21 Kronik Arızalar, Onarım ve Sorun Giderme Kılavuzu",
+    "cihaz_aciklama": "Galaxy S21, 2021'de S21 serisinin temel modeli olarak tanıtıldı. 6.2 inç 120Hz Dynamic AMOLED 2X ekran, yenilenmiş tasarım, Exynos 2100 (Türkiye) / Snapdragon 888 işlemci ve geliştirilmiş kamera özellikleriyle geldi. Plastik arka kapak kullanımı, Exynos modelinde aşırı ısınma, batarya performansı ve nadiren ekran sorunları (dokunmatik, yeşil çizgi) eleştiri konusu oldu.",
+    "ozellikler": {
+      "ekran": "6.2 inç Dynamic AMOLED 2X, FHD+ (2400x1080), 120Hz (Uyarlanabilir)",
+      "islemci": "Exynos 2100 (Türkiye) / Snapdragon 888",
+      "ram": "8GB RAM",
+      "batarya": "4000 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.8, OIS), 64MP Telefoto (f/2.0, OIS, 3x hibrit zoom), 12MP Ultra Geniş (f/2.2); Ön: 10MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Aşırı ısınma, özellikle kamera kullanımı, oyun oynama veya şarj sırasında (Exynos 2100).",
+      "Batarya performansında düşüş, beklenenden hızlı tükenme ve yavaş şarj.",
+      "Ekranda dokunmatik hassasiyet sorunları veya nadiren yeşil çizgi.",
+      "Kamera uygulamasında donma, 'kamera başarısız' hatası veya odaklama sorunları.",
+      "SIM kartın tanınmaması, şebeke sorunları veya güncelleme sonrası kendi kendine kapanma.",
+      "Arka kapağın (plastik) zamanla açılması veya gevşemesi."
+    ],
+    "cozum_onerileri": [
+      "Isınma sorunları için cihaz yazılımını güncel tutun, arka planda çalışan uygulamaları kısıtlayın, parlaklığı düşürün ve yoğun kullanımda (oyun, video kayıt) mola verin.",
+      "Batarya ömrünü iyileştirmek için güç tasarrufu modlarını kullanın, uyarlanabilir pil özelliğini aktif edin ve gereksiz uygulamaların arka plan aktivitesini sınırlayın.",
+      "Dokunmatik ekran sorunları için ekran koruyucuyu kontrol edin, dokunmatik hassasiyet ayarını artırın (Ayarlar > Ekran). Sorun devam ederse servise başvurun.",
+      "Kamera sorunları için kamera uygulamasının önbelleğini ve verilerini temizleyin, cihazı yeniden başlatın. Yazılım güncellemelerini kontrol edin.",
+      "SIM kart ve şebeke sorunları için SIM kartı çıkarıp yeniden takın, ağ ayarlarını sıfırlayın veya operatörünüzle iletişime geçin."
+    ],
+    "sss": [
+      {"soru": "Galaxy S21'in Exynos 2100 işlemcisi çok mu ısınıyor?", "cevap": "Evet, Exynos 2100 işlemcili Galaxy S21 modellerinde, özellikle yoğun kullanımda aşırı ısınma ve buna bağlı performans sorunları rapor edilmiştir. Bu durum batarya performansını da olumsuz etkileyebilir."},
+      {"soru": "İkinci el Galaxy S21 alırken nelere dikkat etmeliyim?", "cevap": "Öncelikle ısınma durumu, batarya sağlığı ve performansı, ekranın dokunmatik hassasiyeti ve olası yeşil çizgi sorunları, kamera fonksiyonları ve plastik arka kapağın durumu kontrol edilmelidir. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S21'in plastik arka kapağı sorun yaratıyor mu?", "cevap": "Bazı kullanıcılar Galaxy S21'in plastik (Glasstic) arka kapağının zamanla kenarlarından açılma veya gevşeme yapabildiğini rapor etmiştir. Bu durum cihazın premium hissiyatını azaltabilir."}
+    ],
+    "kullanici_yorumlari": [
+      "Kompakt boyutu ve ekranı güzel, 120Hz akıcı.",
+      "Exynos işlemci maalesef çok ısınıyor, özellikle kamera açıkken veya oyun oynarken.",
+      "Bataryası günü kurtarıyor ama yoğun kullanımda yetersiz kalabiliyor.",
+      "Kamerası çok başarılı, fotoğraf ve video kalitesi üst düzey.",
+      "Plastik arka kapak bu fiyat segmenti için hayal kırıklığı."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S21+",
+    "slug": "samsung-galaxy-s21-plus",
+    "meta_title": "Samsung Galaxy S21 Plus Onarım: Isınma, Batarya ve Video Sorunları",
+    "meta_description": "Samsung Galaxy S21 Plus için aşırı ısınma, batarya performans düşüşü, video oynatma/kayıt sorunları ve ekran arızaları. Kronik sorunlar, onarım seçenekleri ve çözüm önerileri.",
+    "h1_baslik": "Samsung Galaxy S21+ Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S21 Plus, 6.7 inç 120Hz Dynamic AMOLED 2X ekranı, Exynos 2100 (Türkiye) / Snapdragon 888 işlemcisi ve 4800 mAh bataryası ile 2021'de S21 ve S21 Ultra arasında konumlandı. Cam arka kapak ve daha büyük ekran sunsa da, serinin genel ısınma, batarya performansı ve video oynatma/kayıt sorunlarından etkilenebilir.",
+    "ozellikler": {
+      "ekran": "6.7 inç Dynamic AMOLED 2X, FHD+ (2400x1080), 120Hz (Uyarlanabilir)",
+      "islemci": "Exynos 2100 (Türkiye) / Snapdragon 888",
+      "ram": "8GB RAM",
+      "batarya": "4800 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.8, OIS), 64MP Telefoto (f/2.0, OIS, 3x hibrit zoom), 12MP Ultra Geniş (f/2.2); Ön: 10MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Aşırı ısınma ve buna bağlı kasma sorunları, özellikle Exynos 2100 işlemcili modellerde.",
+      "Batarya performansında düşüş, hızlı tükenme ve yavaş şarj sorunları.",
+      "Video kaydı veya oynatma sırasında donma, takılma veya ses kesilmesi.",
+      "Ekranda nadiren yeşil çizgi veya AMOLED yanığı (seri genelinde olası).",
+      "Şebeke sorunları, 'nem algılandı' hatası veya SIM kart okuma sorunları.",
+      "Yazılım güncellemeleri sonrası performans düşüşü veya hatalar."
+    ],
+    "cozum_onerileri": [
+      "Isınma ve kasma sorunları için cihaz yazılımını güncel tutun, arka planda çalışan uygulamaları optimize edin, parlaklığı düşürün ve yoğun kullanımda (oyun, video) mola verin.",
+      "Batarya ömrünü iyileştirmek için güç tasarrufu modlarını kullanın, uyarlanabilir pil özelliğini aktif edin ve ekran yenileme hızını 60Hz'e düşürün.",
+      "Video sorunları için galeri veya video oynatıcı uygulamasının önbelleğini temizleyin, cihazı yeniden başlatın. Sorun devam ederse yazılım güncellemesi bekleyin veya servise danışın.",
+      "Ekran sorunları genellikle donanımsaldır; yetkili servise başvurun. AMOLED yanığını önlemek için önlemler alın.",
+      "Şebeke ve SIM kart sorunları için ağ ayarlarını sıfırlayın, SIM kartı kontrol edin veya operatörünüzle görüşün. Nem uyarısı için portu kurulayın."
+    ],
+    "sss": [
+      {"soru": "Galaxy S21 Plus'ta video oynatırken neden donma oluyor?", "cevap": "Bu sorun yazılımsal bir hatadan kaynaklanabilir. Cihazı ve uygulamaları güncel tutmak, önbelleği temizlemek fayda sağlayabilir. Sorun devam ederse servise danışılmalıdır."},
+      {"soru": "İkinci el Galaxy S21 Plus alırken nelere dikkat etmeliyim?", "cevap": "Öncelikle ısınma durumu, batarya sağlığı, video oynatma ve kayıt performansı, ekranın genel durumu (çizgi, yanık) ve şebeke çekim gücü kontrol edilmelidir. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S21 Plus'ın Exynos 2100 işlemcisi S21 ile aynı ısınma sorunlarına sahip mi?", "cevap": "Evet, Galaxy S21 Plus modelindeki Exynos 2100 işlemcisi de S21 modelinde olduğu gibi özellikle yoğun kullanımda aşırı ısınma ve buna bağlı performans sorunları yaşatabilmektedir."}
+    ],
+    "kullanici_yorumlari": [
+      "Ekranı büyük ve canlı, 120Hz akıcılığı güzel.",
+      "Exynos işlemci maalesef ısınıyor ve bazen takılmalara neden oluyor.",
+      "Bataryası S21'e göre daha iyi ama yine de yoğun kullanımda günü zor çıkarıyor.",
+      "Kamera performansı iyi, fotoğraflar net.",
+      "Video çekerken veya izlerken bazen donmalar yaşanabiliyor."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S21 Ultra",
+    "slug": "samsung-galaxy-s21-ultra",
+    "meta_title": "Samsung Galaxy S21 Ultra Onarım: Isınma, Kamera ve Ekran Sorunları",
+    "meta_description": "Samsung Galaxy S21 Ultra için aşırı ısınma (özellikle Exynos), batarya performansı, kamera odak/kalite sorunları ve ekran (yeşil çizgi, yanık) arızaları. Kronik sorunlar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S21 Ultra Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S21 Ultra, 2021'in en üst düzey S serisi modeli olarak 6.8 inç 120Hz Dynamic AMOLED 2X ekran, S Pen desteği (ayrı satılır), 108MP ana kamera ve çift telefoto lens gibi özelliklerle geldi. Exynos 2100 (Türkiye) işlemcili modelde aşırı ısınma, batarya tüketimi, kamera odak sorunları ve ekran arızaları (yeşil çizgi, yanık) gibi kronik problemler rapor edildi.",
+    "ozellikler": {
+      "ekran": "6.8 inç Dynamic AMOLED 2X, QHD+ (3200x1440), 120Hz (Uyarlanabilir)",
+      "islemci": "Exynos 2100 (Türkiye) / Snapdragon 888",
+      "ram": "12GB/16GB RAM",
+      "batarya": "5000 mAh",
+      "kamera": "Arka: 108MP Geniş (f/1.8, OIS), 10MP Periskop Telefoto (f/4.9, OIS, 10x optik zoom), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 40MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Aşırı ısınma, özellikle kamera kullanımı ve yoğun uygulamalarda (Exynos 2100).",
+      "Batarya performansında düşüş, hızlı tükenme (özellikle kamera kullanımı).",
+      "Kamera odaklama sorunları, bulanık fotoğraflar veya kalite düşüşü.",
+      "Ekranda yeşil çizgi (özellikle güncelleme sonrası) veya AMOLED ekran yanığı.",
+      "Yazılım güncellemeleri sonrası dokunmatik ekran sorunları, donmalar veya sistem kararsızlıkları.",
+      "Şebeke çekim gücünde zayıflık veya bağlantı kopmaları."
+    ],
+    "cozum_onerileri": [
+      "Isınma sorunları için cihazı güncel tutun, arka planda çalışan uygulamaları kısıtlayın ve yoğun kullanımda mola verin.",
+      "Batarya ömrünü iyileştirmek için güç tasarrufu modlarını kullanın, uyarlanabilir pil özelliğini aktif edin ve ekran parlaklığını/yenileme hızını optimize edin.",
+      "Kamera sorunları için yazılım güncellemelerini kontrol edin, kamera uygulamasının önbelleğini temizleyin. Sorun devam ederse donanımsal olabilir.",
+      "Ekran sorunları (yeşil çizgi, yanık) genellikle donanımsaldır; yetkili servise başvurun. AMOLED yanığını önlemek için önlemler alın.",
+      "Yazılımsal kararsızlıklar ve dokunmatik sorunları için cihazı güvenli modda başlatın, önbelleği temizleyin veya son çare olarak fabrika ayarlarına sıfırlayın (verilerinizi yedekledikten sonra)."
+    ],
+    "sss": [
+      {"soru": "Galaxy S21 Ultra'nın kamerası neden bulanık çekiyor?", "cevap": "Bu durum, yazılımsal odaklama sorunlarından veya donanımsal bir arızadan kaynaklanabilir. Kamera uygulamasının güncel olduğundan emin olun ve önbelleğini temizleyin. Sorun devam ederse servise danışılmalıdır."},
+      {"soru": "İkinci el Galaxy S21 Ultra alırken nelere dikkat etmeliyim?", "cevap": "Ekranın yeşil çizgi veya AMOLED yanığı açısından kontrol edilmesi, ısınma durumu (özellikle Exynos modelinde), batarya sağlığı, kamera odaklama performansı ve S Pen (varsa) uyumluluğu kontrol edilmelidir. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S21 Ultra'da SD kart yuvası var mı?", "cevap": "Hayır, Galaxy S21 Ultra modelinde microSD kart yuvası bulunmamaktadır."}
+    ],
+    "kullanici_yorumlari": [
+      "Kamerası muhteşem, özellikle zoom yetenekleri çok iyi.",
+      "Exynos işlemcili modelde telefon çok ısınıyor, özellikle kamera kullanırken.",
+      "Bataryası yoğun kullanımda bile günü çıkarabiliyor.",
+      "Ekran kalitesi ve 120Hz yenileme hızı harika.",
+      "Güncelleme sonrası ekranda yeşil çizgi çıktı veya odaklama sorunları başladı diyenler var."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S21 FE",
+    "slug": "samsung-galaxy-s21-fe",
+    "meta_title": "Samsung Galaxy S21 FE Onarım: Ekran, Batarya ve Isınma Sorunları",
+    "meta_description": "Samsung Galaxy S21 FE için ekran sorunları (yeşil çizgi, dokunmatik), batarya performans düşüşü, aşırı ısınma (özellikle Exynos) ve kamera kalitesi sorunları. Kronik arızalar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S21 FE Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S21 FE (Fan Edition), 2022 başında S21 serisinin daha uygun fiyatlı bir versiyonu olarak sunuldu. 6.4 inç 120Hz Dynamic AMOLED 2X ekran, Exynos 2100 (Türkiye) / Snapdragon 888 işlemci seçenekleri ve S21'e benzer kamera kurulumuyla geldi. Ancak batarya tüketimi, ısınma, güncelleme sonrası ekran (yeşil çizgi) ve kamera kalite sorunları gibi kronik arızalar rapor edilmiştir.",
+    "ozellikler": {
+      "ekran": "6.4 inç Dynamic AMOLED 2X, FHD+ (2340x1080), 120Hz",
+      "islemci": "Exynos 2100 (Türkiye) / Snapdragon 888",
+      "ram": "6GB/8GB RAM",
+      "batarya": "4500 mAh",
+      "kamera": "Arka: 12MP Geniş (f/1.8, OIS), 12MP Ultra Geniş (f/2.2), 8MP Telefoto (f/2.4, OIS, 3x optik zoom); Ön: 32MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Bataryanın hızlı tükenmesi ve şarj sorunları.",
+      "Aşırı ısınma, özellikle Exynos 2100 işlemcili modellerde.",
+      "Ekranda yeşil çizgi (özellikle güncelleme sonrası) veya dokunmatik hassasiyet sorunları.",
+      "Kamera kalitesinde düşüş (özellikle güncelleme sonrası), odaklama sorunları.",
+      "Yazılım güncellemeleri sonrası genel sistem kararsızlıkları, donmalar veya hatalar.",
+      "Şebeke sorunları veya bağlantı kopmaları."
+    ],
+    "cozum_onerileri": [
+      "Batarya ömrünü iyileştirmek için güç tasarrufu modlarını kullanın, ekran yenileme hızını 60Hz'e ayarlayın ve arka plan uygulama kullanımını kısıtlayın.",
+      "Isınma sorunları için cihazı güncel tutun, yoğun kullanımda (oyun, video) mola verin ve gereksiz uygulamaları kapatın.",
+      "Ekran sorunları (yeşil çizgi) genellikle donanımsaldır; yetkili servise başvurun. Dokunmatik sorunları için ekran koruyucuyu kontrol edin ve dokunmatik hassasiyet ayarını artırın.",
+      "Kamera sorunları için kamera uygulamasının önbelleğini temizleyin, cihazı yeniden başlatın ve yazılım güncellemelerini takip edin.",
+      "Yazılımsal kararsızlıklar için cihazı güvenli modda başlatın, önbelleği temizleyin veya son çare olarak fabrika ayarlarına sıfırlayın (verilerinizi yedekledikten sonra)."
+    ],
+    "sss": [
+      {"soru": "Galaxy S21 FE bataryası neden çabuk bitiyor?", "cevap": "Exynos 2100 işlemcinin verimlilik sorunları ve 120Hz ekranın yüksek güç tüketimi bataryanın hızlı tükenmesine neden olabilir. Güç tasarrufu modları ve optimizasyon ayarları kullanmak faydalı olabilir."},
+      {"soru": "İkinci el Galaxy S21 FE alırken nelere dikkat etmeliyim?", "cevap": "Ekranın yeşil çizgi veya dokunmatik sorunları açısından kontrol edilmesi, ısınma durumu (özellikle Exynos modelinde), batarya sağlığı, kamera performansı ve genel donanım fonksiyonları incelenmelidir. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S21 FE'de kulaklık girişi var mı?", "cevap": "Hayır, Galaxy S21 FE modelinde 3.5mm kulaklık girişi bulunmamaktadır. Type-C üzerinden veya kablosuz kulaklık kullanılması gerekir."}
+    ],
+    "kullanici_yorumlari": [
+      "Exynos işlemcili modelde batarya çabuk bitiyor ve telefon ısınıyor.",
+      "Kamerası genel olarak iyi ama bazen güncelleme sonrası kalite düşebiliyor.",
+      "Ekranı canlı ve 120Hz akıcılığı güzel.",
+      "Güncelleme sonrası ekranda yeşil çizgi çıktı diyen kullanıcılar var.",
+      "Fiyatına göre iyi özellikler sunuyor ama bazı kronik sorunları can sıkıcı olabiliyor."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S22",
+    "slug": "samsung-galaxy-s22",
+    "meta_title": "Samsung Galaxy S22 Onarım: Batarya Şişmesi, Isınma ve Anakart Sorunları",
+    "meta_description": "Samsung Galaxy S22 için batarya şişmesi, hızlı tükenme, aşırı ısınma (Exynos), anakart arızası (güncelleme sonrası) ve ekran sorunları. Kronik arızalar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S22 Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S22, 2022'de S22 serisinin kompakt modeli olarak tanıtıldı. 6.1 inç 120Hz Dynamic AMOLED 2X ekran, Snapdragon 8 Gen 1 (bazı bölgelerde Exynos 2200) işlemci ve geliştirilmiş kamera sistemiyle geldi. Ancak batarya şişmesi, hızlı tükenme, aşırı ısınma ve özellikle Exynos modelinde güncelleme sonrası anakart arızası gibi ciddi kronik sorunlar rapor edildi.",
+    "ozellikler": {
+      "ekran": "6.1 inç Dynamic AMOLED 2X, FHD+ (2340x1080), 120Hz (Uyarlanabilir)",
+      "islemci": "Snapdragon 8 Gen 1 / Exynos 2200 (Bölgeye göre değişir)",
+      "ram": "8GB RAM",
+      "batarya": "3700 mAh",
+      "kamera": "Arka: 50MP Geniş (f/1.8, OIS), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 10MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Bataryanın şişmesi ve arka kapağın açılması.",
+      "Bataryanın çok hızlı tükenmesi ve gün içinde birden fazla şarj gerektirmesi.",
+      "Aşırı ısınma, özellikle Exynos 2200 işlemcili modellerde ve yoğun kullanımda.",
+      "Yazılım güncellemeleri (özellikle One UI) sonrası anakart arızası, cihazın açılmaması veya sürekli yeniden başlaması (bootloop).",
+      "Ekran sorunları (titreme, donma, tepkisizlik), özellikle güncellemeler sonrası.",
+      "Hoparlörden cızırtılı ses gelmesi veya ses kalitesinde düşüş.",
+      "Şebeke sorunları, sinyal zayıflığı veya kopmalar."
+    ],
+    "cozum_onerileri": [
+      "Batarya şişmesi durumunda derhal cihazı kullanmayı bırakın ve yetkili servise başvurun; bu durum tehlikelidir.",
+      "Batarya ömrünü iyileştirmek için güç tasarrufu modlarını kullanın, ekran parlaklığını ve yenileme hızını düşürün, arka plan uygulamalarını kısıtlayın.",
+      "Isınma sorunları için cihazı güncel tutun, yoğun kullanımda mola verin, gereksiz uygulamaları kapatın ve parlaklığı düşürün.",
+      "Anakart arızası veya bootloop durumunda yetkili servise başvurun; yazılım kaynaklıysa fabrika ayarlarına dönmek veya yazılımı yeniden yüklemek gerekebilir (veri kaybı riski vardır).",
+      "Ekran ve hoparlör sorunları için cihazı yeniden başlatın, güncellemeleri kontrol edin. Sorun devam ederse servise danışın."
+    ],
+    "sss": [
+      {"soru": "Galaxy S22 bataryam şişti, ne yapmalıyım?", "cevap": "Batarya şişmesi ciddi bir güvenlik riskidir. Cihazı hemen şarjdan çekin, kullanmayı bırakın ve derhal yetkili bir servise götürün. Kendi başınıza müdahale etmeye çalışmayın."},
+      {"soru": "İkinci el Galaxy S22 alırken nelere dikkat etmeliyim?", "cevap": "Batarya sağlığı ve şişme olup olmadığı, ısınma durumu (özellikle Exynos modeliyse), ekran sorunları, anakart arızası geçmişi (mümkünse) ve genel donanım performansı kontrol edilmelidir. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S22'deki Exynos 2200 işlemcisi sorunlu mu?", "cevap": "Exynos 2200 işlemcili Galaxy S22 modellerinde, Snapdragon versiyonlarına kıyasla daha fazla ısınma, daha düşük batarya performansı ve bazı durumlarda güncelleme sonrası anakart arızası gibi sorunlar rapor edilmiştir."}
+    ],
+    "kullanici_yorumlari": [
+      "Bataryası kesinlikle çok kötü, günü çıkarmak imkansız.",
+      "Exynos işlemcili model çok ısınıyor, özellikle oyunlarda ve kamera kullanımında.",
+      "Kompakt boyutu ve ekran kalitesi güzel.",
+      "Güncelleme sonrası telefonum açılmadı, anakart arızası dendi.",
+      "Bataryası şişti ve arka kapak açıldı."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S22+",
+    "slug": "samsung-galaxy-s22-plus",
+    "meta_title": "Samsung Galaxy S22 Plus Onarım: Batarya, Isınma ve Donma Sorunları",
+    "meta_description": "Samsung Galaxy S22 Plus için batarya performans düşüşü, aşırı ısınma, donma ve yeniden başlatma sorunları. Kronik arızalar, onarım seçenekleri ve çözüm önerileri.",
+    "h1_baslik": "Samsung Galaxy S22+ Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S22 Plus, 2022'de S22 ve S22 Ultra arasında konumlanan modeldi. 6.6 inç 120Hz Dynamic AMOLED 2X ekran, Snapdragon 8 Gen 1 (bazı bölgelerde Exynos 2200) işlemci ve 4500 mAh batarya sundu. Ancak, serinin genel sorunları olan batarya tüketimi, aşırı ısınma ve yazılımsal donmalar bu modelde de kullanıcıları etkileyebilir.",
+    "ozellikler": {
+      "ekran": "6.6 inç Dynamic AMOLED 2X, FHD+ (2340x1080), 120Hz (Uyarlanabilir)",
+      "islemci": "Snapdragon 8 Gen 1 / Exynos 2200 (Bölgeye göre değişir)",
+      "ram": "8GB RAM",
+      "batarya": "4500 mAh",
+      "kamera": "Arka: 50MP Geniş (f/1.8, OIS), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 10MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Bataryanın hızlı tükenmesi ve şarj sorunları.",
+      "Aşırı ısınma, özellikle Exynos 2200 işlemcili modellerde ve yoğun kullanımda.",
+      "Yazılım güncellemeleri sonrası donma, takılma ve rastgele yeniden başlatma sorunları.",
+      "Hoparlörden cızırtılı ses gelmesi.",
+      "Ekran sorunları (yazılımsal olasılığı, S22 serisi genelinde)."
+    ],
+    "cozum_onerileri": [
+      "Batarya ömrünü iyileştirmek için güç tasarrufu modlarını kullanın, ekran parlaklığını ve yenileme hızını düşürün, arka plan uygulamalarını kısıtlayın.",
+      "Isınma sorunları için cihazı güncel tutun, yoğun kullanımda mola verin, gereksiz uygulamaları kapatın ve parlaklığı düşürün.",
+      "Donma ve yeniden başlatma sorunları için cihazı güvenli modda başlatarak sorunun kaynağını tespit etmeye çalışın, önbelleği temizleyin veya son çare olarak fabrika ayarlarına sıfırlayın (verilerinizi yedekledikten sonra).",
+      "Hoparlör sorunları için cihazı yeniden başlatın, ses ayarlarını kontrol edin. Sorun devam ederse servise danışın.",
+      "Genel yazılımsal sorunlar için en son güncellemeleri yükleyin ve gerekirse yetkili servisten destek alın."
+    ],
+    "sss": [
+      {"soru": "Galaxy S22 Plus neden çok ısınıyor?", "cevap": "Snapdragon 8 Gen 1 ve Exynos 2200 işlemcilerinin her ikisi de termal yönetim konusunda eleştirilmiştir. Özellikle Exynos işlemcili modellerde bu sorun daha belirgin olabilir."},
+      {"soru": "İkinci el Galaxy S22 Plus alırken nelere dikkat etmeliyim?", "cevap": "Batarya sağlığı ve performansı, ısınma durumu (özellikle Exynos modeliyse), ekran sorunları, donma veya yeniden başlatma geçmişi ve hoparlör kalitesi kontrol edilmelidir. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S22 Plus'ta sık sık donma yaşıyorum, ne yapmalıyım?", "cevap": "Öncelikle cihazınızı yeniden başlatmayı deneyin. Sorun devam ederse, son yüklediğiniz uygulamaları kontrol edin veya cihazı güvenli modda başlatarak sorunun bir uygulamadan kaynaklanıp kaynaklanmadığını test edin. Önbelleği temizlemek veya fabrika ayarlarına sıfırlamak da çözüm olabilir, ancak verilerinizi yedeklemeyi unutmayın."}
+    ],
+    "kullanici_yorumlari": [
+      "Ekranı büyük ve canlı, 120Hz akıcı.",
+      "Bataryası günü çıkarıyor ama Exynos modeli biraz daha fazla ısınıyor ve tüketiyor.",
+      "Kamerası çok iyi, fotoğraflar net ve detaylı.",
+      "Bazen oyunlarda veya yoğun kullanımda donmalar yaşanabiliyor.",
+      "Hoparlörden bazen cızırtılı ses geliyor."
+    ]
+  },
+  {
+    "model": "Samsung Galaxy S22 Ultra",
+    "slug": "samsung-galaxy-s22-ultra",
+    "meta_title": "Samsung Galaxy S22 Ultra Onarım: Anakart, Ekran ve Şebeke Sorunları",
+    "meta_description": "Samsung Galaxy S22 Ultra için anakart arızası (bootloop, güncelleme sonrası), ekranda yeşil çizgi/titreme, şebeke/anten sorunları, aşırı ısınma (Exynos) ve batarya problemleri. Kronik arızalar ve onarım çözümleri.",
+    "h1_baslik": "Samsung Galaxy S22 Ultra Kronik Arızalar, Onarım ve Sorun Giderme",
+    "cihaz_aciklama": "Galaxy S22 Ultra, 2022'nin en üst düzey S serisi modeli olarak Note serisinin S Pen entegrasyonunu devraldı. 6.8 inç 120Hz Dynamic AMOLED 2X ekran, Snapdragon 8 Gen 1 (bazı bölgelerde Exynos 2200) işlemci ve gelişmiş kamera sistemiyle geldi. Ancak, özellikle Exynos modelinde güncelleme sonrası anakart arızası (bootloop), ekranda yeşil çizgi/titreme, şebeke/anten sorunları ve aşırı ısınma gibi ciddi kronik sorunlar rapor edildi.",
+    "ozellikler": {
+      "ekran": "6.8 inç Dynamic AMOLED 2X, Quad HD+ (3088x1440), 120Hz (Uyarlanabilir)",
+      "islemci": "Snapdragon 8 Gen 1 / Exynos 2200 (Bölgeye göre değişir)",
+      "ram": "8GB/12GB RAM",
+      "batarya": "5000 mAh",
+      "kamera": "Arka: 108MP Geniş (f/1.8, OIS), 10MP Periskop Telefoto (f/4.9, OIS, 10x optik zoom), 10MP Telefoto (f/2.4, OIS, 3x optik zoom), 12MP Ultra Geniş (f/2.2); Ön: 40MP (f/2.2)",
+      "dayaniklilik": "IP68 Suya ve Toza Dayanıklılık"
+    },
+    "yaygin_arizalar": [
+      "Yazılım güncellemeleri (özellikle One UI) sonrası anakart arızası, cihazın açılmaması, sürekli yeniden başlaması (bootloop).",
+      "Ekranda yeşil çizgi, ekran titremesi veya tepkisizlik sorunları.",
+      "Şebeke sorunları, 'acil durum çağrıları sadece' uyarısı, Wi-Fi ve mobil veri bağlantı kopmaları (anten sorunu).",
+      "Aşırı ısınma, özellikle Exynos 2200 işlemcili modellerde ve yoğun kullanımda (kamera, oyun).",
+      "Bataryanın hızlı tükenmesi ve şarj sorunları.",
+      "S Pen bağlantı sorunları veya düzgün çalışmaması.",
+      "Kamera odaklama sorunları veya kalite düşüşü."
+    ],
+    "cozum_onerileri": [
+      "Anakart arızası veya bootloop durumunda derhal yetkili servise başvurun; bu genellikle donanımsal bir sorundur ve parça değişimi gerektirebilir.",
+      "Ekran sorunları (yeşil çizgi, titreme) için cihazı yeniden başlatın, güncellemeleri kontrol edin. Sorun devam ederse donanımsal olabilir, servise danışın.",
+      "Şebeke ve bağlantı sorunları için ağ ayarlarını sıfırlayın, SIM kartı kontrol edin, uçak modunu açıp kapatın. Antenle ilgili donanımsal bir sorun olabilir, servis gerekebilir.",
+      "Isınma sorunları için cihazı güncel tutun, yoğun kullanımda mola verin, gereksiz uygulamaları kapatın ve parlaklığı düşürün.",
+      "Batarya ve S Pen sorunları için yazılım güncellemelerini kontrol edin, ayarları gözden geçirin. Sorun devam ederse servise başvurun."
+    ],
+    "sss": [
+      {"soru": "Galaxy S22 Ultra'm güncellemeden sonra açılmıyor, ne yapmalıyım?", "cevap": "Bu durum, S22 Ultra'nın Exynos işlemcili modellerinde rapor edilen kronik bir anakart arızası olabilir. Cihazınız garanti kapsamında olsun veya olmasın, derhal yetkili bir Samsung servisine başvurmanız en doğrusu olacaktır. Bu durum genellikle cihazın garanti süresi dolduktan sonra ortaya çıkmaktadır."},
+      {"soru": "İkinci el Galaxy S22 Ultra alırken nelere özellikle dikkat etmeliyim?", "cevap": "Anakart arızası geçmişi (mümkünse öğrenin), ekranın yeşil çizgi veya titreme açısından kontrolü, şebeke bağlantı performansı, ısınma durumu (özellikle Exynos modeliyse), batarya sağlığı ve S Pen fonksiyonları dikkatlice incelenmelidir. IMEI kaydı ve fatura önemlidir."},
+      {"soru": "Galaxy S22 Ultra'daki şebeke sorunları nasıl çözülür?", "cevap": "Bazı S22 Ultra modellerinde kronik şebeke ve anten sorunları rapor edilmiştir. Yazılımsal çözümler (ağ ayarlarını sıfırlama, SIM kart değişimi) işe yaramazsa, flex anten veya anakartla ilgili donanımsal bir sorun olabilir ve servis müdahalesi gerektirir."}
+    ],
+    "kullanici_yorumlari": [
+      "Kamerası ve S Pen özellikleri harika ama kronik sorunları çok fazla.",
+      "Güncelleme sonrası telefonum çöktü, anakart değişimi gerekti.",
+      "Exynos işlemci çok ısınıyor ve şebeke sürekli kopuyor.",
+      "Bu kadar pahalı bir cihazda bu kadar ciddi sorunlar olması kabul edilemez.",
+      "Ekranımda yeşil çizgi belirdi, servis ücretli değişim istedi."
+    ]
+  }
+]
